@@ -2,21 +2,20 @@ package com.africanjesus.fortnitepal.model;
 
 import javax.persistence.Embeddable;
 import java.util.ArrayList;
-import java.util.Map;
 
 @Embeddable
-public class style {
+public class Style {
 
     private String styleName;
 
-    private ArrayList<challenge> challenges;
+    private ArrayList<Challenge> Challenges;
 
-    public style() {
+    public Style() {
     }
 
-    public style(String styleName, ArrayList<challenge> challenges) {
+    public Style(String styleName, ArrayList<Challenge> Challenges) {
         this.styleName = styleName;
-        this.challenges = challenges;
+        this.Challenges = Challenges;
     }
 
     public String getStyleName() {
@@ -27,19 +26,19 @@ public class style {
         this.styleName = styleName;
     }
 
-    public ArrayList<challenge> getChallenges() {
-        return challenges;
+    public ArrayList<Challenge> getChallenges() {
+        return Challenges;
     }
 
-    public void setChallenges(ArrayList<challenge> challenges) {
-        this.challenges = challenges;
+    public void setChallenges(ArrayList<Challenge> Challenges) {
+        this.Challenges = Challenges;
     }
 
     @Override
     public String toString() {
-        return "style{" +
+        return "Style{" +
                 "styleName='" + styleName + '\'' +
-                ", challenges=" + challenges +
+                ", Challenges=" + Challenges +
                 '}';
     }
 }

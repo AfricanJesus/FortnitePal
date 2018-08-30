@@ -3,7 +3,7 @@ package com.africanjesus.fortnitepal.model;
 import javax.persistence.Embeddable;
 
 @Embeddable
-public class challenge {
+public class Challenge {
 
     private String objective;
 
@@ -11,10 +11,10 @@ public class challenge {
 
     private String rewardImage;
 
-    public challenge() {
+    public Challenge() {
     }
 
-    public challenge(String objective, String reward, String rewardImage) {
+    public Challenge(String objective, String reward, String rewardImage) {
         this.objective = objective;
         this.reward = reward;
         this.rewardImage = rewardImage;
@@ -46,7 +46,7 @@ public class challenge {
 
     @Override
     public String toString() {
-        return "challenge{" +
+        return "Challenge{" +
                 "objective='" + objective + '\'' +
                 ", reward='" + reward + '\'' +
                 ", rewardImage='" + rewardImage + '\'' +
