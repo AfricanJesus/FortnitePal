@@ -29,7 +29,7 @@ public class ItemDataLoader implements CommandLineRunner {
         logger.info("Loading Item Data ");
         String path = "/images/";
         //static/images/test.png
-        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", null, null, null, 2000, 0, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
+        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", 0, 0, null,null, 2000, 0, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
         itemServiceImpl.save(item1);
     }
 

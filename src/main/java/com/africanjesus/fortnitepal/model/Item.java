@@ -25,15 +25,7 @@ public class Item {
     @Column(name = "item_name")
     private String image;
 
-    private int season;
-
-    private int tier;
-
-    private String promo;
-
-    private int vbuckPrice;
-
-    private double price;
+    private Obtained obtained;
 
     @Column(name = "item_set")
     private String set;
@@ -46,16 +38,12 @@ public class Item {
     public Item() {
     }
 
-    public Item(String name, String desc, RarityType rarityType, String image, int season, int tier, String promo, int vbuckPrice, double price, String set, ItemType itemType, ReleaseStatus status) {
+    public Item(String name, String desc, RarityType rarityType, String image, Obtained obtained, String set, ItemType itemType, ReleaseStatus status) {
         this.name = name;
         this.desc = desc;
         this.rarityType = rarityType;
         this.image = image;
-        this.season = season;
-        this.tier = tier;
-        this.promo = promo;
-        this.vbuckPrice = vbuckPrice;
-        this.price = price;
+        this.obtained = obtained;
         this.set = set;
         this.itemType = itemType;
         this.status = status;
@@ -101,44 +89,12 @@ public class Item {
         this.image = image;
     }
 
-    public int getSeason() {
-        return season;
+    public Obtained getObtained() {
+        return obtained;
     }
 
-    public void setSeason(int season) {
-        this.season = season;
-    }
-
-    public int getTier() {
-        return tier;
-    }
-
-    public void setTier(int tier) {
-        this.tier = tier;
-    }
-
-    public String getPromo() {
-        return promo;
-    }
-
-    public void setPromo(String promo) {
-        this.promo = promo;
-    }
-
-    public int getVbuckPrice() {
-        return vbuckPrice;
-    }
-
-    public void setVbuckPrice(int vbuckPrice) {
-        this.vbuckPrice = vbuckPrice;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
+    public void setObtained(Obtained obtained) {
+        this.obtained = obtained;
     }
 
     public String getSet() {
@@ -173,11 +129,7 @@ public class Item {
                 ", desc='" + desc + '\'' +
                 ", rarityType=" + rarityType +
                 ", image='" + image + '\'' +
-                ", season='" + season + '\'' +
-                ", tier='" + tier + '\'' +
-                ", promo='" + promo + '\'' +
-                ", vbuckPrice=" + vbuckPrice +
-                ", price=" + price +
+                ", obtained=" + obtained +
                 ", set='" + set + '\'' +
                 ", itemType=" + itemType +
                 ", status=" + status +
