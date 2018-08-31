@@ -27,7 +27,7 @@ public class Item {
 
     private Obtained obtained;
 
-    private Style style;
+    private Style unlockableStyle;
 
     @Column(name = "item_set")
     private String set;
@@ -40,13 +40,13 @@ public class Item {
     public Item() {
     }
 
-    public Item(String name, String desc, RarityType rarityType, String image, Obtained obtained, Style style, String set, ItemType itemType, ReleaseStatus status) {
+    public Item(String name, String desc, RarityType rarityType, String image, Obtained obtained, Style unlockableStyle, String set, ItemType itemType, ReleaseStatus status) {
         this.name = name;
         this.desc = desc;
         this.rarityType = rarityType;
         this.image = image;
         this.obtained = obtained;
-        this.style = style;
+        this.unlockableStyle = unlockableStyle;
         this.set = set;
         this.itemType = itemType;
         this.status = status;
@@ -100,12 +100,12 @@ public class Item {
         this.obtained = obtained;
     }
 
-    public Style getStyle() {
-        return style;
+    public Style getUnlockableStyle() {
+        return unlockableStyle;
     }
 
-    public void setStyle(Style style) {
-        this.style = style;
+    public void setUnlockableStyle(Style unlockableStyle) {
+        this.unlockableStyle = unlockableStyle;
     }
 
     public String getSet() {
@@ -141,7 +141,7 @@ public class Item {
                 ", rarityType=" + rarityType +
                 ", image='" + image + '\'' +
                 ", obtained=" + obtained +
-                ", style=" + style +
+                ", unlockableStyle=" + unlockableStyle +
                 ", set='" + set + '\'' +
                 ", itemType=" + itemType +
                 ", status=" + status +
