@@ -17,19 +17,19 @@ public class Obtained {
 
     private double price;
 
-    private String challenege;
+    private String challenge;
 
     public Obtained() {
     }
 
-    public Obtained(int season, int tier, String promo, String includedIn, int vbuckPrice, double price, String challenege) {
+    public Obtained(int season, int tier, String promo, String includedIn, int vbuckPrice, double price, String challenge) {
         this.season = season;
         this.tier = tier;
         this.promo = promo;
         this.includedIn = includedIn;
         this.vbuckPrice = vbuckPrice;
         this.price = price;
-        this.challenege = challenege;
+        this.challenge = challenge;
     }
 
     public int getSeason() {
@@ -80,12 +80,12 @@ public class Obtained {
         this.price = price;
     }
 
-    public String getChallenege() {
-        return challenege;
+    public String getChallenge() {
+        return challenge;
     }
 
-    public void setChallenege(String challenege) {
-        this.challenege = challenege;
+    public void setChallenege(String challenge) {
+        this.challenge = challenge;
     }
 
     @Override
@@ -97,7 +97,7 @@ public class Obtained {
                 ", includedIn='" + includedIn + '\'' +
                 ", vbuckPrice=" + vbuckPrice +
                 ", price=" + price +
-                ", challenege='" + challenege + '\'' +
+                ", challenege='" + challenge + '\'' +
                 '}';
     }
 }
