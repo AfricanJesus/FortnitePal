@@ -3,8 +3,10 @@ package com.africanjesus.fortnitepal.repositories;
 import com.africanjesus.fortnitepal.ItemType;
 import com.africanjesus.fortnitepal.RarityType;
 import com.africanjesus.fortnitepal.ReleaseStatus;
+import com.africanjesus.fortnitepal.model.Challenge;
 import com.africanjesus.fortnitepal.model.Item;
 import com.africanjesus.fortnitepal.model.Obtained;
+import com.africanjesus.fortnitepal.model.Style;
 import com.africanjesus.fortnitepal.services.ItemServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -31,7 +33,12 @@ public class ItemDataLoader implements CommandLineRunner {
         String path = "/images/";
         //static/images/test.png
         Obtained obtained = new Obtained(0,0,null,null,0,0,null);
-        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", obtained, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
+        Style style = new Style();
+        style.setStyleName("Carbide");
+        Challenge challenge = new Challenge("Reach level 10", "Chest Armor", "image");
+        style.getChallenges().add(challenge);
+
+        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", obtained, style, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
         itemServiceImpl.save(item1);
     }
 
