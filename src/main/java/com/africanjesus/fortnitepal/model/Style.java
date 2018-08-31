@@ -1,14 +1,20 @@
 package com.africanjesus.fortnitepal.model;
 
+import javax.persistence.CollectionTable;
+import javax.persistence.ElementCollection;
 import javax.persistence.Embeddable;
+import javax.persistence.JoinColumn;
 import java.util.ArrayList;
+import java.util.List;
 
 @Embeddable
 public class Style {
 
     private String styleName;
 
-    private ArrayList<Challenge> Challenges;
+    @ElementCollection
+    @CollectionTable(name = "challenges", joinColumns = @JoinColumn(name = "items_id"))
+    private List<Challenge> Challenges = new ArrayList<>();
 
     public Style() {
     }
@@ -26,7 +32,7 @@ public class Style {
         this.styleName = styleName;
     }
 
-    public ArrayList<Challenge> getChallenges() {
+    public List<Challenge> getChallenges() {
         return Challenges;
     }
 
