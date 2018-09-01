@@ -13,8 +13,7 @@ public class Style {
 
     private String styleItemImage;
 
-    public Style(String styleName) {
-        this.styleName = styleName;
+    public Style() {
     }
 
     public Style(String styleName, String styleItem, String styleItemImage) {

@@ -20,17 +20,13 @@ public class StyleSet {
     @CollectionTable(name = "stages", joinColumns = @JoinColumn(name = "style_sets_id"))
     private List<Style> stages = new ArrayList();
 
-    @ElementCollection
-    @CollectionTable(name = "colors", joinColumns = @JoinColumn(name = "style_sets_id"))
-    private Map<String, String> colors = new HashMap();
 
     public StyleSet() {
     }
 
-    public StyleSet(String styleSetName, List<Style> stages, Map<String, String> colors) {
+    public StyleSet(String styleSetName, List<Style> stages) {
         this.styleSetName = styleSetName;
         this.stages = stages;
-        this.colors = colors;
     }
 
     public long getId() {
@@ -57,21 +53,12 @@ public class StyleSet {
         this.stages = stages;
     }
 
-    public Map<String, String> getColors() {
-        return colors;
-    }
-
-    public void setColors(Map<String, String> colors) {
-        this.colors = colors;
-    }
-
     @Override
     public String toString() {
         return "StyleSet{" +
                 "id=" + id +
                 ", styleSetName='" + styleSetName + '\'' +
                 ", stages=" + stages +
-                ", colors=" + colors +
                 '}';
     }
 }
