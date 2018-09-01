@@ -33,13 +33,11 @@ public class ItemDataLoader implements CommandLineRunner {
         String path = "/images/";
         //static/images/test.png
         Obtained obtained = new Obtained(0,0,null,null,0,0,null);
-        Style style = new Style();
-        style.setStyleName("Carbide");
-        Challenge challenge = new Challenge("Reach level 10", "Chest Armor", "image");
-        style.getChallenges().add(challenge);
 
-        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", obtained, style, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
+        Item item1 = new Item("Raptor","Royale Air Force Test Pilot", RarityType.LEGENDARY, path + "test.png", obtained, null, null, ItemType.OUTFIT, ReleaseStatus.RELEASED);
         itemServiceImpl.save(item1);
+
+
     }
 
 }

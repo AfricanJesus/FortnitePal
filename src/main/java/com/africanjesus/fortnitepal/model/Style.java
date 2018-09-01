@@ -1,27 +1,26 @@
 package com.africanjesus.fortnitepal.model;
 
-import javax.persistence.CollectionTable;
-import javax.persistence.ElementCollection;
+
 import javax.persistence.Embeddable;
-import javax.persistence.JoinColumn;
-import java.util.ArrayList;
-import java.util.List;
 
 @Embeddable
 public class Style {
 
+
     private String styleName;
 
-    @ElementCollection
-    @CollectionTable(name = "challenges", joinColumns = @JoinColumn(name = "items_id"))
-    private List<Challenge> Challenges = new ArrayList<>();
+    private String styleItem;
 
-    public Style() {
+    private String styleItemImage;
+
+    public Style(String styleName) {
+        this.styleName = styleName;
     }
 
-    public Style(String styleName, ArrayList<Challenge> Challenges) {
+    public Style(String styleName, String styleItem, String styleItemImage) {
         this.styleName = styleName;
-        this.Challenges = Challenges;
+        this.styleItem = styleItem;
+        this.styleItemImage = styleItemImage;
     }
 
     public String getStyleName() {
@@ -32,19 +31,28 @@ public class Style {
         this.styleName = styleName;
     }
 
-    public List<Challenge> getChallenges() {
-        return Challenges;
+    public String getStyleItem() {
+        return styleItem;
     }
 
-    public void setChallenges(ArrayList<Challenge> Challenges) {
-        this.Challenges = Challenges;
+    public void setStyleItem(String styleItem) {
+        this.styleItem = styleItem;
+    }
+
+    public String getStyleItemImage() {
+        return styleItemImage;
+    }
+
+    public void setStyleItemImage(String styleItemImage) {
+        this.styleItemImage = styleItemImage;
     }
 
     @Override
     public String toString() {
         return "Style{" +
                 "styleName='" + styleName + '\'' +
-                ", Challenges=" + Challenges +
+                ", styleItem='" + styleItem + '\'' +
+                ", styleItemImage='" + styleItemImage + '\'' +
                 '}';
     }
 }
