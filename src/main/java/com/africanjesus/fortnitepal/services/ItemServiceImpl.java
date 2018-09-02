@@ -8,16 +8,14 @@ import org.springframework.stereotype.Service;
 @Service
 public class ItemServiceImpl implements ItemService {
 
-
     private ItemRepository itemRepository;
+
+    public ItemServiceImpl(){
+    }
 
     @Autowired
     private ItemServiceImpl(ItemRepository itemRepository){
         this.itemRepository = itemRepository;
-    }
-
-    public ItemServiceImpl(){
-
     }
 
     @Override
