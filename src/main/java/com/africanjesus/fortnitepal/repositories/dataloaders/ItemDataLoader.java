@@ -1,12 +1,10 @@
-package com.africanjesus.fortnitepal.repositories;
+package com.africanjesus.fortnitepal.repositories.dataloaders;
 
 import com.africanjesus.fortnitepal.ItemType;
 import com.africanjesus.fortnitepal.RarityType;
 import com.africanjesus.fortnitepal.ReleaseStatus;
-import com.africanjesus.fortnitepal.model.Challenge;
 import com.africanjesus.fortnitepal.model.Item;
 import com.africanjesus.fortnitepal.model.Obtained;
-import com.africanjesus.fortnitepal.model.Style;
 import com.africanjesus.fortnitepal.services.ItemServiceImpl;
 import com.opencsv.CSVReader;
 import org.slf4j.Logger;
