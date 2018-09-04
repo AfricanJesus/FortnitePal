@@ -9,16 +9,13 @@ public class Style {
 
     private String styleName;
 
-    private String styleItem;
-
     private String styleItemImage;
 
     public Style() {
     }
 
-    public Style(String styleName, String styleItem, String styleItemImage) {
+    public Style(String styleName, String styleItemImage) {
         this.styleName = styleName;
-        this.styleItem = styleItem;
         this.styleItemImage = styleItemImage;
     }
 
@@ -30,13 +27,6 @@ public class Style {
         this.styleName = styleName;
     }
 
-    public String getStyleItem() {
-        return styleItem;
-    }
-
-    public void setStyleItem(String styleItem) {
-        this.styleItem = styleItem;
-    }
 
     public String getStyleItemImage() {
         return styleItemImage;
@@ -50,7 +40,6 @@ public class Style {
     public String toString() {
         return "Style{" +
                 "styleName='" + styleName + '\'' +
-                ", styleItem='" + styleItem + '\'' +
                 ", styleItemImage='" + styleItemImage + '\'' +
                 '}';
     }

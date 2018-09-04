@@ -2,9 +2,7 @@ package com.africanjesus.fortnitepal.model;
 
 import javax.persistence.*;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 @Entity
 @Table(name = "style_sets")

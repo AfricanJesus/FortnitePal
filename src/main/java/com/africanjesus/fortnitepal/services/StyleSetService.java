@@ -1,8 +1,8 @@
 package com.africanjesus.fortnitepal.services;
 
-import com.africanjesus.fortnitepal.repositories.StyleSetRepository;
+import com.africanjesus.fortnitepal.model.StyleSet;
 
 public interface StyleSetService {
 
-    void save(StyleSetService set);
+    void save(StyleSet set);
 }
