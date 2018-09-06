@@ -36,7 +36,7 @@ public class ItemDataLoader implements CommandLineRunner {
         String[] itemInfo;
         Obtained obtained;
         Item item;
-        CSVReader reader = new CSVReader(new FileReader(new File("").getAbsolutePath() + "/src/main/resources/static/fortniteitems.csv"));
+        CSVReader reader = new CSVReader(new FileReader(new File("").getAbsolutePath() + "/fortnitepal/src/main/resources/static/fortniteitems.csv"));
 
         while((itemInfo = reader.readNext()) != null){
             item = new Item();
