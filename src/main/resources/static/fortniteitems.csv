@@ -16,9 +16,9 @@ Showdown,"In the ultimate battle of good versus evil, who will prevail?",UNCOMMO
 Blast from the Past,"After stumbling across a long lost relative, we all became part of the family.",UNCOMMON,blast-from-the-past,0,0,null,null,0,0,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
 Opening Night,"We were lured by the smell of popcorn, and stuck around for a movie screening.",UNCOMMON,opening-night,0,0,null,null,0,0,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
 That's a Wrap,Director's Notes: 'What a crazy shoot! Those meteors that crashed down sure gave us a lot of extra free production value! Glad we survived it!',UNCOMMON,thats-a-wrap,0,0,null,null,0,0,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
-Signing Back In,The motel staff promised us a quiet stay without disturbance. Zero stars.,,null,0,0,null,null,0,0,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+Signing Back In,The motel staff promised us a quiet stay without disturbance. Zero stars.,,signing-back-in,0,0,null,null,0,0,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
 The Visitor,From beyond the unknown to the center of Dusty Divot.,UNCOMMON,the-visitor,0,0,null,null,0,0,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
-Retrofit,Modification required…,UNCOMMON,retrofit,0,0,null,null,0,0,Blockbuster Challenges,null,n,LOADINGSCREEN,RELEASED
+Retrofit,Modification required…,UNCOMMON,retrofit,0,0,null,null,0,0,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
 Rift Edge,Piercing through the dimensional plane.,EPIC,rift-edge,0,0,null,null,0,0,Drift Challenges,null,Drift Set,HARVESTINGTOOL,RELEASED
 Boogie Down,Boogie down with Populotus.,EPIC,boogie-down,0,0,null,null,0,0,Enable 2FA,null,null,DANCE,RELEASED
 Birthday Cake,Piece of cake.,RARE,birthday-cake,0,0,null,null,0,0,Fortnite 1st Birthday,null,null,BACKBLING,RELEASED
@@ -103,7 +103,7 @@ Love Wings,Spread the love.,LEGENDARY,love-wings,0,0,Love Ranger,null,0,0,null,n
 Mertank,Breathe easy,LEGENDARY,mertank,0,0,Moisty Merman,null,0,0,null,null,null,BACKBLING,RELEASED
 Offworld Rig,Intergalactic original,LEGENDARY,offworld-rig,0,0,The Visitor,null,0,0,null,null,null,BACKBLING,RELEASED
 Ominous Orb,Gaze info infinity.,LEGENDARY,ominous-orb,0,0,Fate,null,0,0,null,null,Overseer Set,BACKBLING,RELEASED
-Raptor Satchel,Royale Air Force standard issue.,LEGENDARY,raptor-satchel,0,0,Raptor,null,0,0,null,null,n,BACKBLING,RELEASED
+Raptor Satchel,Royale Air Force standard issue.,LEGENDARY,raptor-satchel,0,0,Raptor,null,0,0,null,null,null,BACKBLING,RELEASED
 Red Shield,The Red Knight's lengedary shield.,LEGENDARY,red-shield,0,0,Red Knight,null,0,0,null,null,Fort Knights Set,BACKBLING,RELEASED
 Royale Flags,Let your royale flag fly.,LEGENDARY,royale-flags,0,0,Wukong,null,0,0,null,null,Wukong Set,BACKBLING,RELEASED
 Sashimono,Storied sigil.,LEGENDARY,sashimono,0,0,Musha,null,0,0,null,null,Bushido Set,BACKBLING,RELEASED
@@ -168,7 +168,7 @@ Best Mates,Who's your best mate?,RARE,best-mates,3,63,null,null,0,0,null,null,nu
 Boneless,Beyond bendy.,RARE,boneless,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
 Calculated,Think about it.,RARE,calculated,5,46,null,null,0,0,null,null,null,DANCE,RELEASED
 Chicken,Top of the pecking order.,RARE,chicken,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
-Capoeira,Are you ready to dance with danger?,RARE,capoeria,0,0,null,null,500,0,null,null,n,DANCE,RELEASED
+Capoeira,Are you ready to dance with danger?,RARE,capoeria,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
 Confused,Seriously. what happened?,RARE,confused,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
 Dab,A Dab Dance Move,RARE,dab,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
 Eagle,Believe you can fly.,RARE,eagle,0,0,null,null,500,0,null,null,null,DANCE,RELEASED
@@ -275,7 +275,7 @@ Potato Aim,Express yourself on the battlefield.,UNCOMMON,potato-aim,2,61,null,nu
 Prickly,Express yourself on the battlefield.,UNCOMMON,prickly,5,24,null,null,0,0,null,null,null,EMOTICON,RELEASED
 Rabid,Express yourself on the battlefield.,UNCOMMON,rabid,4,74,null,null,0,0,null,null,null,EMOTICON,RELEASED
 Rage,Express yourself on the battlefield.,UNCOMMON,rage,2,19,null,null,0,0,null,null,null,EMOTICON,RELEASED
-Rainbow,Express yourself on the battlefield.,UNCOMMON,rainbow,4,42,null,null,0,0,null,null,n,EMOTICON,RELEASED
+Rainbow,Express yourself on the battlefield.,UNCOMMON,rainbow,4,42,null,null,0,0,null,null,null,EMOTICON,RELEASED
 RIP,Express yourself on the battlefield.,UNCOMMON,rip,2,12,null,null,0,0,null,null,null,EMOTICON,RELEASED
 Rocket Ride,Express yourself on the battlefield.,UNCOMMON,rocket-ride,3,22,null,null,0,0,null,null,null,EMOTICON,RELEASED
 Salty,Express yourself on the battlefield.,UNCOMMON,salty,2,54,null,null,0,0,null,null,null,EMOTICON,RELEASED
@@ -329,7 +329,7 @@ Starry Flight,A masterpiece of flight.,RARE,starry-flight,0,0,null,null,800,0,nu
 Sugar Crash,Don't crash!,RARE,sugar-crash,4,15,null,null,0,0,null,null,Sweet Tooth Set,GLIDER,RELEASED
 Voyager,Bravely float into the fray aboard the Voyager Glider.,RARE,voyager,0,0,null,null,800,0,null,null,Space Explorers Set,GLIDER,RELEASED
 Zephyr,Glide with style.,RARE,zephyr,0,0,null,null,800,0,null,null,null,GLIDER,RELEASED
-Aerial Assault One,Fly into battle on the wings of victory.,UNCOMMON,aerial-assault-one,0,0,null,null,800,0,null,null,n,GLIDER,RELEASED
+Aerial Assault One,Fly into battle on the wings of victory.,UNCOMMON,aerial-assault-one,0,0,null,null,800,0,null,null,null,GLIDER,RELEASED
 Blaze,Glide down in a blaze of glory!,UNCOMMON,blaze,0,0,null,null,500,0,null,null,Biker Brigade Set,GLIDER,RELEASED
 Carbon,Precision built carbon fiber glider.,UNCOMMON,carbon,3,39,null,null,0,0,null,null,Black Vector Set,GLIDER,RELEASED
 Checker,Always in service.,UNCOMMON,checker,0,0,null,null,500,0,null,null,Racer Royale Set,GLIDER,RELEASED
@@ -479,7 +479,7 @@ Alphine Ace (GBR),So Aerodynamic!,EPIC,alphine-ace-gbr,0,0,null,null,1500,0,null
 Alphine Ace (GER),So Aerodynamic!,EPIC,alphine-ace-ger,0,0,null,null,1500,0,null,null,Winter Ski Set,OUTFIT,RELEASED
 Alphine Ace (KOR),So Aerodynamic!,EPIC,alphine-ace-kor,0,0,null,null,1500,0,null,null,Winter Ski Set,OUTFIT,RELEASED
 Alphine Ace (USA),So Aerodynamic!,EPIC,alphine-ace-usa,0,0,null,null,1500,0,null,null,Winter Ski Set,OUTFIT,RELEASED
-Bandolier,No shirt. No surrender,EPIC,bandolier,0,0,null,null,1500,0,null,null,n,OUTFIT,RELEASED
+Bandolier,No shirt. No surrender,EPIC,bandolier,0,0,null,null,1500,0,null,null,null,OUTFIT,RELEASED
 Archetype,Engineered for combat performance.,EPIC,archetype,0,0,null,null,1500,0,null,null,Archetype Set,OUTFIT,RELEASED
 BattleHawk,Swoop in and claim victory.,EPIC,battlehawk,4,1,null,null,0,0,null,null,Advanced Forces Set,OUTFIT,RELEASED
 Beef Boss,Victory well done.,EPIC,beef-boss,0,0,null,null,1500,0,null,null,Durr Burger Set,OUTFIT,RELEASED
@@ -701,7 +701,7 @@ Insignia,Emblazoned shield.,RARE,insignia,0,0,null,Wegame,0,0,null,null,null,BAC
 Embers,Freefall in style.,RARE,embers,0,0,null,Wegame,0,0,Refer Friends,null,null,CONTRAIL,RELEASED
 Enforcer,Balance and order must be restored.,LEGENDARY,enforcer,0,0,null,null,0,0,Road Trip Challenges,null,null,OUTFIT,RELEASED
 Solo Showdown,Leave your mark.,UNCOMMON,solo-showdown,0,0,null,null,0,0,Solo Showdown,null,null,SPRAY,RELEASED
-Founders Umbrella,Founder's exclusive!,COMMON,founders-umbrella,0,0,null,Save The World Founder's Pack,0,0,Victory Founders,null,null,GLIDER,RELEASED
+Founders Umbrella,Founder's exclusive!,COMMON,founders-umbrella,0,0,null,Save The World Founder's Pack,0,0,Victory,null,null,GLIDER,RELEASED
 Snowflake,A victory umbrella handcrafted from locally sourced snowflakes.,COMMON,snowflake,0,0,null,null,0,0,Victory Season 2,null,null,GLIDER,RELEASED
 Victory Royale,Express yourself on the battlefield.,UNCOMMON,victory-royale,0,0,null,null,0,0,Victory Season 4,null,null,EMOTICON,RELEASED
 The Umbrella,The fabled victory umbrella.,COMMON,the-umbrella,0,0,null,null,0,0,Victory Any Season,null,null,GLIDER,RELEASED
@@ -712,3 +712,36 @@ Omega,There can be only one.,LEGENDARY,omega,4,100,null,null,0,0,null,Omega Styl
 Ragnarok,The cold harbinger of fate.,LEGENDARY,ragnarok,5,100,null,null,0,0,null,Ragnarok Style,Harbinger Set,OUTFIT,RELEASED
 The Visitor,Intentions unknown.,LEGENDARY,the-visitor,0,0,null,null,0,0,Blockbuster Challenges,The Visitor Style,null,OUTFIT,RELEASED
 TomatoHead,Extra saucey.,EPIC,tomatohead,0,0,null,null,1500,0,Tomatohead Challenges,Tomatohead Style,Pizza Pit Set,OUTFIT,RELEASED
+Hot Ride,Burn down the road.,LEGENDARY,hot-ride,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Cloaked Star,Cloaked in mystery.,EPIC,cloaked-star,0,0,null,null,0,0,null,null,null,OUTFIT,UNRELEASED
+Controller,Take control.,EPIC,controller,0,0,null,null,0,0,null,null,null,HARVESTINGTOOL,UNRELEASED
+Crafted Carrier,,EPIC,crafted-carrier,0,0,null,null,0,0,null,null,null,BACKBLING,UNRELEASED
+Ghost Portal,I just got a chill.,EPIC,ghost-portal,0,0,null,null,0,0,null,null,null,BACKBLING,UNRELEASED
+Hacivat,,EPIC,hacivat,0,0,null,null,0,0,null,null,null,OUTFIT,UNRELEASED
+Keytar,,EPIC,keytar,0,0,null,null,0,0,null,null,null,BACKBLING,UNRELEASED
+Kick Drum,,EPIC,kick-drum,0,0,null,null,0,0,null,null,null,BACKBLING,UNRELEASED
+Shadow Puppet,,EPIC,shadow-puppet,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Stage Slayer,,EPIC,stage-slayer,0,0,null,null,0,0,null,null,null,OUTFIT,UNRELEASED
+Synth Star,,EPIC,synth-star,0,0,null,null,0,0,null,null,null,OUTFIT,UNRELEASED
+Vivacious,,EPIC,vivacious,0,0,null,null,0,0,null,null,null,DANCE,UNRELEASED
+Artifact,,RARE,artifact,0,0,null,null,0,0,null,null,null,CONTRAIL,UNRELEASED
+Flappy,Flap happy.,RARE,flappy,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Hitchhiker,,RARE,hitchhiker,0,0,null,null,0,0,null,null,null,DANCE,UNRELEASED
+Battle Call,,UNCOMMON,battle-call,0,0,null,null,0,0,null,null,null,DANCE,UNRELEASED
+Helium,Lighter than air.,UNCOMMON,helium,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Lead Swinger,,UNCOMMON,lead-swinger,0,0,null,null,0,0,null,null,null,HARVESTINGTOOL,UNRELEASED
+My Idol!,,UNCOMMON,my-idol,0,0,null,null,0,0,null,null,null,DANCE,UNRELEASED
+Rush,It's a rush.,UNCOMMON,rush,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Steadfast,Battle-tested.,UNCOMMON,steadfast,0,0,null,null,0,0,null,null,null,GLIDER,UNRELEASED
+Storm Salutation,Respect the storm.,UNCOMMON,storm-salutation,0,0,null,null,0,0,null,null,null,DANCE,UNRELEASED
+Tree Splitter,,UNCOMMON,tree-splitter,0,0,null,null,0,0,null,null,null,HARVESTINGTOOL,UNRELEASED
+Wild Card,"Pick a card, any card.",LEGENDARY,wild-card,0,0,null,null,2000,0,null,Wild Card Style,Getaway Gang Set,OUTFIT,RELEASED
+Cuff Case,Always by your side.,LEGENDARY,cuff-case,0,0,Wild Card,null,0,0,null,null,Getaway Gang Set,BACKBLING,RELEASED
+Airlift,Glide into the rescue.,EPIC,airlift,0,0,null,null,1200,0,null,null,Support Squadron,GLIDER,RELEASED
+Dreamflower,Can you dig it?,EPIC,dreamflower,0,0,null,null,1500,0,null,null,Flower Power,OUTFIT,RELEASED
+Far Out Man,Out of sight.,EPIC,far-out-man,0,0,null,null,1500,0,null,null,Flower Power,OUTFIT,RELEASED
+Field Surgeon,Scalpel!,EPIC,field-surgeon,0,0,null,null,1500,0,null,null,Support Squadron,OUTFIT,RELEASED
+Gurney Gear,Wheels up.,EPIC,gurney-gear,0,0,Field Surgeon,null,0,0,null,null,Support Squadron,BACKBLING,RELEASED
+Triage Trooper,No one is beyond saving.,EPIC,triage-trooper,0,0,null,null,1500,0,null,null,Support Squadron,OUTFIT,RELEASED
+Flatliner,Not on my watch!,RARE,flatliner,0,0,null,null,800,0,null,null,Support Squadron,HARVESTINGTOOL,RELEASED
+Care Package,Surgically precise.,EPIC,care-package,0,0,Triage Trooper,null,0,0,null,null,Support Squadron,BACKBLING,RELEASED
