@@ -70,7 +70,7 @@ public class ItemDataLoader implements CommandLineRunner {
 
                 obtained.setSeason(Integer.parseInt(itemInfo[4]));
                 obtained.setTier(Integer.parseInt(itemInfo[5]));
-                obtained.setIncludedIn(itemInfo[6]);
+                obtained.setIncludedInName(itemInfo[6]);
                 obtained.setPromo(itemInfo[7]);
                 obtained.setVbuckPrice(Integer.parseInt(itemInfo[8]));
                 obtained.setPrice(Double.parseDouble(itemInfo[9]));

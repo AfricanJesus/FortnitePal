@@ -11,7 +11,7 @@ public class Obtained {
 
     private String promo;
 
-    private String includedIn;
+    private String includedInName;
 
     private int vbuckPrice;
 
@@ -22,11 +22,11 @@ public class Obtained {
     public Obtained() {
     }
 
-    public Obtained(int season, int tier, String promo, String includedIn, int vbuckPrice, double price, String challenge) {
+    public Obtained(int season, int tier, String promo, String includedInName, int vbuckPrice, double price, String challenge) {
         this.season = season;
         this.tier = tier;
         this.promo = promo;
-        this.includedIn = includedIn;
+        this.includedInName = includedInName;
         this.vbuckPrice = vbuckPrice;
         this.price = price;
         this.challenge = challenge;
@@ -56,12 +56,12 @@ public class Obtained {
         this.promo = promo;
     }
 
-    public String getIncludedIn() {
-        return includedIn;
+    public String getIncludedInName() {
+        return includedInName;
     }
 
-    public void setIncludedIn(String includedIn) {
-        this.includedIn = includedIn;
+    public void setIncludedInName(String includedInName) {
+        this.includedInName = includedInName;
     }
 
     public int getVbuckPrice() {
@@ -94,7 +94,7 @@ public class Obtained {
                 "season=" + season +
                 ", tier=" + tier +
                 ", promo='" + promo + '\'' +
-                ", includedIn='" + includedIn + '\'' +
+                ", includedInName='" + includedInName + '\'' +
                 ", vbuckPrice=" + vbuckPrice +
                 ", price=" + price +
                 ", challenege='" + challenge + '\'' +
