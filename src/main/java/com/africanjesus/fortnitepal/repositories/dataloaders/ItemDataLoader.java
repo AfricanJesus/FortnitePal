@@ -15,6 +15,8 @@ import org.springframework.stereotype.Component;
 
 import java.io.File;
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
 
 @Component
 public class ItemDataLoader implements CommandLineRunner {
@@ -36,37 +38,42 @@ public class ItemDataLoader implements CommandLineRunner {
         String[] itemInfo;
         Obtained obtained;
         Item item;
+        List<String> images;
         CSVReader reader = new CSVReader(new FileReader(new File("").getAbsolutePath() + "/fortnitepal/src/main/resources/static/fortniteitems.csv"));
 
         while((itemInfo = reader.readNext()) != null){
             item = new Item();
             obtained  = new Obtained();
-            for(int i = 0; i < itemInfo.length; i++){
+            for(int i = 0; i < 1; i++){
                 item.setName(itemInfo[0]);
                 item.setDesc(itemInfo[1]);
                 item.setRarityType(determineRarityTypeByString(itemInfo[2]));
 
+                images = new ArrayList<>();
                 if(itemInfo[13].equalsIgnoreCase("outfit")){
-                    item.setImage(url + "/outfit/" + itemInfo[3] + ".png");
+                    images.add(url + "/outfit/" + itemInfo[3] + ".png");
+                    images.add(url + "/outfit/" + itemInfo[3] + "-full.png");
+                    images.add(url + "/outfit/" + itemInfo[3] + "-feature.png");
                 }else if(itemInfo[13].equalsIgnoreCase("backbling")){
-                    item.setImage(url + "/backbling/" + itemInfo[3] + ".png");
+                    images.add(url + "/backbling/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("emoticon")){
-                    item.setImage(url + "/emoticon/" + itemInfo[3] + ".png");
+                    images.add(url + "/emoticon/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("glider")){
-                    item.setImage(url + "/glider/" + itemInfo[3] + ".png");
+                    images.add(url + "/glider/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("harvestingtool")){
-                    item.setImage(url + "/harvestingtool/" + itemInfo[3] + ".png");
+                    images.add(url + "/harvestingtool/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("spray")){
-                    item.setImage(url + "/spray/" + itemInfo[3] + ".png");
+                    images.add(url + "/spray/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("contrail")){
-                    item.setImage(url + "/contrail/" + itemInfo[3] + ".png");
+                    images.add(url + "/contrail/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("toy")){
-                    item.setImage(url + "/toy/" + itemInfo[3] + ".png");
+                    images.add(url + "/toy/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("loadingscreen")){
-                    item.setImage(url + "/loadingscreen/" + itemInfo[3] + ".png");
+                    images.add(url + "/loadingscreen/" + itemInfo[3] + ".png");
                 }else if(itemInfo[13].equalsIgnoreCase("dance")){
-                    item.setImage(url + "/dance/" + itemInfo[3] + ".png");
+                    images.add(url + "/dance/" + itemInfo[3] + ".png");
                 }
+                item.setImages(images);
 
                 obtained.setSeason(Integer.parseInt(itemInfo[4]));
                 obtained.setTier(Integer.parseInt(itemInfo[5]));

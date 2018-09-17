@@ -5,6 +5,8 @@ import com.africanjesus.fortnitepal.RarityType;
 import com.africanjesus.fortnitepal.ReleaseStatus;
 
 import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "items")
@@ -22,8 +24,9 @@ public class Item {
     @Column(name = "item_rarity_type")
     private RarityType rarityType;
 
-    @Column(name = "item_name")
-    private String image;
+    @ElementCollection
+    @CollectionTable(name = "item_images", joinColumns = @JoinColumn(name = "item_id"))
+    private List<String> images = new ArrayList<>();
 
     private Obtained obtained;
 
@@ -40,11 +43,11 @@ public class Item {
     public Item() {
     }
 
-    public Item(String name, String desc, RarityType rarityType, String image, Obtained obtained, String styleSet, String set, ItemType itemType, ReleaseStatus status) {
+    public Item(String name, String desc, RarityType rarityType, List images, Obtained obtained, String styleSet, String set, ItemType itemType, ReleaseStatus status) {
         this.name = name;
         this.desc = desc;
         this.rarityType = rarityType;
-        this.image = image;
+        this.images = images;
         this.obtained = obtained;
         this.styleSet = styleSet;
         this.set = set;
@@ -84,12 +87,12 @@ public class Item {
         this.rarityType = rarityType;
     }
 
-    public String getImage() {
-        return image;
+    public List getImages() {
+        return images;
     }
 
-    public void setImage(String image) {
-        this.image = image;
+    public void setImages(List images) {
+        this.images = images;
     }
 
     public Obtained getObtained() {
@@ -139,7 +142,7 @@ public class Item {
                 ", name='" + name + '\'' +
                 ", desc='" + desc + '\'' +
                 ", rarityType=" + rarityType +
-                ", image='" + image + '\'' +
+                ", images=" + images +
                 ", obtained=" + obtained +
                 ", styleSet='" + styleSet + '\'' +
                 ", set='" + set + '\'' +
