@@ -50,44 +50,48 @@ public class ItemDataLoader implements CommandLineRunner {
                 item.setRarityType(determineRarityTypeByString(itemInfo[2]));
 
                 images = new ArrayList<>();
-                if(itemInfo[13].equalsIgnoreCase("outfit")){
+                if(itemInfo[15].equalsIgnoreCase("outfit")){
                     images.add(url + "/outfit/" + itemInfo[3] + ".png");
-                    images.add(url + "/outfit/" + itemInfo[3] + "-full.png");
-                    images.add(url + "/outfit/" + itemInfo[3] + "-feature.png");
-                }else if(itemInfo[13].equalsIgnoreCase("backbling")){
+                    if(!(itemInfo[4].equals("null"))){
+                        images.add(url + "/outfit/" + itemInfo[4] + "-full.png");
+                    }
+                    if(!(itemInfo[5].equals("null"))){
+                        images.add(url + "/outfit/" + itemInfo[3] + "-feature.png");
+                    }
+                }else if(itemInfo[15].equalsIgnoreCase("backbling")){
                     images.add(url + "/backbling/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("emoticon")){
+                }else if(itemInfo[15].equalsIgnoreCase("emoticon")){
                     images.add(url + "/emoticon/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("glider")){
+                }else if(itemInfo[15].equalsIgnoreCase("glider")){
                     images.add(url + "/glider/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("harvestingtool")){
+                }else if(itemInfo[15].equalsIgnoreCase("harvestingtool")){
                     images.add(url + "/harvestingtool/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("spray")){
+                }else if(itemInfo[15].equalsIgnoreCase("spray")){
                     images.add(url + "/spray/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("contrail")){
+                }else if(itemInfo[15].equalsIgnoreCase("contrail")){
                     images.add(url + "/contrail/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("toy")){
+                }else if(itemInfo[15].equalsIgnoreCase("toy")){
                     images.add(url + "/toy/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("loadingscreen")){
+                }else if(itemInfo[15].equalsIgnoreCase("loadingscreen")){
                     images.add(url + "/loadingscreen/" + itemInfo[3] + ".png");
-                }else if(itemInfo[13].equalsIgnoreCase("dance")){
+                }else if(itemInfo[15].equalsIgnoreCase("dance")){
                     images.add(url + "/dance/" + itemInfo[3] + ".png");
                 }
                 item.setImages(images);
 
-                obtained.setSeason(Integer.parseInt(itemInfo[4]));
-                obtained.setTier(Integer.parseInt(itemInfo[5]));
-                obtained.setIncludedInName(itemInfo[6]);
-                obtained.setPromo(itemInfo[7]);
-                obtained.setVbuckPrice(Integer.parseInt(itemInfo[8]));
-                obtained.setPrice(Double.parseDouble(itemInfo[9]));
-                obtained.setChallenege(itemInfo[10]);
+                obtained.setSeason(Integer.parseInt(itemInfo[6]));
+                obtained.setTier(Integer.parseInt(itemInfo[7]));
+                obtained.setIncludedInName(itemInfo[8]);
+                obtained.setPromo(itemInfo[9]);
+                obtained.setVbuckPrice(Integer.parseInt(itemInfo[10]));
+                obtained.setPrice(Double.parseDouble(itemInfo[11]));
+                obtained.setChallenege(itemInfo[12]);
                 item.setObtained(obtained);
 
-                item.setStyleSet(itemInfo[11]);
-                item.setSet(itemInfo[12]);
-                item.setItemType(determineItemTypeByString(itemInfo[13]));
-                item.setStatus(ReleaseStatus.valueOf(itemInfo[14]));
+                item.setStyleSet(itemInfo[13]);
+                item.setSet(itemInfo[14]);
+                item.setItemType(determineItemTypeByString(itemInfo[15]));
+                item.setStatus(ReleaseStatus.valueOf(itemInfo[16]));
             }
             itemServiceImpl.save(item);
         }
