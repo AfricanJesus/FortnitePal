@@ -86,7 +86,44 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challenges.add(new Challenge("Gain 75,000 XP", "Stage 2", "http://localhost:8080/images/challenge/ragnarok-stage-2.png"));
         challenges.add(new Challenge("Gain 120,000 XP", "Stage 3", "http://localhost:8080/images/challenge/ragnarok-stage-3.png"));
         challenges.add(new Challenge("Gain 250,000 XP", "Stage 4", "http://localhost:8080/images/challenge/ragnarok-stage-4.png"));
-        challenges.add(new Challenge("Gain 5000,000 XP", "Stage 5", "http://localhost:8080/images/challenge/ragnarok-stage-5.png"));
+        challenges.add(new Challenge("Gain 500,000 XP", "Stage 5", "http://localhost:8080/images/challenge/ragnarok-stage-5.png"));
+        challengeSet.setChallenges(challenges);
+        challengeSetServiceImpl.save(challengeSet);
+
+
+        //Calamity Challenges
+        challengeSet = new ChallengeSet();
+        challengeSet.setChallengeSetName("Calamity Challenges");
+        challengeSet.setChallengeSetObjective("Complete any 5 challenges to earn reward item");
+        challengeSet.setChallengeSetReward("Reckoning");
+        challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/reckoning.png");
+        challenges = new ArrayList<>();
+        challenges.add(new Challenge("Gain 20,000 XP", "Stage 1", "http://localhost:8080/images/challenge/calamity-stage-1.png"));
+        challenges.add(new Challenge("Gain 50,000 XP", "Stage 2", "http://localhost:8080/images/challenge/calamity-stage-2.png"));
+        challenges.add(new Challenge("Gain 90,000 XP", "Stage 3", "http://localhost:8080/images/challenge/calamity-stage-3.png"));
+        challenges.add(new Challenge("Gain 140,000 XP", "Stage 4", "http://localhost:8080/images/challenge/calamity-stage-4.png"));
+        challenges.add(new Challenge("Gain 200,000 XP", "Stage 5", "http://localhost:8080/images/challenge/calamity-stage-5.png"));
+        challenges.add(new Challenge("Complete 10 Weekly Challenges", "Color (TEAL)","http://localhost:8080/images/challenge/calamity-color-teal.png"));
+        challenges.add(new Challenge("Complete 25 Weekly Challenges", "Color (PURPLE)","http://localhost:8080/images/challenge/calamity-color-purple.png"));
+        challenges.add(new Challenge("Complete 50 Weekly Challenges", "Color (BLACK)","http://localhost:8080/images/challenge/calamity-color-black.png"));
+        challengeSet.setChallenges(challenges);
+        challengeSetServiceImpl.save(challengeSet);
+
+        //Dire Challenges
+        challengeSet = new ChallengeSet();
+        challengeSet.setChallengeSetName("Dire Challenges");
+        challengeSet.setChallengeSetObjective("Complete any 5 challenges to earn reward item");
+        challengeSet.setChallengeSetReward("Wolfpack");
+        challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/backbling/wolfpack.png");
+        challenges = new ArrayList<>();
+        challenges.add(new Challenge("Gain 30,000 XP","Stage (Half-Wolf)","http://localhost:8080/images/challenge/dire-half-wolf.png"));
+        challenges.add(new Challenge("Gain 70,000 XP", "Stage (Brown Werewolf)","http://localhost:8080/images/challenge/dire-brown-werewolf.png"));
+        challenges.add(new Challenge("Gain 120,000 XP", "Stage (Grey Werewolf)","http://localhost:8080/images/challenge/dire-grey-werewolf.png"));
+        challenges.add(new Challenge("Gain 180,000 XP", "Stage (White Werewolf)","http://localhost:8080/images/challenge/dire-white-werewolf.png"));
+        challenges.add(new Challenge("Gain 250,000 XP", "Stage (Black Werewolf)","http://localhost:8080/images/challenge/dire-black-werewolf.png"));
+        challenges.add(new Challenge("Complete 20 Weekly Challenges", "Color (BLUE)","http://localhost:8080/images/challenge/dire-color-blue.png"));
+        challenges.add(new Challenge("Complete 40 Weekly Challenges", "Color (YELLOW)","http://localhost:8080/images/challenge/dire-color-yellow.png"));
+        challenges.add(new Challenge("Complete 60 Weekly Challenges", "Color (BROWN)","http://localhost:8080/images/challenge/dire-color-brown.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -95,7 +132,7 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetName("Tomatohead Challenges");
         challengeSet.setChallengeSetObjective("Complete all 3 challenges to earn reward item");
         challengeSet.setChallengeSetReward("Tomatohead Crown");
-        challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/challenges/tomatohead.png");
+        challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/challenge/tomatohead.png");
         challenges = new ArrayList<>();
         challenges.add(new Challenge("Play 25 matches", null, null));
         challenges.add(new Challenge("Deal 5000 damage to opponents", null, null));
@@ -175,9 +212,9 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
 
         //Tier 100 Season 3 Challenges
         challengeSet = new ChallengeSet();
-        challengeSet.setChallengeSetName("Tier 100 Season 3 Challenges");
+        challengeSet.setChallengeSetName("Tier 100 Challenges");
         challengeSet.setChallengeSetObjective("Complete any 5 challenges to earn reward item");
-        challengeSet.setChallengeSetReward("Permafrost");
+        challengeSet.setChallengeSetReward("High Octane");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/permafrost.png");
         challenges = new ArrayList<>();
         challenges.add(new Challenge("Search 7 chest in a single match", "1,000", "http://localhost:8080/images/icons/xp.png"));

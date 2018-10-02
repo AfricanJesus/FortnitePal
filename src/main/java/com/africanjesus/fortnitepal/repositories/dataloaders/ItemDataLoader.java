@@ -40,7 +40,7 @@ public class ItemDataLoader implements CommandLineRunner {
         Item item;
         List<String> images;
         CSVReader reader = new CSVReader(new FileReader(new File("").getAbsolutePath() + "/fortnitepal/src/main/resources/static/fortniteitems.csv"));
-
+        reader.readNext();
         while((itemInfo = reader.readNext()) != null){
             item = new Item();
             obtained  = new Obtained();
@@ -51,12 +51,14 @@ public class ItemDataLoader implements CommandLineRunner {
 
                 images = new ArrayList<>();
                 if(itemInfo[15].equalsIgnoreCase("outfit")){
-                    images.add(url + "/outfit/" + itemInfo[3] + ".png");
+                    if(!(itemInfo[3].equals("null"))) {
+                            images.add(url + "/outfit/" + itemInfo[3] + ".png");
+                    }
                     if(!(itemInfo[4].equals("null"))){
                         images.add(url + "/outfit/" + itemInfo[4] + "-full.png");
                     }
                     if(!(itemInfo[5].equals("null"))){
-                        images.add(url + "/outfit/" + itemInfo[3] + "-feature.png");
+                        images.add(url + "/outfit/" + itemInfo[5] + "-feature.png");
                     }
                 }else if(itemInfo[15].equalsIgnoreCase("backbling")){
                     images.add(url + "/backbling/" + itemInfo[3] + ".png");
@@ -76,6 +78,10 @@ public class ItemDataLoader implements CommandLineRunner {
                     images.add(url + "/loadingscreen/" + itemInfo[3] + ".png");
                 }else if(itemInfo[15].equalsIgnoreCase("dance")){
                     images.add(url + "/dance/" + itemInfo[3] + ".png");
+                }else if(itemInfo[15].equalsIgnoreCase("music")){
+                    images.add(url + "/music/" + itemInfo[3] + ".png");
+                }else if(itemInfo[15].equalsIgnoreCase("pet")){
+                    images.add(url + "/pet/" + itemInfo[3] + ".png");
                 }
                 item.setImages(images);
 
@@ -132,6 +138,10 @@ public class ItemDataLoader implements CommandLineRunner {
             return ItemType.LOADINGSCREEN;
         }else if(typeString.equalsIgnoreCase(ItemType.GLIDER.name())){
             return ItemType.GLIDER;
+        }else if(typeString.equalsIgnoreCase(ItemType.MUSIC.name())){
+            return ItemType.MUSIC;
+        }else if(typeString.equalsIgnoreCase(ItemType.PET.name())){
+            return ItemType.PET;
         }else{
             return ItemType.TOY;
         }
