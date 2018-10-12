@@ -12,5 +12,6 @@ public interface ItemModelSimple {
     String getName();
     RarityType getRarityType();
     List getImages();
+    Long getId();
 
 }

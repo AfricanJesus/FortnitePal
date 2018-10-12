@@ -14,7 +14,7 @@ public class Item {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private Long Id;
 
     private String name;
 
@@ -56,11 +56,11 @@ public class Item {
     }
 
     public Long getId() {
-        return id;
+        return Id;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setId(Long Id) {
+        this.Id = Id;
     }
 
     public String getName() {
@@ -138,7 +138,7 @@ public class Item {
     @Override
     public String toString() {
         return "Item{" +
-                "id=" + id +
+                "id=" + Id +
                 ", name='" + name + '\'' +
                 ", desc='" + desc + '\'' +
                 ", rarityType=" + rarityType +
