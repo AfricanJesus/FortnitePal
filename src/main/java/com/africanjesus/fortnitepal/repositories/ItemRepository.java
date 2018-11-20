@@ -10,6 +10,7 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
+
 import java.util.List;
 
 @CrossOrigin(origins = "http://localhost:4200")
@@ -28,4 +29,6 @@ public interface ItemRepository extends JpaRepository<Item, Long>{
     List<Item> findByObtained_Season(@Param("season")int season, Pageable p);
     List<Item> findByObtained_IncludedInName(@Param("includedInName") String includedInName);
     List<Item> findByNameAndItemType(@Param("name")String name, @Param("item") ItemType item, Pageable p);
+
+
 }
