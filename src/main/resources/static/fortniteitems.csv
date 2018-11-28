@@ -474,7 +474,7 @@ Scout,Uncommon scout outfit.,UNCOMMON,scout,scout,null,0,0,null,null,800,0.00,nu
 Sgt Green Clover,Good luck out there!,UNCOMMON,sgt-green-clover,sgt-green-clover,sgt-green-clover,0,0,null,null,800,0.00,null,null,Green Clover Set,OUTFIT,RELEASED
 Shade,Stay cool.,EPIC,shade,shade,shade,0,0,null,null,1500,0.00,null,null,Cobra Crew Set,OUTFIT,RELEASED
 Shadow Ops,You didn't see a thing.,EPIC,shadow-ops,shadow-ops,shadow-ops,0,0,null,null,1500,0.00,null,null,Stealth Syndicate Set,OUTFIT,RELEASED
-Skull Trooper,A black and white skull costume.,EPIC,skull-trooper,skull-trooper,skull-trooper,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
+Skull Trooper,A black and white skull costume.,EPIC,skull-trooper,skull-trooper,skull-trooper,0,0,null,null,1200,0.00,null,Skull Trooper Style,Skull Squad Set,OUTFIT,RELEASED
 Sky Stalker,Barrel roll through the competition.,LEGENDARY,sky-stalker,sky-stalker,sky-stalker,0,0,null,null,2000,0.00,null,null,Sky Stalker Set,OUTFIT,RELEASED
 Sleuth,This detective is on the case.,EPIC,sleuth,sleuth,sleuth,0,0,null,null,1500,0.00,null,null,Hardboiled Set,OUTFIT,RELEASED
 Snorkel Ops,Diving head first into the fight.,RARE,snorkel-ops,snorkel-ops,null,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
@@ -823,7 +823,7 @@ Clown,Express yourself on the battlefield,UNCOMMON,clown,null,null,6,94,null,nul
 Flamenco,Clap it up.,EPIC,flamenco,null,null,6,95,null,null,0,0.00,null,null,null,DANCE,RELEASED
 Dire,Leave your mark.,UNCOMMON,dire,null,null,6,99,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 Dire,Leader of the pack,LEGENDARY,dire,null,null,6,100,null,null,0,0.00,null,Dire Style,Full Moon Set,OUTFIT,RELEASED
-Ghost Portal,I just got a chill.,EPIC,ghost-portal,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+Ghost Portal,I just got a chill.,EPIC,ghost-portal,null,null,0,0,null,null,0,0.00,Skull Trooper Challenges,null,null,BACKBLING,RELEASED
 Storm Salutation,Respect the storm.,UNCOMMON,storm-salutation,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
 Helium,Lighter than air.,UNCOMMON,helium,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
 Rush,It's a rush.,UNCOMMON,rush,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
@@ -833,21 +833,124 @@ Ludwig,Best of the wurst,EPIC,ludwig,null,ludwig,0,0,null,null,1500,0.00,null,nu
 Heidi,Fest with the best,EPIC,heidi,null,heidi,0,0,null,null,1500,0.00,null,null,Oktoberfest Set,OUTFIT,RELEASED
 Airheart,Setting records flying solo,RARE,airheart,null,airheart,0,0,null,null,1200,0.00,null,null,Aviation Age Set,OUTFIT,RELEASED
 Pretzel Protector,Pass the mustard,EPIC,pretzel-protector,null,null,0,0,Ludwig,null,0,0.00,null,null,Oktoberfest Set,BACKBLING,RELEASED
-Airflow,Tuned for turbulence,RARE,airflow,null,null,0,0,Airheart,null,0,0.00,null,null,Aviation Age Set,BACKBLING,UNRELEASED
+Airflow,Tuned for turbulence,RARE,airflow,null,null,0,0,Airheart,null,0,0.00,null,null,Aviation Age Set,BACKBLING,RELEASED
 Oktoberfeast,Never glide on an empty stomach,RARE,oktoberfeast,null,null,0,0,null,null,800,0.00,null,null,Oktoberfest Set,GLIDER,RELEASED
 Dirigible,Lighter than air,EPIC,dirigible,null,null,0,0,null,null,1200,0.00,null,null,Aviation Age Set,GLIDER,RELEASED
 Axcordion,Squeeze out a smashing tune,UNCOMMON,axcordion,null,null,0,0,null,null,500,0.00,null,null,Oktoberfest Set,HARVESTINGTOOL,RELEASED
 Turbine,Self-piloted propulsion,RARE,turbine,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
-Drop The Bass,Wait for it,EPIC,drop-the-bass,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
-Smooth Moves,Make them swoon,EPIC,smooth-moves,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
-Something Stinks,Whoever smelt it.,RARE,something-stinks,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+Drop The Bass,Wait for it,EPIC,drop-the-bass,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+Smooth Moves,Make them swoon,EPIC,smooth-moves,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+Something Stinks,Whoever smelt it.,RARE,something-stinks,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 Double Helix,Spiral toward victory.,EPIC,double-helix,null,null,0,0,null,Nintendo Switch Bundle,0,0.00,null,null,Double Helix Set,OUTFIT,RELEASED
 Telemetry,Find your bearings.,EPIC,telemetry,null,null,0,0,Double Helix,Nintendo Switch Bundle,0,0.00,null,null,Double Helix Set,BACKBLING,RELEASED
-Eon,Timeless design.,LEGENDARY,eon,null,null,0,0,null,Xbox One Bundle,0,0.00,null,null,Eon Set,OUTFIT,RELEASED
+Eon,Timeless design.,LEGENDARY,eon,null,eon,0,0,null,Xbox One S Bundle,0,0.00,null,null,Eon Set,OUTFIT,RELEASED
 Wolfpack,Packing extra bite,LEGENDARY,wolfpack,null,null,0,0,null,null,0,0.00,Dire Challenges,null,Full Moon Set,BACKBLING,RELEASED
 Maximilian,Pilot your way to victory.,RARE,maximilian,null,null,0,0,null,null,1200,0.00,null,null,Aviation Age Set,OUTFIT,RELEASED
 Para-Provisions,Packed at altitude,RARE,para-provisions,null,null,0,0,Maximilian,null,0,0.00,null,null,Aviation Age Set,BACKBLING,RELEASED
-Aurora ,Harness the solar wind,EPIC,aurora,null,null,0,0,null,Xbox One Bundle,0,0.00,null,null,Eon Set,GLIDER,RELEASED
-Resonator,Swing with frequency,EPIC,resonator,null,null,0,0,null,Xbox One Bundle,0,0.00,null,null,Eon Set,HARVESTINGTOOL,RELEASED
+Aurora ,Harness the solar wind,EPIC,aurora,null,null,0,0,null,Xbox One S Bundle,0,0.00,null,null,Eon Set,GLIDER,RELEASED
+Resonator,Swing with frequency,EPIC,resonator,null,null,0,0,null,Xbox One S Bundle,0,0.00,null,null,Eon Set,HARVESTINGTOOL,RELEASED
 Pinpoint,Accuracy is paramount,RARE,pinpoint,null,null,0,0,null,Nintendo Switch Bundle,0,0.00,null,null,Double Helix Set,HARVESTINGTOOL,RELEASED
 Rotor,Calibrated to maximize airflow,EPIC,rotor,null,null,0,0,null,Nintendo Switch Bundle,0,0.00,null,null,Double Helix Set,GLIDER,RELEASED
+Divine Dragon,Sail through the clouds and row toward victory.,EPIC,divine-dragon,null,divine-dragon,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+Guan Yu,Loyalty and bravery at all times.,EPIC,guan-yu,null,guan-yu,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+Loyal Shield,Dependable as always,EPIC,loyal-shield,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+Taro,Protector of the wilds.,EPIC,taro,null,taro,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+Trusty Tusks,Tufted and tusked.,EPIC,trusty-tusks,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+Bombastic,Step up and show 'em what you've got,RARE,bombastic,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+Flying Carp,Dive into the sky.,RARE,flying-carp,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+Guandao,Sharpened for battle.,RARE,guandao,null,guandao,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+Hot Marat,Wreck the dance floor.,RARE,hot-marat,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+Instinct,Victory comes naturally.,RARE,instinct,null,instinct,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+Knee Slapper,Rustle up the rhythm,RARE,knee-slapper,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+Longhorn,Corral thge competition,RARE,longhorn,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+Pivot,Primed to pivot with precision.,RARE,pivot,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+Reaction Tank,Pressurized.,RARE,reaction-tank,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+Reflex,"Quick to react, first to retaliate",RARE,reflex,null,reflex,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+Response Unit,Send a message.,RARE,response-unit,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+Riot,Defending the pre-post-punk-post-hardcore scene.,RARE,riot,null,riot,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+Angular Axe,Acutely obtuse.,UNCOMMON,angular-axe,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+Gatekeeper,On the threshold of victory.,UNCOMMON,gatekeeper,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+Hyper,What's up must come down.,UNCOMMON,hyper,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+Time Out,Stop the clock.,UNCOMMON,time-out,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+A.I.M.,Scanning the area for targets,LEGENDARY,aim,null,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,A.I.M. Set,OUTFIT,RELEASED
+E.L.I.M.,Increment elimination count.,LEGENDARY,elim,null,null,0,0,A.I.M.,null,0,0.00,null,null,A.I.M. Set,BACKBLING,RELEASED
+Arachne,Weave a web to victory.,LEGENDARY,arachne,null,arachne,0,0,null,null,2000,0.00,null,null,Arachnid Set,OUTFIT,RELEASED
+Bladed Wings,Wings with edge.,LEGENDARY,bladed-wings,null,null,0,0,Shogun,null,0,0.00,null,null,Shogun Set,BACKBLING,RELEASED
+Freezing Point,Ice cold.,LEGENDARY,freezing-point,null,null,0,0,Frostbite,null,0,0.00,null,null,Frostbite Set,OUTFIT,RELEASED
+Long Legs,Stretch your legs.,LEGENDARY,long-legs,null,null,0,0,Arachne,null,0,0.00,null,null,Arachnid Set,BACKBLING,RELEASED
+Spider Knight,They'll fall into your web.,LEGENDARY,spider-knight,null,spider-knight,0,0,null,null,2000,0.00,null,null,Arachnid Set,OUTFIT,RELEASED
+Spider Shield,Spun from endless strands.,LEGENDARY,spider-shield,null,null,0,0,Spider Knight,null,0,0.00,null,null,Arachnid Set,BACKBLING,RELEASED
+Shogun,Suited for the ultimate showdown.,LEGENDARY,shogun,null,shogun,0,0,null,null,2000,0.00,null,null,Shogun Set,OUTFIT,RELEASED
+Frostbite,Brave the cold.,LEGENDARY,frostbite,null,frostbite,0,0,null,null,0,29.99,null,null,Frostbite Set,OUTFIT,RELEASED
+Jawblade,Clench victory between your teeth.,RARE,jawblade,null,null,0,0,null,null,800,0.00,null,null,Shogun Set,HARVESTINGTOOL,RELEASED
+Kabuto,Sharp enough to cut through air.,RARE,kabuto,null,null,0,0,null,null,800,0.00,null,null,Shogun Set,GLIDER,RELEASED
+Shackled Stone,Keep it contained.,LEGENDARY,shackled-stone,null,null,0,0,Deadfire,null,0,0.00,null,null,Western Wilds Set,BACKBLING,RELEASED
+Deadfire,"This town ain't big enough... Reactive: Transforms by dealing damage, or by outliving other players.",LEGENDARY,deadfire,null,deadfire,0,0,null,null,2000,0.00,null,null,Western Wilds Set,OUTFIT,RELEASED
+Arcanum,Perilous and potent.,EPIC,arcanum,null,null,0,0,Scourge,null,0,0.00,null,null,Grim Medicine Set,BACKBLING,RELEASED
+Scourge,Seeking the cure.,EPIC,scourge,null,scourge,0,0,null,null,1500,0.00,null,null,Grim Medicine Set,OUTFIT,RELEASED
+Dismal Cape,Black as night.,EPIC,dismal-cape,null,null,0,0,Plague,null,0,0.00,null,null,Grim Medicine Set,BACKBLING,RELEASED
+Herald's Wand,It's vital.,RARE,heralds-wand,null,null,0,0,null,null,800,0.00,null,null,Grim Medicine Set,HARVESTINGTOOL,RELEASED
+Lamplight,A light in the darkness.,RARE,lamplight,null,null,0,0,null,null,800,0.00,null,null,Grim Medicine Set,GLIDER,RELEASED
+Plague,The doctor is in...,EPIC,plague,null,plague,0,0,null,null,1500,0.00,null,null,Grim Medicine Set,OUTFIT,RELEASED
+Birdhovel,Keep your enemies close.,EPIC,birdhovel,null,null,0,0,Straw Ops,null,0,0.00,null,null,Straw Stuffed Set,BACKBLING,RELEASED
+Field Wraith,"Don't just scare crows, give them nightmares.",EPIC,field-wraith,null,null,0,0,null,null,1200,0.00,null,null,Straw Stuffed Set,GLIDER,RELEASED
+Harvester,Reap what you sow.,RARE,harvester,null,null,0,0,null,null,800,0.00,null,null,Straw Stuffed Set,HARVESTINGTOOL,RELEASED
+Hay Man,Scare. Those. Crows.,EPIC,hay-man,null,hay-man,0,0,null,null,1500,0.00,null,null,Straw Stuffed Set,OUTFIT,RELEASED
+Hay Nest,Hatch a plan.,EPIC,hay-nest,null,null,0,0,Hay Man,null,0,0.00,null,null,Straw Stuffed Set,BACKBLING,RELEASED
+Straw Ops,The harvest grows near.,EPIC,straw-ops,null,straw-ops,0,0,null,null,1500,0.00,null,null,Straw Stuffed Set,OUTFIT,RELEASED
+Castor,The wandering warlock of Wailing Woods.,EPIC,castor,null,castor,0,0,null,null,1500,0.00,null,null,Arcane Arts Set,OUTFIT,RELEASED
+Elmira,She'll literally charm you.,EPIC,elmira,null,elmira,0,0,null,null,1500,0.00,null,null,Arcane Arts Set,OUTFIT,RELEASED
+Magic Wings,Soaring and spellbound.,EPIC,magic-wings,null,null,0,0,null,null,1200,0.00,null,null,Arcane Arts Set,GLIDER,RELEASED
+Spellbinder,Arcane apparel.,EPIC,spellbinder,null,null,0,0,Castor,null,0,0.00,null,null,Arcane Arts Set,BACKBLING,RELEASED
+Spellslinger,Ancient and gnarled.,RARE,spellslinger,null,null,0,0,null,null,800,0.00,null,null,Arcane Arts Set,HARVESTINGTOOL,RELEASED
+Tome Pouch,Long forgotten lore.,EPIC,tome-pouch,null,null,0,0,Elmira,null,0,0.00,null,null,Arcane Arts Set,BACKBLING,RELEASED
+Calavera,Bare bones fashion.,EPIC,calavera,null,null,0,0,Rosa,null,0,0.00,null,null,Muertos Set,BACKBLING,RELEASED
+Dante,Back for more. Reactive: Glows in the dark.,EPIC,dante,null,dante,0,0,null,null,1500,0.00,null,null,Muertos Set,OUTFIT,RELEASED
+Rosa,Celebrate the unknown. Reactive: Glows in the dark.,EPIC,rosa,null,rosa,0,0,null,null,1500,0.00,null,null,Muertos Set,OUTFIT,RELEASED
+Six String Striker,Now taking requests.,EPIC,six-string-striker,null,null,0,0,null,null,1200,0.00,null,null,Muertos Set,HARVESTINGTOOL,RELEASED
+Spirit,It's a hoot.,EPIC,spirit,null,null,0,0,null,null,1200,0.00,null,null,Muertos Set,GLIDER,RELEASED
+Spirit Cape,Find your spirit.,EPIC,spirit-cape,null,null,0,0,Dante,null,0,0.00,null,null,Muertos Set,BACKBLING,RELEASED
+Coven Cape,Certified coven couture.,EPIC,coven-cape,null,null,0,0,Sanctum,null,0,0.00,null,null,Nite Coven Set,BACKBLING,RELEASED
+Sanctum,Bestill your beating heart.,EPIC,sanctum,null,sanctum,0,0,null,null,1500,0.00,null,null,Nite Coven Set,OUTFIT,RELEASED
+Moonrise,Strike at midnight.,EPIC,moonrise,null,null,0,0,null,null,1200,0.00,null,null,Nite Coven Set,HARVESTINGTOOL,RELEASED
+Discovery,Explore the galaxy.,EPIC,discovery,null,null,0,0,null,Samsung Galaxy Bundle,0,0.00,null,null,null,GLIDER,RELEASED
+Dark Engine,Fueled by darkness.,EPIC,dark-engine,null,null,0,0,null,null,0,0.00,Fortnitemares Challenge Part 4,null,Western Wilds Set,GLIDER,RELEASED
+Fiery,Express yourself on the battlefield.,UNCOMMON,fiery,null,null,0,0,null,null,0,0.00,Fortnitemares Challenge Part 1,null,null,EMOTICON,RELEASED
+Deadfire,Leave your mark.,UNCOMMON,deadfire,null,null,0,0,null,null,0,0.00,Fortnitemares Challenge Part 2,null,null,SPRAY,RELEASED
+Virulent Flames,Fortnitemares Challenge Part 1,RARE,virulent-flames,null,null,0,0,null,null,0,0.00,Fortnitemares Challenge Part 3,null,Western Wilds Set,CONTRAIL,RELEASED
+Lil' Kev,Loves to play in the lake.,RARE,lil-kev,null,null,0,0,null,null,0,0.00,Lil' Kev Challenges,null,null,BACKBLING,RELEASED
+Tender Defender,Protect your nuggets.,EPIC,tender-defender,null,tender-defender,0,0,null,null,1500,0.00,null,null,Fowl Play Set,OUTFIT,RELEASED
+Hatchback,Came out of your shell.,EPIC,hatchback,null,null,0,0,Tender Defender,null,0,0.00,null,null,Fowl Play Set,BACKBLING,RELEASED
+Flappy Flyer,Keep it flappy.,RARE,flappy-flyer,null,null,0,0,null,null,800,0.00,null,null,Fowl Play Set,GLIDER,RELEASED
+Scrambler,Mix it up.,UNCOMMON,scrambler,null,null,0,0,null,null,500,0.00,null,null,Fowl Play Set,HARVESTINGTOOL,RELEASED
+Crypt Cruiser,From beyond the grave!,EPIC,crypt-cruiser,null,null,0,0,null,null,1200,0.00,null,Crypt Cruiser Style,Skull Squad Set,GLIDER,RELEASED
+Skull Ranger,She's got a bone to pick.,RARE,skull-ranger,null,skull-ranger,0,0,null,null,0,0.00,null,Skull Ranger Style,Skull Squad Set,OUTFIT,RELEASED
+Skull Sickle,Skeleton's choice.,EPIC,skull-sickle,null,null,0,0,null,null,1200,0.00,null,null,Skull Squad Set,HARVESTINGTOOL,RELEASED
+Dark Shard,"Splintered from geometric perfection. Reactive: Transforms by dealing damage, or by outliving other players.",EPIC,dark-shard,null,dark-shard,0,0,null,null,1200,0.00,null,null,Western Wilds Set,HARVESTINGTOOL,RELEASED
+End Zone,Deep in opposition territory.,EPIC,end-zone,null,end-zone,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Blitz,Catch 'em off guard.,EPIC,blitz,null,blitz,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Gridiron,Dominate the field.,EPIC,gridiron,null,gridiron,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Interceptor,Take what's theirs.,EPIC,interceptor,null,interceptor,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Juke,Leave them in your dust.,EPIC,juke,null,juke,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Rush,Just keep running.,EPIC,rush,null,rush,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Spike,Throw it on the ground.,EPIC,spike,null,spike,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+Strong Guard,Protect the blind side.,EPIC,strong-guard,null,strong-guard,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
+First Downer,10 yards to victory.,UNCOMMON,first-downer,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+Golden Pigskin,Claim the trophy.,UNCOMMON,golden-pigskin,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+Touchdown,Go for the extra point.,UNCOMMON,touchdown,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,GLIDER,RELEASED
+Upright Axe," It's up, and it's good!",RARE,upright-axe,null,null,0,0,null,null,800,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+Flapjackie,Loves pancakes almost as much as victory.,EPIC,flapjackie,null,flapjackie,0,0,null,null,1500,0.00,null,null,Animal Jackets,OUTFIT,RELEASED
+Growler,This good boy is not afraid to bare his teeth.,EPIC,growler,null,growler,0,0,null,null,1500,0.00,null,null,Animal Jackets,OUTFIT,RELEASED
+Jackspammer,Swing it over and over and over and over and over...,UNCOMMON,jackspammer,null,null,0,0,null,null,500,0.00,null,null,Animal Jackets,HARVESTINGTOOL,RELEASED
+Nibbles,Stuffed full of carrots.,EPIC,nibbles,null,null,0,0,Flapjackie,null,0,0.00,null,null,Animal Jackets,BACKBLING,RELEASED
+Poofy Parasail,Puffed up and ready for landing.,RARE,poofy-parasail,null,null,0,0,null,null,800,0.00,null,null,Animal Jackets,GLIDER,RELEASED
+Woofs,Already house-broken.,EPIC,woofs,null,null,0,0,Growler,null,0,0.00,null,null,Animal Jackets,BACKBLING,RELEASED
+Galactic Disc,Light-years ahead of the rest.,EPIC,galactic-disc,null,null,0,0,null,Samsung Galaxy Bundle,0,0.00,null,null,null,BACKBLING,RELEASED
+Hollowhead,All tricks. No treats.,EPIC,hollowhead,null,hollowhead,0,0,null,null,1500,0.00,null,null,Pumpkin Patch,OUTFIT,RELEASED
+Carver,Honed for the harvest.,RARE,carver,null,null,0,0,null,null,800,0.00,null,null,Pumpkin Patch,HARVESTINGTOOL,RELEASED
+Jack Gourdon,Squash the competition.,EPIC,jack-gourdon,null,jack-gourdon,0,0,null,null,1500,0.00,null,null,Pumpkin Patch,OUTFIT,RELEASED
+Mouldering Cloak,"Ragged and worn, from days long gone.",EPIC,mouldering-cloak,null,null,0,0,null,null,0,0.00,null,null,Pumpkin Patch,BACKBLING,RELEASED
+Spooky Team Leader,Find delight in fright.,EPIC,spooky-team-leader,null,spooky-team-leader,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
+Goodie Gourd,Yum!,EPIC,goodie-gourd,null,null,0,0,Spooky Team Leader,null,0,0.00,null,null,null,BACKBLING,RELEASED
+Hatchling,Along came a glider.,EPIC,hatchling,null,null,0,0,null,null,1200,0.00,null,null,Arachnid Set,GLIDER,RELEASED
+Web breaker,Clear out the cobwebs.,RARE,web-breaker,null,null,0,0,null,null,800,0.00,null,null,Arachnid Set,HARVESTINGTOOL,RELEASED
