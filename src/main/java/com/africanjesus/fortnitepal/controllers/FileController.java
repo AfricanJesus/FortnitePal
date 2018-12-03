@@ -1,21 +1,24 @@
 package com.africanjesus.fortnitepal.controllers;
 
+import com.africanjesus.fortnitepal.model.FolderNode;
 import com.africanjesus.fortnitepal.services.FileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
+import java.util.ArrayList;
+import java.util.List;
 
 
 @Controller
-public class UploadController {
+public class FileController {
 
     @Autowired
     FileService fileService;
+
+    List<String> files = new ArrayList<String>();
 
     //@CrossOrigin(origins = "http://localhost:4200") // Call  from Local Angualar
     @PostMapping("/upload/{folderName}")
@@ -30,4 +33,11 @@ public class UploadController {
             return ResponseEntity.status(HttpStatus.EXPECTATION_FAILED).body(message);
         }
     }
+
+    @GetMapping("/images/all")
+    @ResponseBody
+    public List<FolderNode> getImages(){
+        return fileService.allImagesInDirectory();
+    }
+
 }
