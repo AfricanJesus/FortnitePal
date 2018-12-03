@@ -16,7 +16,7 @@ import java.util.List;
 public class ChallengeSetDataLoader implements CommandLineRunner {
 
     private final Logger logger = LoggerFactory.getLogger(ChallengeSetDataLoader.class);
-
+    private String url = "https://s3.us-east-2.amazonaws.com/fortnitepal/images/challenge";
     private ChallengeSetServiceImpl challengeSetServiceImpl;
 
     @Autowired
@@ -37,11 +37,11 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Positron");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/positron.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Reach Season Level 10", "Carbide Chest", "http://localhost:8080/images/challenge/carbide-chest.png"));
-        challenges.add(new Challenge("Reach Season Level 20", "Carbide Legs", "http://localhost:8080/images/challenge/carbide-legs.png"));
-        challenges.add(new Challenge("Reach Season Level 30", "Carbide Arms", "http://localhost:8080/images/challenge/carbide-arms.png"));
-        challenges.add(new Challenge("Reach Season Level 40", "Carbide Head", "http://localhost:8080/images/challenge/carbide-head.png"));
-        challenges.add(new Challenge("Reach Season Level 65", "Carbide Accents", "http://localhost:8080/images/challenge/carbide-chest-2.png"));
+        challenges.add(new Challenge("Reach Season Level 10", "Carbide Chest", url + "/carbide-chest.png"));
+        challenges.add(new Challenge("Reach Season Level 20", "Carbide Legs", url + "/carbide-legs.png"));
+        challenges.add(new Challenge("Reach Season Level 30", "Carbide Arms", url + "/carbide-arms.png"));
+        challenges.add(new Challenge("Reach Season Level 40", "Carbide Head", url + "/carbide-head.png"));
+        challenges.add(new Challenge("Reach Season Level 65", "Carbide Accents", url + "/carbide-chest-2.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -52,11 +52,11 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Rift Edge");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/rift-edge.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Gain 10,000 XP", "Stage 1", "http://localhost:8080/images/challenge/drift-stage-1.png"));
-        challenges.add(new Challenge("Gain 25,000 XP", "Stage 2", "http://localhost:8080/images/challenge/drift-stage-2.png"));
-        challenges.add(new Challenge("Gain 50,000 XP", "Stage 3", "http://localhost:8080/images/challenge/drift-stage-3.png"));
-        challenges.add(new Challenge("Gain 100,000 XP", "Stage 4", "http://localhost:8080/images/challenge/drift-stage-4.png"));
-        challenges.add(new Challenge("Gain 200,000 XP", "Stage 5", "http://localhost:8080/images/challenge/drift-stage-5.png"));
+        challenges.add(new Challenge("Gain 10,000 XP", "Stage 1", url + "/drift-stage-1.png"));
+        challenges.add(new Challenge("Gain 25,000 XP", "Stage 2", url + "/drift-stage-2.png"));
+        challenges.add(new Challenge("Gain 50,000 XP", "Stage 3", url + "/drift-stage-3.png"));
+        challenges.add(new Challenge("Gain 100,000 XP", "Stage 4", url + "/drift-stage-4.png"));
+        challenges.add(new Challenge("Gain 200,000 XP", "Stage 5", url + "/drift-stage-5.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -67,11 +67,11 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Onslaught");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/onslaught.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Reach Season Level 25", "Omega Chest", "http://localhost:8080/images/challenge/omega-chest.png"));
-        challenges.add(new Challenge("Reach Season Level 35", "Omega Legs", "http://localhost:8080/images/challenge/omega-legs.png"));
-        challenges.add(new Challenge("Reach Season Level 45", "Omega Arms", "http://localhost:8080/images/challenge/omega-arms.png"));
-        challenges.add(new Challenge("Reach Season Level 55", "Omega Mask", "http://localhost:8080/images/challenge/omega-mask.png"));
-        challenges.add(new Challenge("Reach Season Level 80", "Omega Accent", "http://localhost:8080/images/challenge/omega-accent.png"));
+        challenges.add(new Challenge("Reach Season Level 25", "Omega Chest", url + "/omega-chest.png"));
+        challenges.add(new Challenge("Reach Season Level 35", "Omega Legs", url + "/omega-legs.png"));
+        challenges.add(new Challenge("Reach Season Level 45", "Omega Arms", url + "/omega-arms.png"));
+        challenges.add(new Challenge("Reach Season Level 55", "Omega Mask", url + "/omega-mask.png"));
+        challenges.add(new Challenge("Reach Season Level 80", "Omega Accent", url + "/omega-accent.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -82,11 +82,11 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Permafrost");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/permafrost.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Gain 35,000 XP", "Stage 1", "http://localhost:8080/images/challenge/ragnarok-stage-1.png"));
-        challenges.add(new Challenge("Gain 75,000 XP", "Stage 2", "http://localhost:8080/images/challenge/ragnarok-stage-2.png"));
-        challenges.add(new Challenge("Gain 120,000 XP", "Stage 3", "http://localhost:8080/images/challenge/ragnarok-stage-3.png"));
-        challenges.add(new Challenge("Gain 250,000 XP", "Stage 4", "http://localhost:8080/images/challenge/ragnarok-stage-4.png"));
-        challenges.add(new Challenge("Gain 500,000 XP", "Stage 5", "http://localhost:8080/images/challenge/ragnarok-stage-5.png"));
+        challenges.add(new Challenge("Gain 35,000 XP", "Stage 1", url + "/ragnarok-stage-1.png"));
+        challenges.add(new Challenge("Gain 75,000 XP", "Stage 2", url + "/ragnarok-stage-2.png"));
+        challenges.add(new Challenge("Gain 120,000 XP", "Stage 3", url + "/ragnarok-stage-3.png"));
+        challenges.add(new Challenge("Gain 250,000 XP", "Stage 4", url + "/ragnarok-stage-4.png"));
+        challenges.add(new Challenge("Gain 500,000 XP", "Stage 5", url + "/ragnarok-stage-5.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -98,14 +98,14 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Reckoning");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/harvestingtool/reckoning.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Gain 20,000 XP", "Stage 1", "http://localhost:8080/images/challenge/calamity-stage-1.png"));
-        challenges.add(new Challenge("Gain 50,000 XP", "Stage 2", "http://localhost:8080/images/challenge/calamity-stage-2.png"));
-        challenges.add(new Challenge("Gain 90,000 XP", "Stage 3", "http://localhost:8080/images/challenge/calamity-stage-3.png"));
-        challenges.add(new Challenge("Gain 140,000 XP", "Stage 4", "http://localhost:8080/images/challenge/calamity-stage-4.png"));
-        challenges.add(new Challenge("Gain 200,000 XP", "Stage 5", "http://localhost:8080/images/challenge/calamity-stage-5.png"));
-        challenges.add(new Challenge("Complete 10 Weekly Challenges", "Color (TEAL)","http://localhost:8080/images/challenge/calamity-color-teal.png"));
-        challenges.add(new Challenge("Complete 25 Weekly Challenges", "Color (PURPLE)","http://localhost:8080/images/challenge/calamity-color-purple.png"));
-        challenges.add(new Challenge("Complete 50 Weekly Challenges", "Color (BLACK)","http://localhost:8080/images/challenge/calamity-color-black.png"));
+        challenges.add(new Challenge("Gain 20,000 XP", "Stage 1", url + "/calamity-stage-1.png"));
+        challenges.add(new Challenge("Gain 50,000 XP", "Stage 2", url + "/calamity-stage-2.png"));
+        challenges.add(new Challenge("Gain 90,000 XP", "Stage 3", url + "/calamity-stage-3.png"));
+        challenges.add(new Challenge("Gain 140,000 XP", "Stage 4", url + "/calamity-stage-4.png"));
+        challenges.add(new Challenge("Gain 200,000 XP", "Stage 5", url + "/calamity-stage-5.png"));
+        challenges.add(new Challenge("Complete 10 Weekly Challenges", "Color (TEAL)",url + "/calamity-color-teal.png"));
+        challenges.add(new Challenge("Complete 25 Weekly Challenges", "Color (PURPLE)",url + "/calamity-color-purple.png"));
+        challenges.add(new Challenge("Complete 50 Weekly Challenges", "Color (BLACK)",url + "/calamity-color-black.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -116,14 +116,14 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetReward("Wolfpack");
         challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/backbling/wolfpack.png");
         challenges = new ArrayList<>();
-        challenges.add(new Challenge("Gain 30,000 XP","Stage (Half-Wolf)","http://localhost:8080/images/challenge/dire-half-wolf.png"));
-        challenges.add(new Challenge("Gain 70,000 XP", "Stage (Brown Werewolf)","http://localhost:8080/images/challenge/dire-brown-werewolf.png"));
-        challenges.add(new Challenge("Gain 120,000 XP", "Stage (Grey Werewolf)","http://localhost:8080/images/challenge/dire-grey-werewolf.png"));
-        challenges.add(new Challenge("Gain 180,000 XP", "Stage (White Werewolf)","http://localhost:8080/images/challenge/dire-white-werewolf.png"));
-        challenges.add(new Challenge("Gain 250,000 XP", "Stage (Black Werewolf)","http://localhost:8080/images/challenge/dire-black-werewolf.png"));
-        challenges.add(new Challenge("Complete 20 Weekly Challenges", "Color (BLUE)","http://localhost:8080/images/challenge/dire-color-blue.png"));
-        challenges.add(new Challenge("Complete 40 Weekly Challenges", "Color (YELLOW)","http://localhost:8080/images/challenge/dire-color-yellow.png"));
-        challenges.add(new Challenge("Complete 60 Weekly Challenges", "Color (BROWN)","http://localhost:8080/images/challenge/dire-color-brown.png"));
+        challenges.add(new Challenge("Gain 30,000 XP","Stage (Half-Wolf)",url + "/dire-half-wolf.png"));
+        challenges.add(new Challenge("Gain 70,000 XP", "Stage (Brown Werewolf)",url + "/dire-brown-werewolf.png"));
+        challenges.add(new Challenge("Gain 120,000 XP", "Stage (Grey Werewolf)",url + "/dire-grey-werewolf.png"));
+        challenges.add(new Challenge("Gain 180,000 XP", "Stage (White Werewolf)",url + "/dire-white-werewolf.png"));
+        challenges.add(new Challenge("Gain 250,000 XP", "Stage (Black Werewolf)",url + "/dire-black-werewolf.png"));
+        challenges.add(new Challenge("Complete 20 Weekly Challenges", "Color (BLUE)",url + "/dire-color-blue.png"));
+        challenges.add(new Challenge("Complete 40 Weekly Challenges", "Color (YELLOW)",url + "/dire-color-yellow.png"));
+        challenges.add(new Challenge("Complete 60 Weekly Challenges", "Color (BROWN)",url + "/dire-color-brown.png"));
         challengeSet.setChallenges(challenges);
         challengeSetServiceImpl.save(challengeSet);
 
@@ -132,7 +132,7 @@ public class ChallengeSetDataLoader implements CommandLineRunner {
         challengeSet.setChallengeSetName("Tomatohead Challenges");
         challengeSet.setChallengeSetObjective("Complete all 3 challenges to earn reward item");
         challengeSet.setChallengeSetReward("Tomatohead Crown");
-        challengeSet.setChallengeSetRewardImage("http://localhost:8080/images/challenge/tomatohead.png");
+        challengeSet.setChallengeSetRewardImage(url + "/tomatohead.png");
         challenges = new ArrayList<>();
         challenges.add(new Challenge("Play 25 matches", null, null));
         challenges.add(new Challenge("Deal 5000 damage to opponents", null, null));

@@ -22,7 +22,7 @@ import java.util.List;
 public class ItemDataLoader implements CommandLineRunner {
 
     private final Logger logger = LoggerFactory.getLogger(ItemDataLoader.class);
-
+    private String url = "https://s3.us-east-2.amazonaws.com/fortnitepal/images";
     private final ItemServiceImpl itemServiceImpl;
 
     @Autowired
@@ -34,7 +34,6 @@ public class ItemDataLoader implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         logger.info("Loading Item Data ");
-        String url = "http://localhost:8080/images";
         String[] itemInfo;
         Obtained obtained;
         Item item;
