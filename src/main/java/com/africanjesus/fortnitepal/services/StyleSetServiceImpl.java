@@ -5,6 +5,8 @@ import com.africanjesus.fortnitepal.repositories.StyleSetRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class StyleSetServiceImpl implements StyleSetService {
 
@@ -21,5 +23,9 @@ public class StyleSetServiceImpl implements StyleSetService {
     @Override
     public void save(StyleSet set) {
         styleSetRepository.save(set);
+    }
+    @Override
+    public List<StyleSet> findAll(){
+        return styleSetRepository.findAll();
     }
 }

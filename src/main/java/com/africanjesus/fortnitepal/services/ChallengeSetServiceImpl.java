@@ -5,6 +5,8 @@ import com.africanjesus.fortnitepal.repositories.ChallengeSetRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class ChallengeSetServiceImpl implements ChallengeSetService{
 
@@ -21,5 +23,10 @@ public class ChallengeSetServiceImpl implements ChallengeSetService{
     @Override
     public void save(ChallengeSet set) {
         challengeSetRepository.save(set);
+    }
+
+    @Override
+    public List<ChallengeSet> findAll(){
+        return challengeSetRepository.findAll();
     }
 }
