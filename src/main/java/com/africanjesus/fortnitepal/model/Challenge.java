@@ -1,9 +1,11 @@
 package com.africanjesus.fortnitepal.model;
 
-import javax.persistence.Embeddable;
+import javax.persistence.*;
+import java.util.Objects;
 
 @Embeddable
 public class Challenge {
+
 
     private String objective;
 
@@ -45,9 +47,24 @@ public class Challenge {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Challenge)) return false;
+        Challenge challenge = (Challenge) o;
+        return Objects.equals(objective, challenge.objective) &&
+                Objects.equals(reward, challenge.reward) &&
+                Objects.equals(rewardImage, challenge.rewardImage);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash( objective, reward, rewardImage);
+    }
+
+    @Override
     public String toString() {
         return "Challenge{" +
-                "objective='" + objective + '\'' +
+                ", objective='" + objective + '\'' +
                 ", reward='" + reward + '\'' +
                 ", rewardImage='" + rewardImage + '\'' +
                 '}';

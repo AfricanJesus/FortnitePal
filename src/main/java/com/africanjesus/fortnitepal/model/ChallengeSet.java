@@ -3,6 +3,7 @@ package com.africanjesus.fortnitepal.model;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 @Entity
 @Table(name = "challenge_sets")
@@ -81,6 +82,23 @@ public class ChallengeSet {
 
     public void setChallengeSetRewardImage(String challengeSetRewardImage) {
         this.challengeSetRewardImage = challengeSetRewardImage;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof ChallengeSet)) return false;
+        ChallengeSet that = (ChallengeSet) o;
+        return Objects.equals(challengeSetName, that.challengeSetName) &&
+                Objects.equals(challenges, that.challenges) &&
+                Objects.equals(challengeSetObjective, that.challengeSetObjective) &&
+                Objects.equals(challengeSetReward, that.challengeSetReward) &&
+                Objects.equals(challengeSetRewardImage, that.challengeSetRewardImage);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(challengeSetName, challenges, challengeSetObjective, challengeSetReward, challengeSetRewardImage);
     }
 
     @Override

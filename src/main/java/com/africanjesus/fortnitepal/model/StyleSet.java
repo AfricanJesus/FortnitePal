@@ -3,6 +3,7 @@ package com.africanjesus.fortnitepal.model;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 @Entity
 @Table(name = "style_sets")
@@ -49,6 +50,20 @@ public class StyleSet {
 
     public void setStages(List<Style> stages) {
         this.stages = stages;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof StyleSet)) return false;
+        StyleSet styleSet = (StyleSet) o;
+        return Objects.equals(styleSetName, styleSet.styleSetName) &&
+                Objects.equals(stages, styleSet.stages);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(styleSetName, stages);
     }
 
     @Override

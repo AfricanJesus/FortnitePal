@@ -6,7 +6,6 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
-@CrossOrigin(origins = "http://localhost:4200")
 @Repository
 public interface StyleSetRepository extends JpaRepository <StyleSet, Long> {
     StyleSet findByStyleSetName(@Param("name")String name);

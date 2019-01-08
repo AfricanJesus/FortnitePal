@@ -7,6 +7,7 @@ import com.africanjesus.fortnitepal.ReleaseStatus;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 @Entity
 @Table(name = "items")
@@ -133,6 +134,27 @@ public class Item {
 
     public void setStatus(ReleaseStatus status) {
         this.status = status;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Item)) return false;
+        Item item = (Item) o;
+        return Objects.equals(name, item.name) &&
+                Objects.equals(desc, item.desc) &&
+                rarityType == item.rarityType &&
+                Objects.equals(images, item.images) &&
+                Objects.equals(obtained, item.obtained) &&
+                Objects.equals(styleSet, item.styleSet) &&
+                Objects.equals(set, item.set) &&
+                itemType == item.itemType &&
+                status == item.status;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, desc, rarityType, images, obtained, styleSet, set, itemType, status);
     }
 
     @Override

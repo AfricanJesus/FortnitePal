@@ -2,6 +2,7 @@ package com.africanjesus.fortnitepal.model;
 
 
 import javax.persistence.Embeddable;
+import java.util.Objects;
 
 @Embeddable
 public class Style {
@@ -34,6 +35,20 @@ public class Style {
 
     public void setStyleItemImage(String styleItemImage) {
         this.styleItemImage = styleItemImage;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Style)) return false;
+        Style style = (Style) o;
+        return Objects.equals(styleName, style.styleName) &&
+                Objects.equals(styleItemImage, style.styleItemImage);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(styleName, styleItemImage);
     }
 
     @Override
