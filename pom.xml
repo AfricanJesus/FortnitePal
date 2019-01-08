@@ -76,6 +76,11 @@
 			<version>4.2</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>aws-java-sdk</artifactId>
+			<version>1.11.379</version>
+		</dependency>
 		<!--<dependency>-->
 			<!--<groupId>com.auth0</groupId>-->
 			<!--<artifactId>auth0-spring-security-api</artifactId>-->
