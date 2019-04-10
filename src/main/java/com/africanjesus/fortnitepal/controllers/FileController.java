@@ -1,6 +1,6 @@
 package com.africanjesus.fortnitepal.controllers;
 
-import com.africanjesus.fortnitepal.services.S3Service;
+import com.africanjesus.fortnitepal.services.interfaces.S3Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

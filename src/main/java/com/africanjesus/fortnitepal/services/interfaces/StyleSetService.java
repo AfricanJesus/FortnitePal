@@ -1,6 +1,6 @@
-package com.africanjesus.fortnitepal.services;
+package com.africanjesus.fortnitepal.services.interfaces;
 
-import com.africanjesus.fortnitepal.model.StyleSet;
+import com.africanjesus.fortnitepal.model.documents.StyleSet;
 
 import java.util.List;
 

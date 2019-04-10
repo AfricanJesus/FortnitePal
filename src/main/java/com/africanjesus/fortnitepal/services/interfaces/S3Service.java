@@ -1,4 +1,4 @@
-package com.africanjesus.fortnitepal.services;
+package com.africanjesus.fortnitepal.services.interfaces;
 
 import org.springframework.web.multipart.MultipartFile;
 

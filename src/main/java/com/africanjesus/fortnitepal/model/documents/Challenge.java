@@ -1,6 +1,7 @@
-package com.africanjesus.fortnitepal.model;
+package com.africanjesus.fortnitepal.model.documents;
 
-import javax.persistence.*;
+
+import javax.persistence.Embeddable;
 import java.util.Objects;
 
 @Embeddable
@@ -21,6 +22,7 @@ public class Challenge {
         this.reward = reward;
         this.rewardImage = rewardImage;
     }
+
 
     public String getObjective() {
         return objective;

@@ -1,24 +1,22 @@
-package com.africanjesus.fortnitepal.model;
+package com.africanjesus.fortnitepal.model.documents;
 
-import javax.persistence.*;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@Entity
-@Table(name = "style_sets")
+
+@Document(collection = "Style Sets")
 public class StyleSet {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private String _id;
 
     private String styleSetName;
 
-    @ElementCollection
-    @CollectionTable(name = "stages", joinColumns = @JoinColumn(name = "style_sets_id"))
     private List<Style> stages = new ArrayList();
-
 
     public StyleSet() {
     }
@@ -28,12 +26,12 @@ public class StyleSet {
         this.stages = stages;
     }
 
-    public long getId() {
-        return id;
+    public String get_id() {
+        return _id;
     }
 
-    public void setId(long id) {
-        this.id = id;
+    public void set_id(String _id) {
+        this._id = _id;
     }
 
     public String getStyleSetName() {
@@ -69,7 +67,6 @@ public class StyleSet {
     @Override
     public String toString() {
         return "StyleSet{" +
-                "id=" + id +
                 ", styleSetName='" + styleSetName + '\'' +
                 ", stages=" + stages +
                 '}';

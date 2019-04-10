@@ -1,4 +1,4 @@
-package com.africanjesus.fortnitepal.model;
+package com.africanjesus.fortnitepal.model.documents;
 
 
 import javax.persistence.Embeddable;

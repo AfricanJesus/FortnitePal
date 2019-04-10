@@ -1,42 +1,38 @@
-package com.africanjesus.fortnitepal.model;
+package com.africanjesus.fortnitepal.model.documents;
 
 import com.africanjesus.fortnitepal.ItemType;
 import com.africanjesus.fortnitepal.RarityType;
 import com.africanjesus.fortnitepal.ReleaseStatus;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
-import javax.persistence.*;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@Entity
-@Table(name = "items")
+@Document(collection = "Items")
 public class Item {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id;
+    private String _id;
+
+    private int id;
 
     private String name;
 
-    @Column(name = "item_desc")
     private String desc;
 
-    @Column(name = "item_rarity_type")
     private RarityType rarityType;
 
-    @ElementCollection
-    @CollectionTable(name = "item_images", joinColumns = @JoinColumn(name = "item_id"))
     private List<String> images = new ArrayList<>();
 
     private Obtained obtained;
 
     private String styleSet;
 
-    @Column(name = "item_set")
     private String set;
 
-    @Column(name = "item_type")
     private ItemType itemType;
 
     private ReleaseStatus status;
@@ -56,12 +52,20 @@ public class Item {
         this.status = status;
     }
 
-    public Long getId() {
-        return Id;
+    public String get_id() {
+        return _id;
     }
 
-    public void setId(Long Id) {
-        this.Id = Id;
+    public void set_id(String _id) {
+        this._id = _id;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {
@@ -160,7 +164,7 @@ public class Item {
     @Override
     public String toString() {
         return "Item{" +
-                "id=" + Id +
+                "id=" + id +
                 ", name='" + name + '\'' +
                 ", desc='" + desc + '\'' +
                 ", rarityType=" + rarityType +

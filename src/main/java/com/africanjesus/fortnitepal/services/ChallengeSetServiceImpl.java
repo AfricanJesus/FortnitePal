@@ -1,14 +1,15 @@
 package com.africanjesus.fortnitepal.services;
 
-import com.africanjesus.fortnitepal.model.ChallengeSet;
+import com.africanjesus.fortnitepal.model.documents.ChallengeSet;
 import com.africanjesus.fortnitepal.repositories.ChallengeSetRepository;
+import com.africanjesus.fortnitepal.services.interfaces.ChallengeSetService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
 @Service
-public class ChallengeSetServiceImpl implements ChallengeSetService{
+public class ChallengeSetServiceImpl implements ChallengeSetService {
 
     private ChallengeSetRepository challengeSetRepository;
 

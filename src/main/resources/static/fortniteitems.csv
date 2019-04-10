@@ -1,13 +1,13 @@
 ,Name,Desc,rarity,img name icon,img full,img feature,season,tier,included in,promo,vbucks,price,challenge,style,set,type,status
 1,1HP,Express yourself on the battlefield.,UNCOMMON,1-hp,null,null,3,52,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 2,200 IQ Play,Express yourself on the battlefield.,UNCOMMON,200-iq-play,null,null,3,74,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
-3,A Looming Threat,"Once again, our heros must unite and heed the call to action.",UNCOMMON,a-looming-threat,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+3,A Looming Threat,"Once again, our heros must unite and heed the call to action.",UNCOMMON,a-looming-threat,a-looming-threat,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 4,A+,Express yourself on the battlefield.,UNCOMMON,a-plus,null,null,3,54,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 5,A.I.M.,Scanning the area for targets,LEGENDARY,aim,null,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,A.I.M. Set,OUTFIT,RELEASED
 6,Abominable Axe,Expertly crafted by picking up that stick thatwas in a mountain stream,RARE,abominable-axe,null,null,7,38,null,null,0,0.00,null,null,Mountain Myths Set,HARVESTINGTOOL,RELEASED
 7,Absolute Zero,Freeze out the competition,RARE,absolute-zero,absolute-zero,absolute-zero,0,0,null,null,1200,0.00,null,null,Arctic Command Set,OUTFIT,RELEASED
 8,Abstrackt,The writing's on the wall,EPIC,abstrackt,abstrackt,abstrackt,0,0,null,null,1500,0.00,null,null,Aerosol Assassins Set,OUTFIT,RELEASED
-9,Abstrakt,Showcase art,UNCOMMON,abstrakt,null,null,5,19,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+9,Abstrakt,Showcase art,UNCOMMON,abstrakt,abstrakt,null,5,19,null,null,0,0.00,null,null,Aerosol Assassins Set,LOADINGSCREEN,RELEASED
 10,Abtract,Leave your mark.,UNCOMMON,abstact,null,null,4,54,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 11,AC/DC,Warning: High Voltage!,EPIC,acdc,null,null,2,63,null,null,0,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 12,Accolades,Soak it all in.,RARE,accolades,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
@@ -16,7 +16,7 @@
 15,Aerial Assault Trooper,Rare aerial assault trooper outfit.,RARE,aerial-assualt-trooper,aerial-assualt-trooper,aerial-assualt-trooper,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 16,Aerial Threat,Represent your country in style!,RARE,aerial-threat,aerial-threat,aerial-threat,0,0,null,null,1200,0.00,null,null,Goalbound Set,OUTFIT,RELEASED
 17,Aerobic Assassin,Flex your victory muscles.,EPIC,aerobic-assassin,aerobic-assassin,aerobic-assassin,0,0,null,null,1500,0.00,null,null,Spandex Squad Set,OUTFIT,RELEASED
-18,Aerosol Assassins,Concept art,UNCOMMON,aerosol-assassins,null,null,4,60,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+18,Aerosol Assassins,Concept art,UNCOMMON,aerosol-assassins,aerosol-assassins,null,4,60,null,null,0,0.00,null,null,Aerosol Assassins Set,LOADINGSCREEN,RELEASED
 19,Air Tank,Catch your breath.,EPIC,air-tank,null,null,0,0,Reef Ranger,null,0,0.00,null,null,Divemasters Set,BACKBLING,RELEASED
 20,Airflow,Tuned for turbulence,RARE,airflow,null,null,0,0,Airheart,null,0,0.00,null,null,Aviation Age Set,BACKBLING,RELEASED
 21,Airfoil,Streamlined for optimal aerodynamics.,RARE,airfoil,null,null,0,0,null,null,800,0.00,null,null,Venture Set,HARVESTINGTOOL,RELEASED
@@ -54,7 +54,7 @@
 53,Artifact,,RARE,artifact,null,null,0,0,null,Playstation Plus,0,0.00,null,null,null,CONTRAIL,RELEASED
 54,Assault Trooper,Uncommon Assault Trooper outfit.,UNCOMMON,assault-trooper,assault-trooper,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 55,Astro,Backpack is nominal.,EPIC,astro,null,null,3,47,null,null,0,0.00,null,null,Space Explorers Set,BACKBLING,RELEASED
-56,At Last... I Am Free,I will reclaim my power. I will gather my allies. I will have my vengeance.,UNCOMMON,at-last-i-am-free,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+56,At Last... I Am Free,I will reclaim my power. I will gather my allies. I will have my vengeance.,UNCOMMON,at-last-i-am-free,at-last-i-am-free,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 57,Aurora ,Harness the solar wind,EPIC,aurora,null,null,0,0,null,Xbox One S Bundle,0,0.00,null,null,Eon Set,GLIDER,RELEASED
 58,AutoCleave,Clean out the competition.,RARE,autocleave,null,null,0,0,null,null,800,0.00,null,null,Outbreak Set,HARVESTINGTOOL,RELEASED
 59,Awww,Express yourself on the battlefield.,UNCOMMON,awww,null,null,3,38,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -79,7 +79,7 @@
 78,Bananas,Express yourself on the battlefield.,UNCOMMON,bananas,null,null,4,90,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 79,Bananas,Leave your mark.,UNCOMMON,bananas,null,null,7,70,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 80,Bandolier,No shirt. No surrender,EPIC,bandolier,bandolier,bandolier,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
-81,Bandolier,Showcase art,UNCOMMON,bandolier,null,null,5,86,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+81,Bandolier,Showcase art,UNCOMMON,bandolier,bandolier,null,5,86,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 82,Bang,Express yourself on the battlefield,UNCOMMON,bang,null,null,6,5,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 83,Basketball,Shoot a three!,RARE,basketball,null,null,5,11,null,null,0,0.00,null,null,null,TOY,RELEASED
 84,Bat Attitude,Carry a grudge.,EPIC,bat-attitude,null,null,0,0,Maverick,null,0,0.00,null,null,Cobra Crew Set,BACKBLING,RELEASED
@@ -89,7 +89,7 @@
 88,Battle Bus,Express yourself on the battlefield,UNCOMMON,battle-bus,null,null,6,8,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 89,Battle Call,,UNCOMMON,battle-call,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 90,Battle Hound,Release the hound!,LEGENDARY,battle-hound,battle-hound,battle-hound,0,0,null,null,2000,0.00,null,null,null,OUTFIT,RELEASED
-91,Battle Royale,Concept art,UNCOMMON,battle-royale,null,null,3,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+91,Battle Royale,Concept art,UNCOMMON,battle-royale,battle-royale,null,3,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 92,Battle Shroud,Shrouded in mystery,LEGENDARY,battle-shroud,null,null,0,0,Omen,null,0,0.00,null,null,Overseer Set,BACKBLING,RELEASED
 93,BattleHawk,Swoop in and claim victory.,EPIC,battlehawk,battlehawk,null,4,1,null,null,0,0.00,null,null,Advanced Forces Set,OUTFIT,RELEASED
 94,Beach Ball,Summer fun!,RARE,beach-ball,null,null,5,43,null,null,0,0.00,null,null,null,TOY,RELEASED
@@ -104,7 +104,7 @@
 103,Black Knight,The odious scourge of Wailing Woods,LEGENDARY,black-knight,black-knight,black-knight,2,70,null,null,0,0.00,null,null,Fort Knights Set,OUTFIT,RELEASED
 104,Black Shield,The Black Knight's legendary shield.,LEGENDARY,black-shield,null,null,0,0,Black Knight,null,0,0.00,null,null,Fort Knights Set,BACKBLING,RELEASED
 105,Bladed Wings,Wings with edge.,LEGENDARY,bladed-wings,null,null,0,0,Shogun,null,0,0.00,null,null,Shogun Set,BACKBLING,RELEASED
-106,Blast from the Past,"After stumbling across a long lost relative, we all became part of the family.",UNCOMMON,blast-from-the-past,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+106,Blast from the Past,"After stumbling across a long lost relative, we all became part of the family.",UNCOMMON,blast-from-the-past,blast-from-the-past,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 107,Blasting Cap,It's a blast!,EPIC,blasting-cap,null,null,0,0,Fireworks Team Leader,null,0,0.00,null,null,Stars and Striped Set,BACKBLING,RELEASED
 108,Blaze,Glide down in a blaze of glory!,UNCOMMON,blaze,null,null,0,0,null,null,500,0.00,null,null,Biker Brigade Set,GLIDER,RELEASED
 109,Blitz,Catch 'em off guard.,EPIC,blitz,null,blitz,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
@@ -131,8 +131,8 @@
 130,Brite Bag,Don't forget to pack a smile!,EPIC,brite-bag,null,null,0,0,Brite Gunner,null,0,0.00,null,null,Sunshine and Rainbows Set,BACKBLING,RELEASED
 131,Brite Bomber,The future looks bright…,RARE,brite-bomber,brite-bomber,brite-bomber,0,0,null,null,1200,0.00,null,null,Sunshine and Rainbows Set,OUTFIT,RELEASED
 132,Brite Gunner,Look on the bright side.,EPIC,brite-gunner,brite-gunner,brite-gunner,0,0,null,null,1500,0.00,null,null,Sunshine and Rainbows Set,OUTFIT,RELEASED
-133,Brite Gunner,Concept art,UNCOMMON,brite-gunner,null,null,4,85,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
-134,Brite Unicorn,Concept art,UNCOMMON,brite-unicorn,null,null,3,44,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+133,Brite Gunner,Concept art,UNCOMMON,brite-gunner,brite-gunner,null,4,85,null,null,0,0.00,null,null,Sunshine and Rainbows Set,LOADINGSCREEN,RELEASED
+134,Brite Unicorn,Concept art,UNCOMMON,brite-unicorn,brite-unicorn,null,3,44,null,null,0,0.00,null,null,Sunshine and Rainbows Set,LOADINGSCREEN,RELEASED
 135,Brush Your Shoulders,Get that dirt off your shoulder.,UNCOMMON,brush-your-shoulders,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 136,Bubbles,Freefall in style.,RARE,bubbles,null,null,3,69,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 137,Buckled,Buckle Up!,UNCOMMON,buckled,null,null,0,0,null,null,800,0.00,null,null,null,BACKBLING,RELEASED
@@ -144,7 +144,7 @@
 143,Bush,Express yourself on the battlefield.,UNCOMMON,bush,null,null,3,30,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 144,Cactus Maze,Leave your mark.,UNCOMMON,cactus-maze,null,null,6,54,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 145,Calamity,From ranch hand to righteous retribution,LEGENDARY,calamity,null,null,6,1,null,null,0,0.00,null,Calamity Style,Western Wilds Set,OUTFIT,RELEASED
-146,Calamity,Concept art,UNCOMMON,calamity,null,null,6,4,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+146,Calamity,Concept art,UNCOMMON,calamity,calamity,null,6,4,null,null,0,0.00,null,null,Western Wilds Set,LOADINGSCREEN,RELEASED
 147,Calamity,Leave your mark.,UNCOMMON,calamity,null,null,6,6,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 148,Calavera,Bare bones fashion.,EPIC,calavera,null,null,0,0,Rosa,null,0,0.00,null,null,Muertos Set,BACKBLING,RELEASED
 149,Calculated,Think about it.,RARE,calculated,null,null,5,46,null,null,0,0.00,null,null,null,DANCE,RELEASED
@@ -154,7 +154,7 @@
 153,Candy Axe,Deck the walls with festive mayhem!,EPIC,candy-axe,null,null,0,0,null,null,1500,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 154,Capoeira,Are you ready to dance with danger?,RARE,capoeira,null,null,0,0,null,null,500,0.00,null,null,n,DANCE,RELEASED
 155,Carbide,Heed the call to action.,LEGENDARY,carbide,carbide,null,4,1,null,null,0,0.00,null,Carbide Style,Carbide Set,OUTFIT,RELEASED
-156,Carbide,Concept art,UNCOMMON,carbide,null,null,4,6,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+156,Carbide,Concept art,UNCOMMON,carbide,carbide,null,4,6,null,null,0,0.00,null,null,Carbide Set,LOADINGSCREEN,RELEASED
 157,Carbon,Precision built carbon fiber glider.,UNCOMMON,carbon,null,null,3,39,null,null,0,0.00,null,null,Black Vector Set,GLIDER,RELEASED
 158,Carbon and Gold,Show your style.,RARE,carbon-and-gold,null,null,7,74,null,null,0,0.00,null,null,null,WRAP,RELEASED
 159,Care Package,Surgically precise.,EPIC,care-package,null,null,0,0,Triage Trooper,null,0,0.00,null,null,Support Squadron,BACKBLING,RELEASED
@@ -171,7 +171,7 @@
 170,Chicken,Express yourself on the battlefield.,UNCOMMON,chicken,null,null,4,52,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 171,Chomp Jr.,They're going to need a bigger fort.,EPIC,chomp-jr,null,null,0,0,null,null,1500,0.00,null,null,Chomp Set,HARVESTINGTOOL,RELEASED
 172,Chomp Sr.,Take a bite out of victory.,LEGENDARY,chomp-sr,chomp-sr,chomp-sr,0,0,null,null,2000,0.00,null,null,Chomp Set,OUTFIT,RELEASED
-173,Chompmasters,Showcase art for the Divemasters and Chomp sets,UNCOMMON,chompmasters,null,null,6,65,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+173,Chompmasters,Showcase art for the Divemasters and Chomp sets,UNCOMMON,chompmasters,chompmasters,null,6,65,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 174,Chopper,No one crosses Chopper and rides away.,RARE,chopper,chopper,chopper,0,0,null,null,1200,0.00,null,null,Biker Brigade Set,OUTFIT,RELEASED
 175,Chromium,Solid to the core.,RARE,chromium,chromium,chromium,0,0,null,null,1200,0.00,null,null,Solid Steel Set,OUTFIT,RELEASED
 176,Cipher,Decoding the opposition's weakness.,RARE,cipher,cipher,cipher,0,0,null,null,1200,0.00,null,null,Overclocked Set,OUTFIT,RELEASED
@@ -201,7 +201,7 @@
 200,Cozy Coaster,Snuggle up to the ﬁreﬁght in holiday style.,RARE,cozy-coaster,null,null,0,0,null,null,800,0.00,null,null,null,GLIDER,RELEASED
 201,Crabby,Express yourself on the battlefield.,UNCOMMON,crabby,null,null,4,64,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 202,Crackshot,Get out there and… crack some nuts.,LEGENDARY,crackshot,crackshot,crackshot,0,0,null,null,2000,0.00,null,null,null,OUTFIT,RELEASED
-203,Crackshot,Showcase art for crackshot,UNCOMMON,crackshot,null,null,7,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+203,Crackshot,Showcase art for crackshot,UNCOMMON,crackshot,crackshot,null,7,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 204,Crafted Carrier,Brilliantly Spoken.,EPIC,crafted-carrier,null,null,0,0,Hacivat,null,0,0.00,null,null,Hacivat Set,BACKBLING,RELEASED
 205,Crazy Castle,Leave your mark.,UNCOMMON,crazy-castle,null,null,5,2,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 206,Crested Cape,Cloaked and courageous.,LEGENDARY,crested-cape,null,null,0,0,Battle Hound,null,0,0.00,null,null,Laoch Set,BACKBLING,RELEASED
@@ -225,7 +225,7 @@
 224,Dante,Back for more. Reactive: Glows in the dark.,EPIC,dante,null,dante,0,0,null,null,1500,0.00,null,null,Muertos Set,OUTFIT,RELEASED
 225,Dark Engine,Fueled by darkness.,EPIC,dark-engine,null,null,0,0,null,null,0,0.00,Fortnitemares Challenges Part 4,null,Western Wilds Set,GLIDER,RELEASED
 226,Dark Feathers,Freefall in style.,RARE,dark-feathers,null,null,0,0,Ravage,null,0,0.00,null,null,Nevermore Set,CONTRAIL,RELEASED
-227,Dark Llama,Concept art for Dark Bomber's shirt design,UNCOMMON,dark-llama,null,null,7,78,null,null,0,0.00,null,null,Lightning & Thunderstorms Set,LOADINGSCREEN,RELEASED
+227,Dark Llama,Concept art for Dark Bomber's shirt design,UNCOMMON,dark-llama,dark-llama,null,7,78,null,null,0,0.00,null,null,Lightning & Thunderstorms Set,LOADINGSCREEN,RELEASED
 228,Dark Matter,Theoretical Fashion,LEGENDARY,dark-matter,null,null,3,71,null,null,0,0.00,null,null,Space Explorers Set,BACKBLING,RELEASED
 229,Dark Shard,"Splintered from geometric perfection. Reactive: Transforms by dealing damage, or by outliving other players.",EPIC,dark-shard,null,dark-shard,0,0,null,null,1200,0.00,null,null,Western Wilds Set,HARVESTINGTOOL,RELEASED
 230,Dark Vanguard,Exploring the outer limits.,LEGENDARY,darl-vanguard,darl-vanguard,darl-vanguard,0,0,null,null,2000,0.00,null,null,Space Explorers Set,OUTFIT,RELEASED
@@ -244,7 +244,7 @@
 243,Devastator,Dominate the eye of the storm.,UNCOMMON,devastator,devastator,devastator,0,0,null,null,800,0.00,null,null,Storm Fusion Set,OUTFIT,RELEASED
 244,Diecast,The die has been cast.,RARE,diecast,diecast,diecast,0,0,null,null,1200,0.00,null,null,Solid Steel Set,OUTFIT,RELEASED
 245,Dip,Take a dip,UNCOMMON,dip,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
-246,Dire,Concept art for Dire.,UNCOMMON,dire,null,null,6,93,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+246,Dire,Concept art for Dire.,UNCOMMON,dire,dire,null,6,93,null,null,0,0.00,null,null,Full Moon Set,LOADINGSCREEN,RELEASED
 247,Dire,Leave your mark.,UNCOMMON,dire,null,null,6,99,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 248,Dire,Leader of the pack,LEGENDARY,dire,null,null,6,100,null,null,0,0.00,null,Dire Style,Full Moon Set,OUTFIT,RELEASED
 249,Director's Cut,"Lights, Camera, Axin'.",RARE,directors-cut,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
@@ -257,7 +257,7 @@
 256,Divine Dragon,Sail through the clouds and row toward victory.,EPIC,divine-dragon,null,divine-dragon,0,0,null,null,1200,0.00,null,null,null,GLIDER,RELEASED
 257,Diving Tank,Breathe easy.,EPIC,diving-tank,null,null,0,0,Wreck Raier,null,0,0.00,null,null,Divemasters Set,BACKBLING,RELEASED
 258,DJ Yonder,Packing a playlist for the perfect party.,EPIC,dj-yonder,null,null,6,1,null,null,0,0.00,null,null,Twin Turntables Set,OUTFIT,RELEASED
-259,DJ Yonder,Concept art for DJ Yonder,UNCOMMON,dj-yonder,null,null,6,25,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+259,DJ Yonder,Concept art for DJ Yonder,UNCOMMON,dj-yonder,dj-yonder,null,6,25,null,null,0,0.00,null,null,Twin Turntables Set,LOADINGSCREEN,RELEASED
 260,DJ Yonder,Leave your mark.,UNCOMMON,dj-yonder,null,null,6,40,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 261,Do It!,Leave your mark.,UNCOMMON,do-it,null,null,4,56,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 262,Dominator,One step ahead of the pack.,UNCOMMON,dominator,dominator,dominator,0,0,null,null,800,0.00,null,null,Storm Fusion Set,OUTFIT,RELEASED
@@ -266,16 +266,16 @@
 265,Dragon Axe,Forged in Dragon Fire.,RARE,dragon-axe,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 266,Dreamflower,Can you dig it?,EPIC,dreamflower,null,dreamflower,0,0,null,null,1500,0.00,null,null,Flower Power,OUTFIT,RELEASED
 267,Drift,"Journey into the unknown, and find you way to victory.",LEGENDARY,drift,null,null,5,1,null,null,0,0.00,null,Drift Style,Drift Set,OUTFIT,RELEASED
-268,Drift,Concept art,UNCOMMON,drift,null,null,5,4,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+268,Drift,Concept art,UNCOMMON,drift,drift,null,5,4,null,null,0,0.00,null,null,Drift Set,LOADINGSCREEN,RELEASED
 269,Drift,Leave your mark.,UNCOMMON,drift,null,null,5,54,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 270,Drop The Bass,Wait for it,EPIC,drop-the-bass,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 271,Durrr,Leave your mark.,UNCOMMON,durrr,null,null,5,40,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 272,Durrr Burger,Show your style.,RARE,durrr-burger,null,null,7,43,null,null,0,0.00,null,null,Durrr Burger Set,WRAP,RELEASED
 273,Durrr Burger,Express yourself on the battlefiedl,UNCOMMON,durrr-burger,null,null,7,86,null,null,0,0.00,null,null,Durrr Burger Set,EMOTICON,RELEASED
 274,Dusk,Creatures of the nite pack a dangerous bite.,EPIC,dusk,null,null,6,71,null,null,0,0.00,null,null,Nite Coven Set,OUTFIT,RELEASED
-275,Dusk,Concept art for Dusk,UNCOMMON,dusk,null,null,6,78,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+275,Dusk,Concept art for Dusk,UNCOMMON,dusk,dusk,null,6,78,null,null,0,0.00,null,null,Nite Coven Set,LOADINGSCREEN,RELEASED
 276,Dusk Wings,Sharper than fangs,EPIC,dusk-wings,null,null,6,55,null,null,0,0.00,null,null,Nite Coven Set,BACKBLING,RELEASED
-277,Dusty Depot,The original.,UNCOMMON,dusty-depot,null,null,7,98,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+277,Dusty Depot,The original.,UNCOMMON,dusty-depot,dusty-depot,null,7,98,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 278,Dynamic Dribbler,Represent your country in style!,RARE,dynamic-dribbler,dynamic-dribbler,dynamic-dribbler,0,0,null,null,1200,0.00,null,null,Goalbound Set,OUTFIT,RELEASED
 279,Dynamite,Express yourself on the battlefield.,UNCOMMON,dynamite,null,null,4,5,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 280,Dynamo,Rule the ring.,RARE,dynamo,dynamo,dynamo,0,0,null,null,1200,0.00,null,null,Lucha Set,OUTFIT,RELEASED
@@ -286,12 +286,12 @@
 285,Eggshell,Well hidden.,EPIC,eggshell,null,null,0,0,Bunny Brawler,null,0,0.00,null,null,Pastel Patrol Set,BACKBLING,RELEASED
 286,Electro Shuffle,An Electro Dance.,EPIC,electro-shuffle,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 287,Elite Agent,Failure is not an option.,EPIC,elite-agent,elite-agent,null,3,87,null,null,0,0.00,null,null,Black Vector Set,OUTFIT,RELEASED
-288,Elite Agent,Concept art,UNCOMMON,elite-agent,null,null,3,92,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+288,Elite Agent,Concept art,UNCOMMON,elite-agent,elite-agent,null,3,92,null,null,0,0.00,null,null,Black Vector Set,LOADINGSCREEN,RELEASED
 289,Elite Cleat,For those unaccustomed to defeat.,UNCOMMON,elite-cleat,null,null,0,0,null,null,500,0.00,null,null,Goalbound Set,HARVESTINGTOOL,RELEASED
 290,Elmira,She'll literally charm you.,EPIC,elmira,null,elmira,0,0,null,null,1500,0.00,null,null,Arcane Arts Set,OUTFIT,RELEASED
 291,Embarassed,Express yourself on the battlefield.,UNCOMMON,embarrassed,null,null,5,46,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 292,Embers,Freefall in style.,RARE,embers,null,null,0,0,null,Wegame,0,0.00,Refer Friends Challenges,null,null,CONTRAIL,RELEASED
-293,Emoticons,Collage of Battle Royale emoticons,UNCOMMON,emoticons,null,null,6,10,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+293,Emoticons,Collage of Battle Royale emoticons,UNCOMMON,emoticons,emoticons,null,6,10,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 294,Empire Axe,Build your empire.,RARE,empire-axe,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 295,End Zone,Deep in opposition territory.,EPIC,end-zone,null,end-zone,0,0,null,null,1500,0.00,null,Nation Football League Team Style,Fourth Down,OUTFIT,RELEASED
 296,Enduring Cape,Battle-proven.,LEGENDARY,enduring-cape,null,null,0,0,Magnus,null,0,0.00,null,null,Norse Set,BACKBLING,RELEASED
@@ -305,7 +305,7 @@
 304,Fable,The forest isn't safe... from her.,EPIC,fable,null,null,6,47,null,null,0,0.00,null,null,Red Riding Set,OUTFIT,RELEASED
 305,Fabled Cape,Nothing lil' about it.,EPIC,fabled-cape,null,null,6,14,null,null,0,0.00,null,null,Red Riding Set,BACKBLING,RELEASED
 306,Face Palm,The cringe is real.,UNCOMMON,face-palm,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
-307,Fairway Fun,We hit the links and invented some new rules for golf. They mostly involved driving around really fast,UNCOMMON,fairway-fun,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+307,Fairway Fun,We hit the links and invented some new rules for golf. They mostly involved driving around really fast,UNCOMMON,fairway-fun,fairway-fun,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 308,Fake Door,Leave your mark.,UNCOMMON,fake-door,null,null,5,48,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 309,Fancy Basketball,From downtown!,EPIC,fancy-basketball,null,null,5,91,null,null,0,0.00,null,null,null,TOY,RELEASED
 310,Fancy Beach Ball,Perfectly inflated.,EPIC,fancy-beach-ball,null,null,5,75,null,null,0,0.00,null,null,null,TOY,RELEASED
@@ -314,7 +314,7 @@
 313,Fancy Tomato,Saucy!,EPIC,fancy-tomato,null,null,6,76,null,null,0,0.00,null,null,null,TOY,RELEASED
 314,Far Out Man,Out of sight.,EPIC,far-out-man,null,far-out-man,0,0,null,null,1500,0.00,null,null,Flower Power,OUTFIT,RELEASED
 315,Fate,Prepare to meet your fate.,LEGENDARY,fate,fate,fate,0,0,null,null,2000,0.00,null,null,Overseer Set,OUTFIT,RELEASED
-316,Fate,Showcase art for Fate,UNCOMMON,fate,null,null,6,44,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+316,Fate,Showcase art for Fate,UNCOMMON,fate,fate,null,6,44,null,null,0,0.00,null,null,Overseer Set,LOADINGSCREEN,RELEASED
 317,Fated Fame,Rise above your fate.,RARE,fated-frame,null,null,0,0,null,null,800,0.00,null,null,Overclocked Set,HARVESTINGTOOL,RELEASED
 318,Feathered Flyer,Winged victory.,RARE,feathered-flyer,null,null,0,0,null,null,800,0.00,null,null,Nevermore Set,GLIDER,RELEASED
 319,Festive,Press play and get in the spirit of the season.,RARE,festive,null,null,7,13,null,null,0,0.00,null,null,null,MUSIC,RELEASED
@@ -328,10 +328,10 @@
 327,Finesse Finisher,Represent your country in style!,RARE,finesse-finisher,finesse-finisher,finesse-finisher,0,0,null,null,1200,0.00,null,null,Goalbound Set,OUTFIT,RELEASED
 328,Finger Guns,Character does shooting gun motion with his fingers.,UNCOMMON,finger-guns,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 329,Finger Wag,"Not today, my friend.",UNCOMMON,finger-wag,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
-330,Firebearer,Wielded by countless generations.,RARE,forebearer,null,null,0,0,null,null,800,0.00,null,null,Norse Set,HARVESTINGTOOL,RELEASED
+330,Forebearer,Wielded by countless generations.,RARE,forebearer,null,null,0,0,null,null,800,0.00,null,null,Norse Set,HARVESTINGTOOL,RELEASED
 331,Fireflies,Lihgt your way.,RARE,fireflies,null,null,6,36,null,null,0,0.00,null,null,Red Riding Set,CONTRAIL,RELEASED
 332,Fireworks Team Leader,"Life, liberty, and the bear suit of happiness.",EPIC,fireworks-team-leader,fireworks-team-leader,fireworks-team-leader,0,0,null,null,1500,0.00,null,null,Stars and Striped Set,OUTFIT,RELEASED
-333,First Downer,10 yards to victory.,UNCOMMON,first-downer,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+333,First Downer,10 yards to victory.,UNCOMMON,first-downer,null,null,0,0,null,null,500,0.00,null,null,Fourth Down Set,HARVESTINGTOOL,RELEASED
 334,First Strike Specialist,Rare First Strike Specialist.,RARE,first-strike-specialist,first-strike-specialist,null,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 335,Fish Tank,Do not tap on the glass!,LEGENDARY,fish-tank,null,null,0,0,Leviathan,null,0,0.00,null,null,Space Explorers Set,BACKBLING,RELEASED
 336,Flamenco,Clap it up.,EPIC,flamenco,null,null,6,95,null,null,0,0.00,null,null,null,DANCE,RELEASED
@@ -350,7 +350,7 @@
 349,Flying Fish,Keep it fresh.,UNCOMMON,flying-fish,null,null,0,0,null,null,500,0.00,null,null,Sushi Set,GLIDER,RELEASED
 350,Flying Saucer,Make mine a Royale.,EPIC,flying-saucer,null,null,0,0,null,null,1200,0.00,null,null,Durr Burger Set,GLIDER,RELEASED
 351,Flytrap,Deviously inescapable.,LEGENDARY,flytrap,flytrap,flytrap,0,0,null,null,2000,0.00,null,null,Flytrap Set,OUTFIT,RELEASED
-352,Flytrap,Showcase art,UNCOMMON,flytrap,null,null,5,60,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+352,Flytrap,Showcase art,UNCOMMON,flytrap,flytrap,null,5,60,null,null,0,0.00,null,null,Flytrap Set,LOADINGSCREEN,RELEASED
 353,Forerunner,Amped and aerodynamic,RARE,forerunner,null,null,0,0,null,null,800,0.00,null,null,Apex Protocol Set,GLIDER,RELEASED
 354,Fortnite Birthday,Express yourself on the battlefield.,UNCOMMON,fortnite-birthday,null,null,0,0,null,null,0,0.00,Fortnite 1st Birthday Challenges,null,null,EMOTICON,RELEASED
 355,Fortune,Take charge of your fortune.,RARE,fortune,fortune,fortune,0,0,null,null,1200,0.00,null,null,Sharp Style Set,OUTFIT,RELEASED
@@ -384,7 +384,7 @@
 383,Giddy-Up,Yee-haw!,EPIC,giddy-up,null,null,6,23,null,null,0,0.00,null,null,null,OUTFIT,RELEASED
 384,Ginger Gunner,Spread some holiday fear.,EPIC,ginger-gunner,ginger-gunner,ginger-gunner,0,0,null,null,1500,0.00,null,Ginger Gunner Style,Gingerbread Set,OUTFIT,RELEASED
 385,Ginger Gunner,Express yourself on the battlefiedl,UNCOMMON,ginger-gunner,null,null,7,24,null,null,0,0.00,null,null,Gingerbread Set,EMOTICON,RELEASED
-386,Gingerbread,Concept art for Merrry Marauder and Ginger Gunner,UNCOMMON,gingerbread,null,null,7,12,null,null,0,0.00,null,null,Gingerbread Set,LOADINGSCREEN,RELEASED
+386,Gingerbread,Concept art for Merrry Marauder and Ginger Gunner,UNCOMMON,gingerbread,gingerbread,null,7,12,null,null,0,0.00,null,null,Gingerbread Set,LOADINGSCREEN,RELEASED
 387,Glider,Standard Battle Glider.,COMMON,glider,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,RELEASED
 388,Glidurrr,Order up!,RARE,glidurrr,null,null,7,39,null,null,0,0.00,null,null,Durrr Burger Set,GLIDER,RELEASED
 389,Glitch In The System,Freefall in style.,RARE,glitch-in-the-system,null,null,5,54,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
@@ -395,7 +395,7 @@
 394,Go,Express yourself on the battlefield.,UNCOMMON,go,null,null,5,5,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 395,Go! Go! Go!,You can do it!,UNCOMMON,go-go-go,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 396,Goalbound,Goooooooooooooal!,UNCOMMON,goalbound,null,null,0,0,null,null,500,0.00,null,null,Goalbound Set,GLIDER,RELEASED
-397,Golden Pigskin,Claim the trophy.,UNCOMMON,golden-pigskin,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+397,Golden Pigskin,Claim the trophy.,UNCOMMON,golden-pigskin,null,null,0,0,null,null,500,0.00,null,null,Fourth Down Set,HARVESTINGTOOL,RELEASED
 398,Golf Ball,Fore!,RARE,golf-ball,null,null,5,27,null,null,0,0.00,null,null,null,TOY,RELEASED
 399,Golf Clap,Good show. Good show.,UNCOMMON,golf-clap,null,null,7,14,null,null,0,0.00,null,null,null,DANCE,RELEASED
 400,Good Game,Express yourself on the battlefield.,UNCOMMON,good-game,null,null,3,26,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -425,7 +425,7 @@
 424,Hard Boiled,Dipped and dyed.,EPIC,hard-boilded,null,null,0,0,Rabbit Raider,null,0,0.00,null,null,Pastel Patrol Set,BACKBLING,RELEASED
 425,Harpoon Axe,Tip of the spear.,RARE,harpoon-axe,null,null,0,0,null,null,800,0.00,null,null,Divemasters Set,HARVESTINGTOOL,RELEASED
 426,Harvester,Reap what you sow.,RARE,harvester,null,null,0,0,null,null,800,0.00,null,null,Straw Stuffed Set,HARVESTINGTOOL,RELEASED
-427,Harvesting Tools,Concept art,UNCOMMON,harvesting-tools,null,null,3,12,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+427,Harvesting Tools,Concept art,UNCOMMON,harvesting-tools,harvesting-tools,null,3,12,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 428,Hatchback,Came out of your shell.,EPIC,hatchback,null,null,0,0,Tender Defender,null,0,0.00,null,null,Fowl Play Set,BACKBLING,RELEASED
 429,Hatchling,Clever bag.,LEGENDARY,hatchling,null,null,0,0,Tricera Ops,null,0,0.00,null,null,Dino Guard Set,BACKBLING,RELEASED
 430,Hatchling,Along came a glider.,EPIC,hatchling,null,null,0,0,null,null,1200,0.00,null,null,Arachnid Set,GLIDER,RELEASED
@@ -439,7 +439,7 @@
 438,Heidi,Fest with the best,EPIC,heidi,null,heidi,0,0,null,null,1500,0.00,null,null,Oktoberfest Set,OUTFIT,RELEASED
 439,Helium,Lighter than air.,UNCOMMON,helium,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
 440,Herald's Wand,It's vital.,RARE,heralds-wand,null,null,0,0,null,null,800,0.00,null,null,Grim Medicine Set,HARVESTINGTOOL,RELEASED
-441,High Explosives,Showcase art,UNCOMMON,high-explosives,null,null,5,50,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+441,High Explosives,Showcase art,UNCOMMON,high-explosives,high-explosives,null,5,50,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 442,High Octane,Operating at maximum horsepower.,EPIC,high-octane,null,null,3,100,null,null,0,0.00,Tier 100 Challenges,null,Hired Gun Set,GLIDER,RELEASED
 443,Highland Warrior,The shadow of the Highlands.,EPIC,highland-warrior,highland-warrior,highland-warrior,0,0,null,null,1500,0.00,null,null,Laoch Set,OUTFIT,RELEASED
 444,Highrise Assault Trooper,Rise to the top.,UNCOMMON,highrise-assault-trooper,highrise-assault-trooper,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
@@ -456,9 +456,9 @@
 455,Hot Stuff,Tss!,UNCOMMON,hot-stuff,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 456,Hula,Get the luau started.,EPIC,hula,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 457,Huntress,The fearless raider from storm-tossed seas.,EPIC,huntress,null,null,5,1,null,null,0,0.00,null,null,Norse Set,OUTFIT,RELEASED
-458,Huntress,Concept art,UNCOMMON,huntress,null,null,5,28,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+458,Huntress,Concept art,UNCOMMON,huntress,huntress,null,5,28,null,null,0,0.00,null,null,Norse Set,LOADINGSCREEN,RELEASED
 459,Hype,Get hyped.,RARE,hype,null,null,4,63,null,null,0,0.00,null,null,null,DANCE,RELEASED
-460,Hyper,What's up must come down.,UNCOMMON,hyper,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+460,Hyper,What's up must come down.,UNCOMMON,hyper,null,null,0,0,null,null,500,0.00,null,null,null,GLIDER,RELEASED
 461,Hyperion,The gladiator of Greasy Grove.,RARE,hyperion,hyperion,null,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 462,Ice Breaker,A great way to meet your fellow combatants.,UNCOMMON,ice-breaker,null,null,0,0,null,null,500,0.00,null,null,Arctic Command Set,HARVESTINGTOOL,RELEASED
 463,Ice Crystals,Freefall in style.,RARE,ice-crystals,null,null,5,68,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
@@ -484,7 +484,7 @@
 483,Jack Gourdon,Squash the competition.,EPIC,jack-gourdon,null,jack-gourdon,0,0,null,null,1500,0.00,null,null,Pumpkin Patch,OUTFIT,RELEASED
 484,Jack-O-Later,Carved with care.,RARE,jack-o-latern,null,null,6,54,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 485,Jackspammer,Swing it over and over and over and over and over...,UNCOMMON,jackspammer,null,null,0,0,null,null,500,0.00,null,null,Animal Jackets,HARVESTINGTOOL,RELEASED
-486,Jailbirds,Showcase art,UNCOMMON,jailbirds,null,null,5,44,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+486,Jailbirds,Showcase art,UNCOMMON,jailbirds,jailbirds,null,5,44,null,null,0,0.00,null,null,Jailbird Set,LOADINGSCREEN,RELEASED
 487,Jawblade,Clench victory between your teeth.,RARE,jawblade,null,null,0,0,null,null,800,0.00,null,null,Shogun Set,HARVESTINGTOOL,RELEASED
 488,Jingu Bang,Fit for a king.,EPIC,jingu-bang,null,null,0,0,null,null,1200,0.00,null,null,Wukong Set,HARVESTINGTOOL,RELEASED
 489,Jolly Roger,Avast!,UNCOMMON,jolly-roger,null,null,0,0,null,null,500,0.00,null,null,null,GLIDER,RELEASED
@@ -499,7 +499,7 @@
 498,Kick Ups,"Look, no hands.",RARE,kick-ups,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 499,Kiss,Leave your mark.,UNCOMMON,kiss,null,null,4,78,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 500,Kiss Kiss,Show some love.,RARE,kiss-kiss,null,null,0,0,null,null,500,0.00,null,null,Royale Hearts Set,DANCE,RELEASED
-501,Knee Slapper,Rustle up the rhythm,RARE,knee-slapper,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+501,Knee Slapper,Rustle up the rhythm,RARE,knee-slapper,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 502,Lamplight,A light in the darkness.,RARE,lamplight,null,null,0,0,null,null,800,0.00,null,null,Grim Medicine Set,GLIDER,RELEASED
 503,Lane Splitter,Cut through the crowd.,EPIC,lane-splitter,null,null,0,0,Overtaker,null,0,0.00,null,null,Vanishing Point Set,BACKBLING,RELEASED
 504,Lanterns,Freefall in style.,RARE,laterns,null,null,5,20,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
@@ -510,7 +510,7 @@
 509,Lead Swinger,Hit the high notes.,UNCOMMON,lead-swinger,null,null,0,0,null,null,500,0.00,null,null,Garage Band,HARVESTINGTOOL,RELEASED
 510,Let's Rock,Express yourself on the battlefield.,UNCOMMON,lets-rock,null,null,5,8,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 511,Leviathan,Call me fishman.,LEGENDARY,leviathan,leviathan,leviathan,0,0,null,null,2000,0.00,null,null,Space Explorers Set,OUTFIT,RELEASED
-512,Leviathan,Concept art,UNCOMMON,leviathan,null,null,4,44,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+512,Leviathan,Concept art,UNCOMMON,leviathan,leviathan,null,4,44,null,null,0,0.00,null,null,Space Explorers Set,LOADINGSCREEN,RELEASED
 513,Libre,High-flying freedom,RARE,libre,null,null,0,0,null,null,800,0.00,null,null,Lucha Set,GLIDER,RELEASED
 514,Lightning,Freefall in style.,RARE,lightning,null,null,4,50,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 515,Lights Camera Action,Express yourself on the battlefield.,UNCOMMON,lights-camera-action,null,null,4,8,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -533,7 +533,7 @@
 532,Ludwig,Best of the wurst,EPIC,ludwig,null,ludwig,0,0,null,null,1500,0.00,null,null,Oktoberfest Set,OUTFIT,RELEASED
 533,Lug Axe,Tune up the competition.,RARE,lug-axe,null,null,5,30,null,null,0,0.00,null,null,RPM Set,HARVESTINGTOOL,RELEASED
 534,Lynx,Who needs nine lives when one is enough?,LEGENDARY,lynx,null,null,7,1,null,null,0,0.00,null,Lynx Style,Lynx Set,OUTFIT,RELEASED
-535,Lynx,Concept art for Lynx.,RARE,lynx,null,null,7,50,null,null,0,0.00,null,null,Lynx Set,LOADINGSCREEN,RELEASED
+535,Lynx,Concept art for Lynx.,RARE,lynx,lynx,null,7,50,null,null,0,0.00,null,null,Lynx Set,LOADINGSCREEN,RELEASED
 536,Lynx,Leave your mark.,UNCOMMON,lynx,null,null,7,99,null,null,0,0.00,null,null,Lynx Set,SPRAY,RELEASED
 537,Magic Wings,Soaring and spellbound.,EPIC,magic-wings,null,null,0,0,null,null,1200,0.00,null,null,Arcane Arts Set,GLIDER,RELEASED
 538,Magnifying Axe,Dust 'em for prints.,RARE,magnifying-axe,null,null,0,0,null,null,800,0.00,null,null,Hardboiled Set,HARVESTINGTOOL,RELEASED
@@ -558,7 +558,7 @@
 557,Midfield Maestro,Represent your country in style!,RARE,midfield-maestro,midfield-maestro,midfield-maestro,0,0,null,null,1200,0.00,null,null,Goalbound Set,OUTFIT,RELEASED
 558,Midnight Ops,Strike by night.,RARE,midnight-ops,midnight-ops,midnight-ops,0,0,null,null,1200,0.00,null,null,Stealth Syndicate Set,OUTFIT,RELEASED
 559,Mime Time,Please take me seriously,RARE,mime-time,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,RELEASED
-560,Minigun,Concept art,UNCOMMON,minigun,null,null,3,60,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+560,Minigun,Concept art,UNCOMMON,minigun,minigun,null,3,60,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 561,Mission Specialist,All systems go.,EPIC,mission-specialist,mission-specialist,null,3,1,null,null,0,0.00,null,null,Space Explorers Set,OUTFIT,RELEASED
 562,Mistletoe,Express yourself on the battlefield,UNCOMMON,mistletoe,null,null,7,6,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 563,Mittens,Express yourself on the battlefiedl,UNCOMMON,mittens,null,null,7,46,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -599,7 +599,7 @@
 598,NiteLite,Never afraid of the dark.,UNCOMMON,nitelite,nitelite,nitelite,0,0,null,null,800,0.00,null,null,Neon Glow Set,OUTFIT,RELEASED
 599,Nog Ops,Have youself a little merry skirmish.,UNCOMMON,nog-ops,nog-ops,nog-ops,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 600,Noir,Infiltrating the seedy underbelly of Tilted Towers.,EPIC,noir,null,noir,0,0,null,null,1500,0.00,null,null,Hardboiled Set,OUTFIT,RELEASED
-601,Norse Emblem,Concept art,UNCOMMON,norse-emblem,null,null,5,13,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+601,Norse Emblem,Concept art,UNCOMMON,norse-emblem,norse-emblem,null,5,13,null,null,0,0.00,null,null,Norse Set,LOADINGSCREEN,RELEASED
 602,Norse Llama,Leave your mark.,UNCOMMON,norse-llama,null,null,5,72,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 603,#1,Express yourself on the battlefield.,UNCOMMON,number-one,null,null,3,97,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 604,Oblivion,Unending vengeance.,LEGENDARY,oblivion,oblivion,oblivion,0,0,null,null,2000,0.00,null,null,Oblivion Set,OUTFIT,RELEASED
@@ -608,14 +608,14 @@
 607,Oktoberfeast,Never glide on an empty stomach,RARE,oktoberfeast,null,null,0,0,null,null,800,0.00,null,null,Oktoberfest Set,GLIDER,RELEASED
 608,Omega,There can be only one.,LEGENDARY,omega,omega,null,4,100,null,null,0,0.00,null,Omega Style,Omega Set,OUTFIT,RELEASED
 609,Omen,Your victory has been foretold.,LEGENDARY,omen,omen,omen,0,0,null,null,2000,0.00,null,null,Overseer Set,OUTFIT,RELEASED
-610,Omen,Showcase art,UNCOMMON,omen,null,null,5,66,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+610,Omen,Showcase art,UNCOMMON,omen,omen,null,5,66,null,null,0,0.00,null,null,Overseer Set,LOADINGSCREEN,RELEASED
 611,Ominous Orb,Gaze info infinity.,LEGENDARY,ominous-orb,null,null,0,0,Fate,null,0,0.00,null,null,Overseer Set,BACKBLING,RELEASED
 612,On Fire,Express yourself on the battlefield.,UNCOMMON,on-fire,null,null,2,68,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 613,On The Hook,Reel in a prize catch.,RARE,on-the-hook,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
-614,Onesie,Smash that snooze button.,EPIC,onesie,null,onesie,7,87,null,null,0,0.00,null,null,Durrr Burger Set,OUTFIT,RELEASED
+614,Onesie,Smash that snooze button.,EPIC,onesie,null,onesie,7,87,null,null,0,0.00,null,Onesie Style,Durrr Burger Set,OUTFIT,RELEASED
 615,ONI,Leave your mark.,UNCOMMON,oni,null,null,6,80,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 616,Onslaught,Unrelenting.,EPIC,onslaught,null,null,0,0,null,null,0,0.00,Omega Challenges,null,Omega Set,HARVESTINGTOOL,RELEASED
-617,Opening Night,"We were lured by the smell of popcorn, and stuck around for a movie screening.",UNCOMMON,opening-night,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+617,Opening Night,"We were lured by the smell of popcorn, and stuck around for a movie screening.",UNCOMMON,opening-night,opening-night,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 618,Oracle Axe,Visions of victory.,EPIC,oracle-axe,null,null,0,0,null,null,1200,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 619,Orange Justice,It's also a great exercise move.,RARE,orange-justice,null,null,4,26,null,null,0,0.00,null,null,null,DANCE,RELEASED
 620,Orbital Shuttle,Cleared for re-entry.,EPIC,orbital-shuttle,null,null,0,0,null,null,1200,0.00,null,null,Space Explorers Set,GLIDER,RELEASED
@@ -625,7 +625,7 @@
 624,Para-Provisions,Packed at altitude,RARE,para-provisions,null,null,0,0,Maximilian,null,0,0.00,null,null,Aviation Age Set,BACKBLING,RELEASED
 625,Paradigm,Untility redefined.,EPIC,paradigm,null,null,0,0,Archetype,null,0,0.00,null,null,Archetype Set,BACKBLING,RELEASED
 626,Party Animal,Red plastic cups not included.,EPIC,party-animal,null,null,0,0,null,null,1500,0.00,null,null,null,HARVESTINGTOOL,RELEASED
-627,Pastel Patrol,Showcase art for Bunny Brawler and Rabbit Raider.,UNCOMMON,pastel-patrol,null,null,6,21,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+627,Pastel Patrol,Showcase art for Bunny Brawler and Rabbit Raider.,UNCOMMON,pastel-patrol,pastel-patrol,null,6,21,null,null,0,0.00,null,null,Pastel Patrol Set,LOADINGSCREEN,RELEASED
 628,Pathfinder,Uncommon pathfinder outfit.,UNCOMMON,pathfinder,pathfinder,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 629,Pathogen,Pleasantly pathological,EPIC,pathogen,null,null,0,0,Toxic Trooper,null,0,0.00,null,null,Outbreak Set,BACKBLING,RELEASED
 630,Patty Whacker,If you can't stand the heat…,UNCOMMON,patty-whacker,null,null,0,0,null,null,500,0.00,null,null,Durr Burger Set,HARVESTINGTOOL,RELEASED
@@ -657,7 +657,7 @@
 656,Poofy Parasail,Puffed up and ready for landing.,RARE,poofy-parasail,null,null,0,0,null,null,800,0.00,null,null,Animal Jackets,GLIDER,RELEASED
 657,Pool Party,Express yourself on the battlefield.,UNCOMMON,pool-party,null,null,5,16,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 658,Pool Party,Magically floaty.,EPIC,pool-party,null,null,5,38,null,null,0,0.00,null,null,Rescue Patrol Set,BACKBLING,RELEASED
-659,Poolside Paradise,We found a pool party and decided to jump in. Whether we were invited or not doesn't really seem important.,UNCOMMON,poolside-paradise,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+659,Poolside Paradise,We found a pool party and decided to jump in. Whether we were invited or not doesn't really seem important.,UNCOMMON,poolside-paradise,poolside-paradise,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 660,Pop Lock,Lock it down.,EPIC,pop-lock,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 661,Popcorn,This is gettin' good.,RARE,popcorn,null,null,4,31,null,null,0,0.00,null,null,null,DANCE,RELEASED
 662,Porthole,Leave your mark.,UNCOMMON,porthole,null,null,7,48,null,null,0,0.00,null,null,null,SPRAY,RELEASED
@@ -667,7 +667,7 @@
 666,Pot of Gold,Express yourself on the battlefield.,UNCOMMON,pot-of-gold,null,null,5,97,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 667,Potato Aim,Express yourself on the battlefield.,UNCOMMON,potato-aim,null,null,2,61,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 668,Potato Aim,Leave your mark.,UNCOMMON,potato-aim,null,null,5,80,null,null,0,0.00,null,null,null,SPRAY,RELEASED
-669,Powder,Catch the air and kiss the sky.,EPIC,powder,null,null,7,47,null,null,0,0.00,null,null,Powder Patrol Set,OUTFIT,RELEASED
+669,Powder,Catch the air and kiss the sky.,EPIC,powder,null,null,7,47,null,null,0,0.00,null,Powder Style,Powder Patrol Set,OUTFIT,RELEASED
 670,Power Chord,Bring on the noise complaints.,LEGENDARY,power-chord,power-chord,power-chord,0,0,null,null,2000,0.00,null,null,Volume 11 Set,OUTFIT,RELEASED
 671,Power Grip,Get a grip.,RARE,power-grip,null,null,0,0,null,Chinese Version of Fortnite,0,0.00,null,null,Fortnite China Set,HARVESTINGTOOL,RELEASED
 672,Praise the Tomato,Splatter unto thee.,RARE,praise-the-tomato,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
@@ -682,7 +682,7 @@
 681,Pure Salt,All purpose seasoning.,RARE,pure-salt,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 682,Purrfect,It's the cat's meow.,UNCOMMON,purrfect,null,null,0,0,null,null,500,0.00,null,null,Bushido Set,GLIDER,RELEASED
 683,Pursuit,On the trail.,LEGENDARY,pursuit,null,null,0,0,Warpaint,Save The World Founder's Pack,0,0.00,null,null,null,BACKBLING,RELEASED
-684,Quiet on the Set,"The Monster of Moisty' Scene 23, Take 31 Director's Notes: 'He was finally puckering up when it all cmae crashing down…'",,quiet-on-the-set,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+684,Quiet on the Set,"The Monster of Moisty' Scene 23, Take 31 Director's Notes: 'He was finally puckering up when it all cmae crashing down…'",,quiet-on-the-set,quiet-on-the-set,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 685,Rabbit Raider,Scary cute.,EPIC,rabbit-raider,rabbit-raider,rabbit-raider,0,0,null,null,1500,0.00,null,null,Pastel Patrol Set,OUTFIT,RELEASED
 686,Rabid,Express yourself on the battlefield.,UNCOMMON,rabid,null,null,4,74,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 687,Radiant Striker,Strike first.,RARE,radian-striker,radian-striker,radian-striker,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
@@ -699,13 +699,13 @@
 698,Rapscallion,Bail out of the Battle Bus.,EPIC,rapscallion,rapscallion,rapscallion,0,0,null,null,1500,0.00,null,null,Jailbird Set,OUTFIT,RELEASED
 699,Raptor,Go ahead. Buzz the tower. You've earned it.,UNCOMMON,raptor,null,null,0,0,null,null,500,0.00,null,null,null,GLIDER,RELEASED
 700,Raptor,Royale Air Force Test Pilot,LEGENDARY,raptor,raptor,raptor,0,0,null,null,2000,0.00,null,null,null,OUTFIT,RELEASED
-701,Raptor,Concept art,UNCOMMON,raptor,null,null,3,76,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+701,Raptor,Concept art,UNCOMMON,raptor,raptor,null,3,76,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 702,Raptor Satchel,Royale Air Force standard issue.,LEGENDARY,raptor-satchel,null,null,0,0,Raptor,null,0,0.00,null,null,null,BACKBLING,RELEASED
 703,Ravage,"Circling overhead, shrouded by night…",LEGENDARY,ravage,ravage,ravage,0,0,null,null,2000,0.00,null,null,Nevermore Set,OUTFIT,RELEASED
-704,Ravage,Showcase art for Ravage,UNCOMMON,ravage,null,null,6,84,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+704,Ravage,Showcase art for Ravage,UNCOMMON,ravage,ravage,null,6,84,null,null,0,0.00,null,null,Nevermore Set,LOADINGSCREEN,RELEASED
 705,Raven,Brooding master of dark skies.,LEGENDARY,raven,raven,raven,0,0,null,null,2000,0.00,null,null,Nevermore Set,OUTFIT,RELEASED
 706,Raven,Leave your mark.,UNCOMMON,raven,null,null,4,72,null,null,0,0.00,null,null,null,SPRAY,RELEASED
-707,Raven,Concept art,UNCOMMON,raven,null,null,4,92,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+707,Raven,Concept art,UNCOMMON,raven,raven,null,4,92,null,null,0,0.00,null,null,Nevermore Set,LOADINGSCREEN,RELEASED
 708,RAWR,Tyrannosaurus Royale,RARE,rawr,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 709,Razor Edge,On the verge of being too sharp.,RARE,razor-edge,null,null,0,0,null,null,800,0.00,null,null,Apex Protocol Set,HARVESTINGTOOL,RELEASED
 710,Reaction Tank,Pressurized.,RARE,reaction-tank,null,null,0,0,Instinct,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
@@ -718,7 +718,7 @@
 717,Recon Specialist,Rare recond specialist outfit.,RARE,recon-specialist,recon-specialist,recon-specialist,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 718,Red Card,Foul play!,UNCOMMON,red-card,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 719,Red Knight,The red menace of Anarchy Acres.,LEGENDARY,red-knight,red-knight,red-knight,0,0,null,null,2000,0.00,null,null,Fort Knights Set,OUTFIT,RELEASED
-720,Red Knight,Showcase art,UNCOMMON,red-knight,null,null,5,76,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+720,Red Knight,Showcase art,UNCOMMON,red-knight,red-knight,null,5,76,null,null,0,0.00,null,null,Fort Knights Set,LOADINGSCREEN,RELEASED
 721,Red Shield,The Red Knight's lengedary shield.,LEGENDARY,red-shield,null,null,0,0,Red Knight,null,0,0.00,null,null,Fort Knights Set,BACKBLING,RELEASED
 722,Red-Nosed Raider,It's time for some reindeer games.,RARE,red-nosed-raider,red-nosed-raider,red-nosed-raider,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 723,Redline,Revving beyond the limit.,EPIC,redline,null,null,5,23,null,null,0,0.00,null,null,RPM Set,OUTFIT,RELEASED
@@ -734,11 +734,11 @@
 733,Resonator,Swing with frequency,EPIC,resonator,null,null,0,0,null,Xbox One S Bundle,0,0.00,null,null,Eon Set,HARVESTINGTOOL,RELEASED
 734,Respect,For worthy combatants,UNCOMMON,respect,null,null,4,54,null,null,0,0.00,null,null,null,DANCE,RELEASED
 735,Response Unit,Send a message.,RARE,response-unit,null,null,0,0,Reflex,GeForce Bundle,0,0.00,null,null,null,BACKBLING,RELEASED
-736,Retribution,I will overpower. I will prevail. I will reign.,UNCOMMON,retribution,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+736,Retribution,I will overpower. I will prevail. I will reign.,UNCOMMON,retribution,retribution,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 737,Retro Sci-Fi,Freefall in style.,RARE,retro-sci-fi,null,null,4,20,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
-738,Retrofit,Modification required…,UNCOMMON,retrofit,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+738,Retrofit,Modification required…,UNCOMMON,retrofit,retrofit,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
 739,Rex,Hunting the competition to extinction.,LEGENDARY,rex,rex,rex,0,0,null,null,2000,0.00,null,null,null,OUTFIT,RELEASED
-740,Rex,Concept art,UNCOMMON,rex,null,null,4,12,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+740,Rex,Concept art,UNCOMMON,rex,rex,null,4,12,null,null,0,0.00,null,null,Dino Guard Set,LOADINGSCREEN,RELEASED
 741,Rhinestone Rider,Glide by the seat of your pants.,UNCOMMON,rhinestone-rider,null,null,0,0,null,null,500,0.00,null,null,Sharp Style Set,GLIDER,RELEASED
 742,Rickety Runner,Who says penguins can't fly?,EPIC,rickety-runner,null,null,7,79,null,null,0,0.00,null,null,Mountain Myths Set,GLIDER,RELEASED
 743,Ride the Pony,Express yourself on the battlefield.,RARE,ride-the-pony,null,null,2,20,null,null,0,0.00,null,null,null,DANCE,RELEASED
@@ -747,7 +747,7 @@
 746,RIP,Express yourself on the battlefield.,UNCOMMON,rip,null,null,2,12,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 747,Road Flair,Built for the road.,RARE,road-flair,null,null,0,0,Chopper,null,0,0.00,null,null,Biker Brigade Set,BACKBLING,RELEASED
 748,Road Ready,Two-wheel toolkit,RARE,road-ready,null,null,0,0,Backbone,null,0,0.00,null,null,Biker Brigade Set,BACKBLING,RELEASED
-749,Road Trip,What better place to start than a giant hilltop burger? We convinced a new friend to join us as well.,UNCOMMON,road-trip,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+749,Road Trip,What better place to start than a giant hilltop burger? We convinced a new friend to join us as well.,UNCOMMON,road-trip,road-trip,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 750,Roadtrip,Never miss a battle snack with the world's ﬁrst picnic-ready glider.,UNCOMMON,roadtrip,null,null,0,0,null,null,500,0.00,null,null,null,GLIDER,RELEASED
 751,Rock Out,Are you ready to rock?!,EPIC,rock-out,null,null,0,0,null,null,800,0.00,null,null,Volume 11 Set,DANCE,RELEASED
 752,Rock Paper Scissors,Best out of three.,UNCOMMON,rock-paper-scissors,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
@@ -791,7 +791,7 @@
 790,Scrambler,Mix it up.,UNCOMMON,scrambler,null,null,0,0,null,null,500,0.00,null,null,Fowl Play Set,HARVESTINGTOOL,RELEASED
 791,Servo,Prototype compound glider.,EPIC,servo,null,null,0,0,null,null,1200,0.00,null,null,Archetype Set,GLIDER,RELEASED
 792,Sgt Green Clover,Good luck out there!,UNCOMMON,sgt-green-clover,sgt-green-clover,sgt-green-clover,0,0,null,null,800,0.00,null,null,Green Clover Set,OUTFIT,RELEASED
-793,Sgt. Winter,Concept art for Sgt.Winter styles.,UNCOMMON,sgt-winter,null,null,7,22,null,null,0,0.00,null,null,Sgt. Winter Set,LOADINGSCREEN,RELEASED
+793,Sgt. Winter,Concept art for Sgt.Winter styles.,UNCOMMON,sgt-winter,sgt-winter,null,7,22,null,null,0,0.00,null,null,Sgt. Winter Set,LOADINGSCREEN,RELEASED
 794,Sgt. Winter,You don't want to be on his list.,EPIC,sgt-winter,null,null,7,23,null,null,0,0.00,null,Sgt. Winter Style,Sgt. Winter Set,OUTFIT,RELEASED
 795,Sgt. Winter,Leave your mark.,UNCOMMON,sgt-winter,null,null,7,26,null,null,0,0.00,null,null,Sgt. Winter Set,SPRAY,RELEASED
 796,Shackled Stone,Keep it contained.,LEGENDARY,shackled-stone,null,null,0,0,Deadfire,null,0,0.00,null,null,Western Wilds Set,BACKBLING,RELEASED
@@ -804,10 +804,10 @@
 803,Shiro,Nyan!,LEGENDARY,shiro,null,null,0,0,Hime,null,0,0.00,null,null,Bushido Set,BACKBLING,RELEASED
 804,Shogun,Suited for the ultimate showdown.,LEGENDARY,shogun,null,shogun,0,0,null,null,2000,0.00,null,null,Shogun Set,OUTFIT,RELEASED
 805,Shooting Star,Freefall in style.,RARE,shooting-star,null,null,4,84,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
-806,Showdown,"In the ultimate battle of good versus evil, who will prevail?",UNCOMMON,showdown,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
-807,Showstopper,Pull out all the stops,RARE,showstopper,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+806,Showdown,"In the ultimate battle of good versus evil, who will prevail?",UNCOMMON,showdown,showdown,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
+807,Showstopper,Pull out all the stops,RARE,showstopper,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 808,Sight Sling,Expertly sighted.,RARE,sight-sling,null,null,0,0,Insight,null,0,0.00,null,null,Ranged Recon Set,BACKBLING,RELEASED
-809,Signing Back In,The motel staff promised us a quiet stay without disturbance. Zero stars.,,signing-back-in,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+809,Signing Back In,The motel staff promised us a quiet stay without disturbance. Zero stars.,,signing-back-in,signing-back-in,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 810,Silver Fang,Loyal. Brave. Very Sharp.,RARE,silver-fang,null,null,0,0,null,null,800,0.00,null,null,Laoch Set,HARVESTINGTOOL,RELEASED
 811,Sir Glider the Brave,First of his name.,UNCOMMON,sir-glider-the-brave,null,null,2,35,null,null,0,0.00,null,null,Fort Knights Set,GLIDER,RELEASED
 812,Six String,Tuned for mayhem.,LEGENDARY,six-string,null,null,0,0,Power Chord,null,0,0.00,null,null,Volume 11 Set,BACKBLING,RELEASED
@@ -817,7 +817,7 @@
 816,Skull & Beard,Leave your mark.,UNCOMMON,skull-and-beard,null,null,5,99,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 817,Skull Ranger,She's got a bone to pick.,RARE,skull-ranger,null,skull-ranger,0,0,null,null,0,0.00,null,Skull Ranger Style,Skull Squad Set,OUTFIT,RELEASED
 818,Skull Sickle,Skeleton's choice.,EPIC,skull-sickle,null,null,0,0,null,null,1200,0.00,null,null,Skull Squad Set,HARVESTINGTOOL,RELEASED
-819,Skull Squad,Concept art for the Skull Squad set,UNCOMMON,skull-squad,null,null,7,90,null,null,0,0.00,null,null,Skull Squad Set,LOADINGSCREEN,RELEASED
+819,Skull Squad,Concept art for the Skull Squad set,UNCOMMON,skull-squad,skull-squad,null,7,90,null,null,0,0.00,null,null,Skull Squad Set,LOADINGSCREEN,RELEASED
 820,Skull Trooper,A black and white skull costume.,EPIC,skull-trooper,skull-trooper,skull-trooper,0,0,null,null,1200,0.00,null,Skull Trooper Style,Skull Squad Set,OUTFIT,RELEASED
 821,Sky Stalker,Barrel roll through the competition.,LEGENDARY,sky-stalker,sky-stalker,sky-stalker,0,0,null,null,2000,0.00,null,null,Sky Stalker Set,OUTFIT,RELEASED
 822,Slam Dunk,It's a… slam dunk.,RARE,slam-dunk,null,null,0,0,null,null,800,0.00,null,null,Half Court Set,HARVESTINGTOOL,RELEASED
@@ -857,7 +857,7 @@
 856,Split Wing,Snap into action.,EPIC,split-wing,null,null,0,0,null,null,1200,0.00,null,null,Overseer Set,GLIDER,RELEASED
 857,Spooky Team Leader,Find delight in fright.,EPIC,spooky-team-leader,null,spooky-team-leader,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
 858,Spray Paint,Freefall in style.,RARE,spray-paint,null,null,4,36,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
-859,Squad Leader,Concept art,UNCOMMON,squad-leader,null,null,4,28,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+859,Squad Leader,Concept art,UNCOMMON,squad-leader,squad-leader,null,4,28,null,null,0,0.00,null,null,Advanced Forces Set,LOADINGSCREEN,RELEASED
 860,Squad Leader,"First in, last out.",EPIC,squad-leader,squad-leader,null,4,87,null,null,0,0.00,null,null,Advanced Forces Set,OUTFIT,RELEASED
 861,Squat Kick,Don't skip leg day,EPIC,squat-kick,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 862,Squeaky Clean,Press play and floss like a boss,,squeaky-clean,null,null,6,13,null,null,0,0.00,null,null,null,MUSIC,RELEASED
@@ -892,14 +892,14 @@
 891,Subjugator,Quell the competition.,LEGENDARY,subjugator,null,null,0,0,Enforcer,null,0,0.00,null,null,null,BACKBLING,RELEASED
 892,Sugar Crash,Don't crash!,RARE,sugar-crash,null,null,4,15,null,null,0,0.00,null,null,Sweet Tooth Set,GLIDER,RELEASED
 893,Suited Up,Luck of the draw,UNCOMMON,suited-up,null,null,0,0,null,null,0,0.00,High Stakes Challenges,null,Getaway Gang Set,SPRAY,RELEASED
-894,Sun Strider,Concept art,UNCOMMON,sun-strider,null,null,5,34,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+894,Sun Strider,Concept art,UNCOMMON,sun-strider,sun-strider,null,5,34,null,null,0,0.00,null,null,Rescue Patrol Set,LOADINGSCREEN,RELEASED
 895,Sun Strider,It's all fun in the sun.,EPIC,sun-strider,null,null,5,47,null,null,0,0.00,null,null,Rescue Patrol Set,OUTFIT,RELEASED
 896,Sun Tan Specialist,Don't get burned.,EPIC,sun-tan-specialist,sun-tan-specialist,sun-tan-specialist,0,0,null,null,1500,0.00,null,null,Rescue Patrol Set,OUTFIT,RELEASED
 897,Super Striker,Represent your country in style!,RARE,super-striker,super-striker,super-striker,0,0,null,null,1200,0.00,null,null,Goalbound Set,OUTFIT,RELEASED
-898,Supply Drop,Concept art,UNCOMMON,supply-drop,null,null,4,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
-899,Supply Llama,Showcase art for Supply Llama,UNCOMMON,supply-llama,null,null,6,50,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
-900,Support Squadron,Showcase art for Support Squadron Set,UNCOMMON,support-squadron,null,null,7,65,null,null,0,0.00,null,null,Support Squadron Set,LOADINGSCREEN,RELEASED
-901,Suppressed Pistol,Concept art,UNCOMMON,supressed-pistol,null,null,3,6,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+898,Supply Drop,Concept art,UNCOMMON,supply-drop,supply-drop,null,4,30,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+899,Supply Llama,Showcase art for Supply Llama,UNCOMMON,supply-llama,supply-llama,null,6,50,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+900,Support Squadron,Showcase art for Support Squadron Set,UNCOMMON,support-squadron,support-squadron,null,7,65,null,null,0,0.00,null,null,Support Squadron Set,LOADINGSCREEN,RELEASED
+901,Suppressed Pistol,Concept art,UNCOMMON,suppressed-pistol,supressed-pistol,null,3,6,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 902,Survival Specialist,Rare Survival Specialist outfit.,RARE,survival-specialist,survival-specialist,survival-specialist,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
 903,Sushi,Leave your mark.,UNCOMMON,sushi,null,null,5,6,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 904,Sushi Master,Roll out!,RARE,sushi-master,sushi-master,sushi-master,0,0,null,null,1200,0.00,null,null,Sushi Set,OUTFIT,RELEASED
@@ -908,14 +908,14 @@
 907,Swipe It,Swipe it over and over again,RARE,swipe-it,null,null,5,63,null,null,0,0.00,null,null,null,DANCE,RELEASED
 908,Swirls,Give it whirl.,RARE,swirls,null,null,7,85,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 909,Synth Star,Ride a new wave to victory.,EPIC,synth-star,null,synth-star,0,0,null,null,1500,0.00,null,null,Garage Band,OUTFIT,RELEASED
-910,Tactical Shotgun,Concept art,UNCOMMON,tactical-shotgun,null,null,3,28,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+910,Tactical Shotgun,Concept art,UNCOMMON,tactical-shotgun,tactical-shotgun,null,3,28,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 911,Tactical Sleigh,No chimney is safe.,RARE,tactical-sleigh,null,null,7,15,null,null,0,0.00,null,null,Sgt. Winter Set,GLIDER,RELEASED
 912,Tactical Spade,Designed for survival.,UNCOMMON,tactical-spade,null,null,0,0,null,null,500,0.00,null,null,Black Vector Set,HARVESTINGTOOL,RELEASED
 913,Tactics Officer,Ready for action.,UNCOMMON,tactics-officer,tactics-officer,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 914,Tag Bag,Paint the town red… and white… and purple…,EPIC,tag-bag,null,null,0,0,Abstrackt,null,0,0.00,null,null,Aerosol Assassins Set,BACKBLING,RELEASED
 915,Take 14,",,,and action!",UNCOMMON,take-14,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 916,Take the L,Savor th W.,RARE,take-the-l,null,null,3,31,null,null,0,0.00,null,null,null,DANCE,RELEASED
-917,Taro,Protector of the wilds.,EPIC,taro,null,taro,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
+917,Taro,Protector of the wilds.,EPIC,taro,null,taro,0,0,null,null,1500,0.00,null,null,Storm Familiar Set,OUTFIT,RELEASED
 918,Tasty,Express yourself on the battlefield.,UNCOMMON,tasty,null,null,5,78,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 919,Tat Axe,No Regrets.,RARE,tat-axe,null,null,0,0,null,null,800,0.00,null,null,Royale Hearts Set,HARVESTINGTOOL,RELEASED
 920,Tattered,Express yourself on the battlefield.,UNCOMMON,tattered,null,null,5,67,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -924,17 +924,17 @@
 923,Teknique,Leave your mark.,UNCOMMON,teknique,null,null,4,86,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 924,Telemetry,Find your bearings.,EPIC,telemetry,null,null,0,0,Double Helix,Nintendo Switch Bundle,0,0.00,null,null,Double Helix Set,BACKBLING,RELEASED
 925,Tender Defender,Protect your nuggets.,EPIC,tender-defender,null,tender-defender,0,0,null,null,1500,0.00,null,null,Fowl Play Set,OUTFIT,RELEASED
-926,Tender Defender,Showcase art for the Fowl Play set.,UNCOMMON,tender-defender,null,null,7,40,null,null,0,0.00,null,null,Fowl Play Set,LOADINGSCREEN,RELEASED
+926,Tender Defender,Showcase art for the Fowl Play set.,UNCOMMON,tender-defender,tender-defender,null,7,40,null,null,0,0.00,null,null,Fowl Play Set,LOADINGSCREEN,RELEASED
 927,Tenderizer,Leave a good first impression.,RARE,tenderizer,null,null,0,0,null,Twitch Prime,0,0.00,null,null,Advanced Forces Set,HARVESTINGTOOL,RELEASED
 928,Tendril,Rooted in fierce competition.,RARE,tendril,null,null,0,0,null,null,800,0.00,null,null,Flytrap Set,HARVESTINGTOOL,RELEASED
 929,Terminus,It's the end of the line.,EPIC,terminus,null,null,0,0,null,null,1200,0.00,null,null,Oblivion Set,GLIDER,RELEASED
-930,That's a Wrap,Director's Notes: 'What a crazy shoot! Those meteors that crashed down sure gave us a lot of extra free production value! Glad we survived it!',UNCOMMON,thats-a-wrap,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+930,That's a Wrap,Director's Notes: 'What a crazy shoot! Those meteors that crashed down sure gave us a lot of extra free production value! Glad we survived it!',UNCOMMON,thats-a-wrap,thats-a-wrap,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 931,The Ace,Stack the deck.,EPIC,the-ace,null,the-ace,0,0,null,Fortnite Starter Pack 3,0,4.99,null,null,Getaway Gang Set,OUTFIT,RELEASED
 932,The Ice King,All hail the ruler of ice and sno,LEGENDARY,the-ice-king,null,null,7,100,null,null,0,0.00,null,The Ice King Style,Ice Kingdom Set,OUTFIT,RELEASED
 933,The Reaper,Vengeance for hire.,LEGENDARY,the-reaper,the-reaper,null,3,100,null,null,0,0.00,null,null,Hired Gun Set,OUTFIT,RELEASED
 934,The Robot,Execute dance sequence,EPIC,the-robot,null,null,3,95,null,null,0,0.00,null,null,null,DANCE,RELEASED
 935,The Umbrella,The fabled victory umbrella.,COMMON,the-umbrella,null,null,0,0,null,null,0,0.00,Victory Any Season,null,null,GLIDER,RELEASED
-936,The Visitor,From beyond the unknown to the center of Dusty Divot.,UNCOMMON,the-visitor,null,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,null,LOADINGSCREEN,RELEASED
+936,The Visitor,From beyond the unknown to the center of Dusty Divot.,UNCOMMON,the-visitor,the-visitor,null,0,0,null,null,0,0.00,Blockbuster Challenges,null,Blockbuster Set,LOADINGSCREEN,RELEASED
 937,The Visitor,Intentions unknown.,LEGENDARY,the-visitor,the-visitor,null,0,0,null,null,0,0.00,Blockbuster Challenges,The Visitor Style,null,OUTFIT,RELEASED
 938,The Worm,Express yourself on the battlefield.,RARE,the-worm,null,null,2,28,null,null,0,0.00,null,null,null,DANCE,RELEASED
 939,Thief,Express yourself on the battlefield.,UNCOMMON,thief,null,null,3,8,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
@@ -945,11 +945,11 @@
 944,Thumbs Up,Aye!,UNCOMMON,thumbs-up,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 945,Thumbs Up,Express yourself on the battlefield.,UNCOMMON,thumbs-up,null,null,3,46,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 946,Tidy,Keep it tidy.,RARE,tidy,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
-947,Time Out,Stop the clock.,UNCOMMON,time-out,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+947,Time Out,Stop the clock.,UNCOMMON,time-out,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 948,Tomato,Splat!,RARE,tomato,null,null,6,28,null,null,0,0.00,null,null,null,TOY,RELEASED
-949,Tomato Temple,Showcase art for Tomato Temple,UNCOMMON,tomato-temple,null,null,6,60,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+949,Tomato Temple,Showcase art for Tomato Temple,UNCOMMON,tomato-temple,tomato-temple,null,6,60,null,null,0,0.00,null,null,Pizza Pit Set,LOADINGSCREEN,RELEASED
 950,TomatoHead,Extra saucey.,EPIC,tomatohead,tomatohead,tomatohead,0,0,null,null,1500,0.00,Tomatohead Challenges,Tomatohead Style,Pizza Pit Set,OUTFIT,RELEASED
-951,TomatoHead,Showcase art,UNCOMMON,tomatohead,null,null,5,93,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+951,TomatoHead,Showcase art,UNCOMMON,tomatohead,tomatohead,null,5,93,null,null,0,0.00,null,null,Pizza Pit Set,LOADINGSCREEN,RELEASED
 952,Tome Pouch,Long forgotten lore.,EPIC,tome-pouch,null,null,0,0,Elmira,null,0,0.00,null,null,Arcane Arts Set,BACKBLING,RELEASED
 953,Tooth Pick,Don't forget to floss.,RARE,tooth-pick,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 954,Touchdown,Go for the extra point.,UNCOMMON,touchdown,null,null,0,0,null,null,500,0.00,null,null,Fourth Down,GLIDER,RELEASED
@@ -957,7 +957,7 @@
 956,Toxic Trooper,Dominate the hot zone.,EPIC,toxic-trooper,toxic-trooper,toxic-trooper,0,0,null,null,1500,0.00,null,null,Outbreak Set,OUTFIT,RELEASED
 957,TP,Freefall in style.,RARE,tp,null,null,5,84,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 958,TP,Express yourself on the battlefield,UNCOMMON,tp,null,null,6,58,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
-959,Track Record,We learned that you can go really fast if you boost out of the corners. You may lose a passenger or two though.,UNCOMMON,track-record,null,null,0,0,null,null,0,0.00,Road Trip Challenges,null,null,LOADINGSCREEN,RELEASED
+959,Track Record,We learned that you can go really fast if you boost out of the corners. You may lose a passenger or two though.,UNCOMMON,track-record,track-record,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
 960,Tracker,Uncommon tracker outfit.,UNCOMMON,tracker,tracker,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 961,Trail Tote,Hit the slopes!,UNCOMMON,trail-tote,null,null,7,22,null,null,0,0.00,null,null,Powder Patrol Set,BACKBLING,RELEASED
 962,Trailblazer,On the forefront of victory,EPIC,trailblazer,trailblazer,trailblazer,0,0,null,Twitch Prime,0,0.00,null,null,Advanced Forces Set,OUTFIT,RELEASED
@@ -968,14 +968,14 @@
 967,Tricera Ops,Sink your teeth into victory.,LEGENDARY,tricera-ops,tricera-ops,tricera-ops,0,0,null,null,2000,0.00,null,null,Dino Guard Set,OUTFIT,RELEASED
 968,Triple Threat,It's all about the fundamentals,RARE,triple-threat,triple-threat,triple-threat,0,0,null,null,1200,0.00,null,null,Half Court Set,OUTFIT,RELEASED
 969,Triumph,Harness the winds of victory.,UNCOMMON,triumph,null,null,0,0,null,null,500,0.00,null,null,Venture Set,GLIDER,RELEASED
-970,Trog,Trog fight good!,EPIC,trog,null,null,7,71,null,null,0,0.00,null,null,Mountain Myths Set,OUTFIT,RELEASED
+970,Trog,Trog fight good!,EPIC,trog,null,null,7,71,null,null,0,0.00,null,Trog Style,Mountain Myths Set,OUTFIT,RELEASED
 971,Trog Drawings,Leave your mark.,UNCOMMON,trog-drawings,null,null,7,72,null,null,0,0.00,null,null,Mountain Myths Set,SPRAY,RELEASED
 972,Trooper,Uncommon trooper outfit.,UNCOMMON,trooper,trooper,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 973,True Heart,<3,EPIC,true-heart,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 974,True Love,Get Romantic,UNCOMMON,true-love,null,null,0,0,null,null,200,0.00,null,null,Royale Hearts Set,DANCE,RELEASED
 975,True North,Find your way.,EPIC,true-north,null,null,0,0,null,Twitch Prime,0,0.00,null,null,Advanced Forces Set,BACKBLING,RELEASED
 976,Trusty No. 2,Ready to pass the test.,EPIC,trusty-no-2,null,null,3,79,null,null,0,0.00,null,null,Hired Gun Set,HARVESTINGTOOL,RELEASED
-977,Trusty Tusks,Tufted and tusked.,EPIC,trusty-tusks,null,null,0,0,Taro,null,0,0.00,null,null,null,BACKBLING,RELEASED
+977,Trusty Tusks,Tufted and tusked.,EPIC,trusty-tusks,null,null,0,0,Taro,null,0,0.00,null,null,Storm Familiar Set,BACKBLING,RELEASED
 978,Tunnel,Leave your mark.,UNCOMMON,tunnel,null,null,4,94,null,null,0,0.00,null,null,null,SPRAY,RELEASED
 979,Turbine,Self-piloted propulsion,RARE,turbine,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 980,Twist,It's all in the hips.,RARE,twist,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
@@ -983,9 +983,9 @@
 982,Ultra Red,Show your style.,RARE,ultra-red,null,null,7,26,null,null,0,0.00,null,null,null,WRAP,RELEASED
 983,Ultramarine,Freefall in style.,RARE,ultramarine,null,null,3,36,null,null,0,0.00,null,null,null,CONTRAIL,RELEASED
 984,Uplink,Always engaged,EPIC,uplink,null,null,5,14,null,null,0,0.00,null,null,null,BACKBLING,RELEASED
-985,Upright Axe," It's up, and it's good!",RARE,upright-axe,null,null,0,0,null,null,800,0.00,null,null,Fourth Down,HARVESTINGTOOL,RELEASED
+985,Upright Axe," It's up, and it's good!",RARE,upright-axe,null,null,0,0,null,null,800,0.00,null,null,Fourth Down Set,HARVESTINGTOOL,RELEASED
 986,Valkyrie,A chilling revelation.,LEGENDARY,valkyrie,null,valkyrie,0,0,null,null,2000,0.00,null,null,Harbinger Set,OUTFIT,RELEASED
-987,Valkyrie,Showcase art for Valkyrie,UNCOMMON,valkyrie,null,null,6,34,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+987,Valkyrie,Showcase art for Valkyrie,UNCOMMON,valkyrie,valkyrie,null,6,34,null,null,0,0.00,null,null,Harbinger Set,LOADINGSCREEN,RELEASED
 988,Valkyrie Wings,Winter wings prevail.,LEGENDARY,valkyrie-wings,null,null,0,0,Valkyrie,null,0,0.00,null,null,Harbinger Set,BACKBLING,RELEASED
 989,Valor,A beaon for hope.,LEGENDARY,valor,valor,null,4,71,null,null,0,0.00,null,null,Valiant Set,OUTFIT,RELEASED
 990,Ventura,Destined for greatness,EPIC,ventura,ventura,ventura,0,0,null,null,1500,0.00,null,null,Venture Set,OUTFIT,RELEASED
@@ -1030,7 +1030,7 @@
 1029,Wreck Raider,Wrecks to riches.,EPIC,wreck-raider,wreck-raider,wreck-raider,0,0,null,null,1500,0.00,null,null,Divemasters Set,OUTFIT,RELEASED
 1030,Wukong,Long live the king.,LEGENDARY,wukong,wukong,wukong,0,0,null,null,2000,0.00,null,null,Wukong Set,OUTFIT,RELEASED
 1031,X Mark,Leave your mark.,UNCOMMON,x-mark,null,null,4,3,null,null,0,0.00,null,null,null,SPRAY,RELEASED
-1032,X-4 Stormwing,Concept art for the X-4 Stormwing,UNCOMMON,x-4-stormwing,null,null,7,4,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+1032,X-4 Stormwing,Concept art for the X-4 Stormwing,UNCOMMON,x-4-stormwing,x-4-stormwing,null,7,4,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
 1033,You Shouldn't Have,For the combatant who has everything.,UNCOMMON,you-shouldnt-have,null,null,0,0,null,null,500,0.00,null,null,null,HARVESTINGTOOL,RELEASED
 1034,You're Awesome,Seriously. We all think so.,RARE,youre-awesome,null,null,5,31,null,null,0,0.00,null,null,null,DANCE,RELEASED
 1035,Yuletide Ranger,Up on the rooftop…,UNCOMMON,yuletide-ranger,yuletide-ranger,yuletide-ranger,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
@@ -1039,7 +1039,7 @@
 1038,Zany,"Go ahead, get weird with it.",RARE,zany,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
 1039,Zenith,Peak performance at any elevation.,LEGENDARY,zenith,null,null,7,1,null,null,0,0.00,null,Zenith Style,Zenith Set,OUTFIT,RELEASED
 1040,Zephyr,Glide with style.,RARE,zephyr,null,null,0,0,null,null,800,0.00,null,null,null,GLIDER,RELEASED
-1041,Zoey,Concept art,UNCOMMON,zoey,null,null,4,47,null,null,0,0.00,null,null,null,LOADINGSCREEN,RELEASED
+1041,Zoey,Concept art,UNCOMMON,zoey,zoey,null,4,47,null,null,0,0.00,null,null,Sweet Tooth Set,LOADINGSCREEN,RELEASED
 1042,Zoey,Candy-coated chaos.,EPIC,zoey,zoey,null,4,47,null,null,0,0.00,null,null,Sweet Tooth Set,OUTFIT,RELEASED
 1043,ZZZ,Express yourself on the battlefield.,UNCOMMON,zzz,null,null,4,18,null,null,0,0.00,null,null,null,EMOTICON,RELEASED
 1044,Ice Sceptre,The frozen work is at your command.,EPIC,ice-sceptre,null,null,0,0,null,null,0,0.00,Ice King Challenges,Ice Sceptre Style,Ice Kingdom Set,HARVESTINGTOOL,RELEASED
@@ -1066,32 +1066,32 @@
 1065,Equalizer,Soar through the soundscape.,RARE,equalizer,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,GLIDER,RELEASED
 1066,Flurry,Swing flurriously.,RARE,flurry,null,null,0,0,null,null,800,0.00,null,null,Winter Wonderland Set,HARVESTINGTOOL,RELEASED
 1067,Frozen Axe,"Once crimson, now coated in permafrost.",RARE,frozen-axe,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,HARVESTINGTOOL,RELEASED
-1068,Maven,Victory is the common denominator.,RARE,maven,null,maven,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
-1069,Paper Plane,Finely folded flyer.,RARE,paper-plane,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,UNRELEASED
+1068,Maven,Victory is the common denominator.,RARE,maven,null,maven,0,0,null,null,1200,0.00,null,null,Calculator Crew Set,OUTFIT,RELEASED
+1069,Paper Plane,Finely folded flyer.,RARE,paper-plane,null,null,0,0,null,null,800,0.00,null,null,Calculator Crew Set,GLIDER,RELEASED
 1070,Prodigy,Never afraid to divide by zero.,RARE,prodigy,null,null,0,0,null,Playstation Plus ,0,0.00,null,null,null,OUTFIT,RELEASED
 1071,Tabulator,Get those digits.,RARE,tabulator,null,null,0,0,Prodigy,Playstation Plus ,0,0.00,null,null,null,BACKBLING,RELEASED
 1072,Snow Globe,Shake vigorously.,RARE,snow-globe,null,null,0,0,null,null,0,0.00,null,null,Nutcracker Set,HARVESTINGTOOL,RELEASED
-1073,Techie,Boot up.,RARE,techie,null,null,0,0,Maven,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+1073,Techie,Boot up.,RARE,techie,null,null,0,0,Maven,null,0,0.00,null,null,Calculator Crew Set,BACKBLING,RELEASED
 1074,Uni-horn,Take the competition by the horn.,RARE,uni-horn,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
-1075,Virtue,Swing forever true.,RARE,virtue,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
-1076,Vision,Unending gaze.,RARE,vision,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+1075,Virtue,Swing forever true.,RARE,virtue,null,null,0,0,null,null,800,0.00,null,null,Eternal Struggle Set,HARVESTINGTOOL,RELEASED
+1076,Vision,Unending gaze.,RARE,vision,null,null,0,0,null,null,800,0.00,null,null,Ouroboros Set,HARVESTINGTOOL,RELEASED
 1077,Bootstraps,Weaponized boot on a stick.,UNCOMMON,bootstraps,null,null,0,0,null,null,500,0.00,null,null,Fish Food Set,HARVESTINGTOOL,RELEASED
 1078,Candy Cane,Show your style.,UNCOMMON,candy-cane,null,null,0,0,null,null,300,0.00,null,null,null,WRAP,RELEASED
 1079,Combat Wreath,Tidings of combat and joy.,UNCOMMON,combat-wreath,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,BACKBLING,RELEASED
 1080,Cookie Cutter,Sweet vengeance.,UNCOMMON,cookie-cutter,null,null,0,0,null,null,500,0.00,null,null,Gingerbread Set,HARVESTINGTOOL,RELEASED
 1081,Gingersled,That's one sweet ride.,UNCOMMON,gingersled,null,null,0,0,null,null,500,0.00,null,null,Gingerbread Set,GLIDER,RELEASED
 1082,Inverted Blade,Sharp from any directions.,UNCOMMON,inverted-blade,null,null,0,0,null,null,500,0.00,null,null,null,HARVESTINGTOOL,RELEASED
-1083,T-Square,"Measure twice, chop once.",UNCOMMON,t-square,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+1083,T-Square,"Measure twice, chop once.",UNCOMMON,t-square,null,null,0,0,null,null,500,0.00,null,null,Calculator Crew Set,HARVESTINGTOOL,RELEASED
 1084,Tinseltoes,Keep the competition on their toes.,UNCOMMON,tinseltoes,null,tinseltoes,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
 1085,Birdshot,Flock together.,LEGENDARY,birdshot,null,null,0,0,Crackshot,null,0,0.00,null,null,Nutcracker Set,BACKBLING,RELEASED
 1086,Unwrapped,What did you get me?,UNCOMMON,unwrapped,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
-1087,Mind Blown,Rethink everything you know.,UNCOMMON,mind-blown,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+1087,Mind Blown,Rethink everything you know.,UNCOMMON,mind-blown,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
 1088,Take The Elf,Break out the mistletoe.,UNCOMMON,take-the-elf,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,DANCE,RELEASED
 1089,Shaolin Sit-up,Mind over body.,UNCOMMON,shaolin-sit-up,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
-1090,Lazy Shuffle,Keep it lazy.,RARE,lazy-shuffle,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
-1091,Clean Groove,Dust off your best moves.,RARE,clean-groove,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
-1092,Crackdown,Go nuts.,EPIC,crackdown,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
-1093,Cheer Up,Be aggressive. B-E aggressive.,EPIC,cheer-up,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+1090,Lazy Shuffle,Keep it lazy.,RARE,lazy-shuffle,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1091,Clean Groove,Dust off your best moves.,RARE,clean-groove,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1092,Crackdown,Go nuts.,EPIC,crackdown,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1093,Cheer Up,Be aggressive. B-E aggressive.,EPIC,cheer-up,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
 1094,Gindy Gunner,Extra sweet.,EPIC,giddy-gunner,null,null,0,0,Ginger Gunner,null,0,0.00,null,null,Gingerbread Set,BACKBLING,RELEASED
 1095,Mini Marauder,Extra salty.,EPIC,mini-marauder,null,null,0,0,Marry Marauder,null,0,0.00,null,null,Gingerbread Set,BACKBLING,RELEASED
 1096,Signal Hub,Uplink secured.,RARE,signal-hub,null,null,0,0,Waypoint,null,0,0.00,null,null,null,BACKBLING,RELEASED
@@ -1105,11 +1105,11 @@
 1104,GG Ornament,Leave your mark.,UNCOMMON,gg-ornament,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,SPRAY,RELEASED
 1105,Holiday Stormwing,Leave your mark.,UNCOMMON,holiday-stormwing,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,SPRAY,RELEASED
 1106,Snowball,Packed and ready for impact.,RARE,snowball,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,TOY,RELEASED
-1107,Festive Firefight,Showcase art for the holidayu period.,COMMON,festive-firefight,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,LOADINGSCREEN,RELEASED
-1108,Crackshot Special,,COMMON,crackshot-special,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,LOADINGSCREEN,RELEASED
+1107,Festive Firefight,Showcase art for the holidayu period.,UNCOMMON,festive-firefight,festive-firefight,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,LOADINGSCREEN,RELEASED
+1108,Crackshot Special,,UNCOMMON,crackshot-special,crackshot-special,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,LOADINGSCREEN,RELEASED
 1109,Snowflake,Express yourself on the battlefield,RARE,snowflake,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,EMOTICON,RELEASED
 1110,Snowman,Express yourself on the battlefield,RARE,snowman,null,null,0,0,null,null,0,0.00,14 Days of Fortnite Challenges,null,null,EMOTICON,RELEASED
-1111,Galaxy Llama,Leave your mark.,UNCOMMON,galaxy-llama,null,null,0,0,null,Samsung Galaxy Bundle,0,0.00,null,null,null,SPRAY,UNRELEASED
+1111,Galaxy Llama,Leave your mark.,UNCOMMON,galaxy-llama,null,null,0,0,null,Samsung Galaxy Bundle,0,0.00,null,null,null,SPRAY,RELEASED
 1112,Crackabella,She's a hard nut to crack.,EPIC,crackabella,null,crackabella,0,0,null,null,1500,0.00,null,null,Nutcracker Set,OUTFIT,RELEASED
 1113,Snackshot,Now snack-snized,EPIC,snackshot,null,null,0,0,Crackabella,null,0,0.00,null,null,Nutcracker Set,BACKBLING,RELEASED
 1114,Grimbles,This garden gnome is at home on the roam in a snowy biome.,RARE,grimbles,null,grimbles,0,0,null,null,1200,0.00,null,Grimbles Style,null,OUTFIT,RELEASED
@@ -1138,4 +1138,173 @@
 1137,Glow Show,Illuminate the room.,LEGENDARY,glow-show,null,null,0,0,dj-bop,null,0,0.00,null,null,Twin Turntables Set,BACKBLING,RELEASED
 1138,Snowfoot,"Tread lightly, and never leave a trace.",EPIC,snowfoot,null,snowfoot,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
 1139,Snow Star,Hard to handle.,EPIC,snow-star,null,null,0,0,snowfoot,null,0,0.00,null,null,null,BACKBLING,RELEASED
-1140,Llamacadabra,Don't forget the magic word.,EPIC,llamacadabra,null,null,0,0,null,null,800,0.00,null,null,nu,DANCE,RELEASED
+1140,Llamacadabra,Don't forget the magic word.,EPIC,llamacadabra,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1141,Ark,Upholding the principles of righteous victory.,LEGENDARY,ark,null,ark,0,0,null,null,2000,0.00,null,null,Eternal Struggle Set,OUTFIT,RELEASED
+1142,Ark Wings,Pristine plumage.,LEGENDARY,ark-wings,null,null,0,0,Ark,null,0,0.00,null,null,Eternal Struggle Set,BACKBLING,RELEASED
+1143,Airtime,You can catch air off of just about anything/,UNCOMMON,airtime,airtime,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1144,Feline By Design,It's so satisfying to see a sketch become reality.,UNCOMMON,feline-by-design,feline-by-design,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1145,Order Up!,I made yours extra greasy.,UNCOMMON,order-up,order-up,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1146,Ready For Takeoff,Fuel up before a long tiner's night.,UNCOMMON,ready-for-takeoff,ready-for-takeoff,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1147,Teatime,Pine needles make unsurprisingly bad tea.,UNCOMMON,teatime,teatime,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1148,Wide Awake,There's no pick me up quite like brisk mountain air.,UNCOMMON,wide-awake,wide-awake,null,0,0,null,null,0,0.00,Snowfall Challenges,null,Snowfall Set,LOADINGSCREEN,RELEASED
+1149,Wailing Wolves,Fireflies provide just enough distraction for an ambush,UNCOMMON,wailing-wolves,wailing-wolves,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1150,Verge Of Despair,"For every one that goes down, two more take it's place.",UNCOMMON,verge-of-despair,verge-of-despair,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1151,Turning of the Tide,"As the sun rises, darkness fails.",UNCOMMON,turning-of-the-tide,turning-of-the-tide,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1152,Tomato Trek,We never expected finding a slice of pizza would be this difficult.,UNCOMMON,tomato-trek,tomato-trek,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
+1153,Six-sided Mystery,"Despite all of the creepy noises and glowing glyphs, we couldn't resist taking a closer look.",UNCOMMON,six-sided-mystery,six-sided-mystery,null,0,0,null,null,0,0.00,Road Trip Challenges,null,Road Trip Set,LOADINGSCREEN,RELEASED
+1154,Rememberance,"In the calm after the storm, even flowers can bloom/",UNCOMMON,rememberance,rememberance,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1155,On Target,Landing sequence complete. Initiate recon protocol.,UNCOMMON,on-target,on-target,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1156,Nite Coven Roundup,"When the sun goes down, it's time to cull the herd.",UNCOMMON,nite-coven-roundup,nite-coven-roundup,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1157,Fabled Hunter,"Once the pack is divided, they no longer pack much bite.",UNCOMMON,fabled-hunter,fabled-hunter,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1158,Down  on the Ranch,Llamas keep escaping their pen for some strange reason.,UNCOMMON,`down-on-the-ranch,`down-on-the-ranch,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1159,Dinner Date At Dusk,Red is such an appetizing color.,UNCOMMON,dinner-date-at-dusk,dinner-date-at-dusk,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1160,Dance Party,"Leave the past behind, and dance into the night.",UNCOMMON,dance-party,dance-party,null,0,0,null,null,0,0.00,Hunting Party Challenges,null,Hunting Party Set,LOADINGSCREEN,RELEASED
+1161,Lace,Lives for the thrill of the frill.,EPIC,lace,null,lace,0,0,null,null,1500,0.00,null,null,Ouroboros Set,OUTFIT,RELEASED
+1162,Stitches,Sown into your nightmares.,EPIC,stitches,null,null,0,0,Lace,null,0,0.00,null,null,Ouroboros Set,BACKBLING,RELEASED
+1163,Paradox,Strike the impossible balance.,EPIC,paradox,null,paradox,0,0,null,null,1500,0.00,null,null,Ouroboros Set,OUTFIT,RELEASED
+1164,Eternal,Unbounded.,EPIC,eternal,null,null,0,0,Paradox,null,0,0.00,null,null,Ouroboros Set,BACKBLING,RELEASED
+1165,Equilibrium,Perfectly balanced.,UNCOMMON,equilibrium,null,null,0,0,null,null,500,0.00,null,null,Ouroboros Set,GLIDER,RELEASED
+1166,Verge,Always on the forefront.,UNCOMMON,verge,null,verge,0,0,null,null,800,0.00,null,null,Modern Mercenary Set,OUTFIT,RELEASED
+1167,Diverge,Break away from the pack.,RARE,diverge,null,null,0,0,null,null,800,0.00,null,null,Modern Mercenary Set,GLIDER,RELEASED
+1168,Clean Cut,Looks sharp. Actually sharp.,UNCOMMON,clean-cut,null,null,0,0,null,null,500,0.00,null,null,Modern Mercenary Set,HARVESTINGTOOL,RELEASED
+1169,Ice Spikes,Clad yourself in jagged ice.,LEGENDARY,ice-spikes,null,null,0,0,The Ice Queen,null,0,0.00,null,null,Ice Kingdom Set,BACKBLING,RELEASED
+1170,The Ice Queen,Long live the queen.,LEGENDARY,the-ice-queen,null,the-ice-queen,0,0,null,null,2000,0.00,null,null,Ice Kingdom Set,OUTFIT,RELEASED
+1171,Coaxial Copter,Dual-rotor tactical copter.,EPIC,coaxial-copter,null,null,0,0,null,null,1200,0.00,null,null,Tech Ops Set,GLIDER,RELEASED
+1172,Cobalt,Search and destroy.,EPIC,cobalt,null,cobalt,0,0,null,Fortnite Starter Pack 5,0,0.00,null,null,null,OUTFIT,RELEASED
+1173,Emblazoned Buckler,To the victor go the spoils.,EPIC,emblazoned-buckler,null,null,0,0,Jaeger,null,0,0.00,null,null,Primal Hunters Set,BACKBLING,RELEASED
+1174,Evil Eye,Always watching. Always.,EPIC,evil-eye,null,null,0,0,null,null,1200,0.00,null,null,Eternal Struggle Set,HARVESTINGTOOL,RELEASED
+1175,Fyra,Lives for the chase.,EPIC,fyra,null,fyra,0,0,null,null,1500,0.00,null,null,Primal Hunters Set,OUTFIT,RELEASED
+1176,Jaeger,Leading the hunt.,EPIC,jaeger,null,jaeger,0,0,null,null,1500,0.00,null,null,Primal Hunters Set,OUTFIT,RELEASED
+1177,Malcore,Malevolent to the core.,EPIC,malcore,null,malcore,0,0,null,null,1500,0.00,null,null,Eternal Struggle Set,OUTFIT,RELEASED
+1178,Malcore Wings,Spread your wicked wings.,EPIC,malcore-wings,null,null,0,0,Malcore,null,0,0.00,null,null,Eternal Struggle Set,BACKBLING,RELEASED
+1179,Reinforced Backplate,Strong and secured,EPIC,reinforced-backplate,null,null,0,0,Cobalt,Fortnite Starter Pack 5,0,0.00,null,null,null,BACKBLING,RELEASED
+1180,Runic Shield,Claimed in battle.,EPIC,runic-shield,null,null,0,0,Fyra,null,0,0.00,null,null,Primal Hunters Set,BACKBLING,RELEASED
+1181,Battle Axe,Truly barbaric.,RARE,battle-axe,null,null,0,0,null,null,800,0.00,null,null,Primal Hunters Set,HARVESTINGTOOL,RELEASED
+1182,Capacitor,Fully charged.,RARE,capacitor,null,null,0,0,Tech Ops,null,0,0.00,null,null,Tech Ops Set,BACKBLING,RELEASED
+1183,Flimsie Flail,Flop til the drop.,RARE,flimsie-flail,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+1184,Flux,Stay in the flow.,RARE,flux,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1185,Icebringer,Bitter cold.,RARE,icebringer,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
+1186,Slick,Makin' it look easy.,RARE,slick,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1187,Tech Ops,Overtake the battlefield,RARE,tech-ops,null,tech-ops,0,0,null,null,1200,0.00,null,null,Tech Ops Set,OUTFIT,RELEASED
+1188,Whirlwind,Around and around abound.,RARE,whirlwind,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1189,Winter's Thorn,Ride out the squall.,RARE,winters-thorn,null,null,0,0,null,null,0,0.00,null,null,Ice Storm Challenges,GLIDER,RELEASED
+1190,Armature,Experimental prototype.,UNCOMMON,armature,null,null,0,0,null,null,500,0.00,null,null,null,HARVESTINGTOOL,RELEASED
+1191,Blue Metallic,Show your style.,UNCOMMON,blue-metallic,null,null,0,0,null,null,0,0.00,null,null,Ice Storm Challenges,WRAP,RELEASED
+1192,Hot & Cold,Show your style.,UNCOMMON,hot-cold,null,null,0,0,null,null,300,0.00,null,null,null,WRAP,RELEASED
+1193,IDK,Don't ask me.,UNCOMMON,idk,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1194,Tusk,Wild and woolly.,UNCOMMON,tusk,null,null,0,0,null,null,500,0.00,null,null,null,GLIDER,RELEASED
+1195,Volley Girl,"If you get served, it's not her fault.",RARE,volley-girl,null,volley-girl,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
+1196,Used Racket,Near mint condition!,RARE,used-racket,null,null,0,0,Volley Girl,null,0,0.00,null,null,null,BACKBLING,RELEASED
+1197,Pigskin,Go long...,RARE,pigskin,null,null,0,0,null,null,0,0.00,null,null,Fourth Down Set,TOY,RELEASED
+1198,Striped Soldier,Call it like you see it,UNCOMMON,striped-soldier,null,striped-soldier,0,0,null,null,800,0.00,null,null,Fourth Down Set,OUTFIT,RELEASED
+1199,Whistle Warrior,Throw a flag on the play.,UNCOMMON,whistle-warrior,null,whistle-warrior,0,0,null,null,800,0.00,null,null,Fourth Down Set,OUTFIT,RELEASED
+1200,Marshmello,Start the party.,EPIC,marshmello,null,marshmello,0,0,null,null,1500,0.00,null,null,Marshmello Set,OUTFIT,RELEASED
+1201,Marsh Walk,Keep it mello.,RARE,marsh-walk,null,null,0,0,null,null,500,0.00,null,null,Marshmello Set,DANCE,RELEASED
+1202,Mello Rider,Fly happier.,UNCOMMON,mello-rider,null,null,0,0,null,null,500,0.00,null,null,Marshmello Set,GLIDER,RELEASED
+1203,Marshy Smasher,Spread some joy.,RARE,marshy-smasher,null,null,0,0,null,null,0,0.00,Showtime Challenges,null,Marshmello Set,HARVESTINGTOOL,RELEASED
+1204,Keep It Mello,Join in the fun.,RARE,keep-it-mello,null,null,0,0,null,null,0,0.00,Showtime Challenges,null,Marshmello Set,DANCE,RELEASED
+1205,Mello Made It Right,Leave your mark.,UNCOMMON,mello-made-it-right,null,null,0,0,null,null,1200,0.00,Showtime Challenges,null,Marshmello Set,SPRAY,RELEASED
+1206,Extra Cheese,Slice through the sky.,EPIC,extra-cheese,null,null,0,0,null,null,0,0.00,null,null,null,GLIDER,RELEASED
+1207,Honor Guard,Battle with honor.,EPIC,honor-guard,null,null,0,0,null,HONOR View 20 Smartphone,0,0.00,null,null,null,OUTFIT,RELEASED
+1208,Kitbash,Show'em what you're made of.,EPIC,kitbash,null,null,0,0,null,null,1500,0.00,null,null,Boneyard Set,OUTFIT,RELEASED
+1209,Trash Lid,Put a lid on it.,EPIC,trash-lid,null,null,0,0,Kitbash,null,0,0.00,null,null,Boneyard Set,BACKBLING,RELEASED
+1210,Cold Hearted,No love lost.,RARE,cold-hearted,null,null,0,0,null,null,0,0.00,null,null,Frozen Legends Set,HARVESTINGTOOL,RELEASED
+1211,Frozen Beak,Break the ice.,RARE,frozen-beak,null,null,0,0,null,null,0,0.00,null,null,Frozen Legends Set,HARVESTINGTOOL,RELEASED
+1212,Frozen Feathers,A cold wind bellows.,RARE,frozen-feathers,null,null,0,0,null,null,0,0.00,null,null,Frozen Legends Set,GLIDER,RELEASED
+1213,Golden Clouds,Show your style.,RARE,golden-clouds,null,null,0,0,null,null,600,0.00,null,null,null,WRAP,RELEASED
+1214,Scrappy,Barking out of the Boneyard,RARE,scrappy,null,null,0,0,Sparkplug,null,0,0.00,null,null,Boneyard Set,BACKBLING,RELEASED
+1215,Sparkplug,Scrap the competition,RARE,sparkplug,null,sparkplug,0,0,null,null,1200,0.00,null,null,Boneyard Set,OUTFIT,RELEASED
+1216,Squid Striker,Speak softly and carry a giant squid.,RARE,squid-striker,null,null,0,0,null,null,800,0.00,null,null,Deep Sea Set,HARVESTINGTOOL,RELEASED
+1217,The Prisoner,Unchaind and out to restore balance,LEGENDARY,the-prisoner,null,null,0,0,null,null,0,0.00,Snowfall Challenges,The Prisoner Style,null,OUTFIT,RELEASED
+1218,Padlock,Locked down.,LEGENDARY,padlock,null,null,0,0,The Prisoner,null,0,0.00,Snowfall Challenges,null,null,BACKBLING,RELEASED
+1219,Altitude,Climb to the top.,LEGENDARY,altitude,null,null,0,0,Zenith,null,0,0.00,Zenith Challenges,null,Zenith Set,BACKBLING,RELEASED
+1220,Hip Shakers,Verifiably hips,EPIC,hip-shakers,null,null,0,0,Dreamflower,null,0,0.00,null,null,Flower Power Set,BACKBLING,RELEASED
+1221,Summer Strummer,Jam on.,EPIC,summer-strummer,null,null,0,0,Far Out Man,null,0,0.00,null,null,Flower Power Set,BACKBLING,RELEASED
+1222,Top Notch,Best in class,EPIC,top-notch,null,null,0,0,Summit Striker,Fortnite Starter Pack 4,0,0.00,null,null,null,BACKBLING,RELEASED
+1223,White Fang,Fearsome and fanged,EPIC,white-fang,null,null,0,0,Nara,null,0,0.00,null,null,Storm Familiars Set,BACKBLING,RELEASED
+1224,Wingback,Retracted & ready.,EPIC,wingback,null,null,0,0,Mothmando,null,0,0.00,null,null,Moth Command Set,BACKBLING,RELEASED
+1225,Dark Bag,Don't forget to pack an umbrella.,RARE,dark-bag,null,null,0,0,Dark Bomber,null,0,0.00,null,null,Lightning & Thunderstorms Set,BACKBLING,RELEASED
+1226,Shrimpy,Pack a tasty snack on your back.,RARE,shrimpy,null,null,0,0,Maki Master,null,0,0.00,null,null,Sushi Set,BACKBLING,RELEASED
+1227,Cash Flow,Freefall in style,RARE,cash-flow,null,null,0,0,null,null,0,0.00,High Stakes Challenges,null,Getaway Gang Set,CONTRAIL,RELEASED
+1228,Glowsticks,Make it glow.,EPIC,glowsticks,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1229,Phone It In,Lay down a saxy groove.,EPIC,phone-it-in,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1230,Shake It Up,Feel the rhythm,EPIC,shake-it-up,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1231,Bobbin',Really get into it,RARE,bobbin,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1232,Busy,I'll be with you in just a moment,RARE,busy,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1233,Cat Flip,Show your cat-like reflexes,RARE,cat-flip,null,null,0,0,null,null,0,0.00,Lynx Challenges,null,Lynx Set,DANCE,RELEASED
+1234,Crazy Feet,Wild and crazy feet!,RARE,crazy-feet,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1235,Criss Cross,Get your point accross.,RARE,criss-cross,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1236,Electro Swing,"Brand new groove, old school swing.",RARE,electro-swing,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1237,Fancy Feet,Show off that footwork.,RARE,fancy-feet,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1238,Hand Signals,All signals go?,RARE,hand-signals,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1239,Headbanger,Bang your head against the air.,RARE,headbanger,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1240,Jugglin',Pure concentration,RARE,jugglin,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1241,Spike It,Celebrate a big play.,RARE,spike-it,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1242,Sprinkler,Sprinkled with style,RARE,sprinkler,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1243,Treat Yourself,Go ahead and take two... or the entire bucket,RARE,treat-yourself,null,null,0,0,null,null,500,0.00,null,null,null,DANCE,RELEASED
+1244,Air Horn,Subtle.,UNCOMMON,air-horn,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1245,Behold!,Look at this.,UNCOMMON,behold,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1246,Denied,Not this time.,UNCOMMON,denied,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1247,Fist Pump,Emphatically flailing fists,UNCOMMON,fist-pump,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1248,Howl,Stand in front of a moon for maximum effect,UNCOMMON,howl,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1249,Job Well Done,That's that.,UNCOMMON,job-well-done,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1250,Scorecard,Consider yourself judged.,UNCOMMON,scorecard,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1251,T-Pose,"Chin up, arms straight!",UNCOMMON,t-pose,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1252,Take 14,...and action!,UNCOMMON,take-14,null,null,0,0,null,null,200,0.00,null,null,null,DANCE,RELEASED
+1253,Dark Glyph,Indecipherable.,UNCOMMON,dark-glyph,null,null,0,0,null,null,500,0.00,null,null,Lightning & Thunderstorms Set,GLIDER,RELEASED
+1254,Flutterbug,Wings a flutter,RARE,flutterbug,null,null,0,0,null,null,800,0.00,null,null,Moth Command Set,GLIDER,RELEASED
+1255,Safecracker,Breaking in was the easy part.,RARE,safecracker,null,null,0,0,null,null,800,0.00,null,null,Getaway Gang Set,GLIDER,RELEASED
+1256,Tie-dye Flyer,So many colors.,RARE,tie-dye-flyer,null,null,0,0,null,null,800,0.00,null,null,Flower Power Set,GLIDER,RELEASED
+1257,A.X.E.,Perfectly programmed pick.,RARE,a-x-e,null,null,0,0,null,null,800,0.00,null,null,A.I.M. Set,HARVESTINGTOOL,RELEASED
+1258,Drumbeat,Feel the beat.,UNCOMMON,drumbeat,null,null,0,0,null,null,500,0.00,null,null,Flower Power Set,HARVESTINGTOOL,RELEASED
+1259,Lamp,The glow is alluring.,UNCOMMON,lamp,null,null,0,0,null,null,500,0.00,null,null,Moth Command Set,HARVESTINGTOOL,RELEASED
+1260,Stellar Axe,The stars are aligned,EPIC,stellar-axe,null,null,0,0,null,Samsung Galaxy Bundle,0,0.00,null,null,null,HARVESTINGTOOL,RELEASED
+1261,Thunder Crash,Wield the thunder.,EPIC,thunder-crash,null,null,0,0,null,null,1200,0.00,null,null,Lightning & Thunderstorms Set,HARVESTINGTOOL,RELEASED
+1262,Brainiac,Victory takes braaains.,UNCOMMON,brainiac,null,null,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
+1263,Bullseye,I never miss.,UNCOMMON,bullseye,null,bullseye,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
+1264,Bunnymoon,Who are you suppose to be again?,UNCOMMON,bunnymoon,null,bunnymoon,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
+1265,Cabbie,First to the fare. First to the finish-line.,UNCOMMON,cabbie,null,cabbie,0,0,null,null,800,0.00,null,null,null,OUTFIT,RELEASED
+1266,Dark Bomber,The future looks dark.,RARE,dark-bomber,null,dark-bomber,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
+1267,Maki Master,Roll up your sleeves and get to work.,RARE,maki-master,null,maki-master,0,0,null,null,1200,0.00,null,null,Sushi Set,OUTFIT,RELEASED
+1268,Mothmando,"Out of the shadows, and into the light",EPIC,mothmando,null,mothmando,0,0,null,null,1500,0.00,null,null,Moth Command Set,OUTFIT,RELEASED
+1269,Nara,Messenger of the spirits,EPIC,nara,null,nara,0,0,null,null,1500,0.00,null,null,Storm Familiars Set,OUTFIT,RELEASED
+1270,Summit Striker,Always first to the top,EPIC,summit-striker,null,null,0,0,null,Fortnite Starter Pack 4,0,0.00,null,null,null,OUTFIT,RELEASED
+1271,Yee-Haw!,Giddy-up!,EPIC,yee-haw,null,null,0,0,null,null,1500,0.00,null,null,null,OUTFIT,RELEASED
+1272,Snowbrand,Piercingly cold.,EPIC,snowbrand,null,null,0,0,Snowstrike,null,0,0.00,null,null,Snow Clan Set,BACKBLING,RELEASED
+1273,Snowstrike,"Strike swiftly, and always leave your mark.",EPIC,snowstrike,null,snowstrike,0,0,null,null,1500,0.00,null,null,Snow Clan Set,OUTFIT,RELEASED
+1274,Fallen Love Ranger,,LEGENDARY,fallen-love-ranger,null,fallen-love-ranger,0,0,null,null,0,19.99,null,null,Royale Hearts Set,OUTFIT,RELEASED
+1275,Fallen Wings,,LEGENDARY,fallen-wings,null,null,0,0,Fallen Love Ranger,null,0,0.00,null,null,Royale Hearts Set,BACKBLING,RELEASED
+1276,Cuddle Hearts,Show your style.,RARE,cuddle-hearts,null,null,0,0,null,Support-A-Creator,0,0.00,null,null,Royale Hearts Set,WRAP,RELEASED
+1277,Board Bag,Ready for the grind.,EPIC,board-bag,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+1278,Cannister Carrier,"Spray it, don't say it.",EPIC,cannister-carrier,null,null,0,0,null,null,0,0.00,null,null,null,BACKBLING,UNRELEASED
+1279,Lil Whip,"Whipped up, and ready to serve.",EPIC,lil-whip,null,lil-whip,0,0,null,null,1500,0.00,null,null,Two Scoops Set,OUTFIT,RELEASED
+1280,Rebel,Oppose the establishment,EPIC,rebel,null,rebel,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+1281,Revolt,Conquer the system,EPIC,revolt,null,revolt,0,0,null,null,0,0.00,null,null,null,OUTFIT,UNRELEASED
+1282,Sno Cone,A neverending treat.,EPIC,sno-cone,null,sno-cone,0,0,Lil Whip,null,0,0.00,null,null,Two Scoops Set,BACKBLING,RELEASED
+1283,Ice Cream Crusier,Melty at every altitude,RARE,ice-cream-cruiser,null,null,0,0,null,null,800,0.00,null,null,Two Scoops Set,GLIDER,RELEASED
+1284,Ice Pop,It can take a lickin'.,RARE,ice-pop,null,null,0,0,null,null,800,0.00,null,null,Two Scoops Set,HARVESTINGTOOL,RELEASED
+1285,Jamboree,Celebrate anything and everything.,RARE,jamboree,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+1286,Overdrive,Push it past the limit.,RARE,overdrive,null,null,0,0,null,null,0,0.00,null,null,null,DANCE,UNRELEASED
+1287,Crossroads,This can go one of two ways.,UNCOMMON,crossroads,null,null,0,0,null,null,0,0.00,null,null,null,HARVESTINGTOOL,UNRELEASED
+1288,Sprinkles,Show your style.,UNCOMMON,sprinkles,null,null,0,0,null,null,300,0.00,null,null,Two Scoops Set,WRAP,RELEASED
+1289,Chromatic,Show your style.,UNCOMMON,chromatic,null,null,0,0,null,null,300,0.00,null,null,null,WRAP,RELEASED
+1290,Heartspan,Soar on the wide wings of love.,RARE,heartspan,null,null,0,0,null,null,0,0.00,null,null,Royale Hearts Set,GLIDER,RELEASED
+1291,Sweetheart,Wear your heart on your back.,RARE,sweetheart,null,null,0,0,Heartbreaker,null,0,0.00,null,null,Royale Hearts Set,BACKBLING,RELEASED
+1292,Heartbreaker,"Roses are red, violets are blue, victory is weet, but not without you.",RARE,heartbreaker,null,heartbreaker,0,0,null,null,1200,0.00,null,null,Royale Hearts Set,OUTFIT,RELEASED
+1293,Skully,Accept nothing less than stylish domination.,RARE,skully,null,skully,0,0,null,null,1200,0.00,null,Skully Style,Royale Hearts Set,OUTFIT,RELEASED
+1294,Skully Satchel,Equal parts adorable and disturbing,RARE,skully-satchel,null,null,0,0,Skully,null,0,0.00,null,null,Royale Hearts Set,BACKBLING,RELEASED
+1295,Skully Splitter,Color coordinated and battle ready.,RARE,skully-splitter,null,null,0,0,null,null,0,0.00,null,null,Royale Hearts Set,HARVESTINGTOOL,RELEASED
+1296,Chocollama,Double dipped in chocolate.,UNCOMMON,chocollama,null,null,0,0,null,null,500,0.00,null,null,Royale Hearts Set,HARVESTINGTOOL,RELEASED
+1297,Valentine,Show your style.,UNCOMMON,valentine,null,null,0,0,null,null,0,0.00,Season 7 Overtime Challenges,null,null,WRAP,RELEASED
+1298,Outburst,Burning bright.,RARE,outburst,null,null,0,0,null,null,800,0.00,null,null,null,HARVESTINGTOOL,RELEASED
+1299,Firewalker,Fueled by flames.,RARE,firewalker,null,firewalker,0,0,null,null,1200,0.00,null,null,null,OUTFIT,RELEASED
+1300,Cuddle Paw,Cuddle up with claws.,RARE,cuddle-paw,null,null,0,0,null,null,800,0.00,null,null,Royale Hearts Set,HARVESTINGTOOL,RELEASED
+1301,Daydream,Dance the day away.,EPIC,daydream,null,null,0,0,null,null,800,0.00,null,null,null,DANCE,RELEASED
+1302,Snowblades,Cut through the cold.,RARE,snowblades,null,null,0,0,null,null,800,0.00,null,null,Snow Clan Set,GLIDER,RELEASED
+1303,Nautilus,Dive! Dive! Dive!,EPIC,nautilus,null,null,0,0,null,null,1200,0.00,null,null,Deep Sea Set,GLIDER,RELEASED
+1304,Deep Sea Destroyer,Straight out of the trenches.,EPIC,deep-sea-destroyer,null,deep-sea-destroyer,0,0,null,null,1500,0.00,null,null,Deep Sea Set,OUTFIT,RELEASED
+1305,Deep Sea Dominator,In a completely different language.,EPIC,deep-sea-dominator,null,deep-sea-dominator,0,0,null,null,1500,0.00,null,null,Deep Sea Set,OUTFIT,RELEASED
+1306,Krakenaxe,The scourge of the seven seas!,UNCOMMON,krakenaxe,null,krakenaxe,0,0,null,null,500,0.00,null,null,Deep Sea Set,HARVESTINGTOOL,RELEASED
+1307,Brite Blimp,Rainbow powered.,EPIC,brite-blimp,null,null,0,0,null,null,1200,0.00,null,null,Sunshine and Rainbows Set,GLIDER,RELEASED
+1308,Octotank,Eight chambers of oxygen.,EPIC,octotank,null,null,0,0,Deep Sea Dominator,null,0,0.00,null,null,Deep Sea Set,BACKBLING,RELEASED
+1309,Rebreather,Shelling out air on demand.,EPIC,rebreather,null,null,0,0,Deep Sea Destroyer,null,0,0.00,null,null,Deep Sea Set,BACKBLING,RELEASED

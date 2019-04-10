@@ -1,14 +1,12 @@
 package com.africanjesus.fortnitepal.repositories;
 
-import com.africanjesus.fortnitepal.model.ChallengeSet;
-import org.springframework.data.domain.Pageable;
-import org.springframework.data.jpa.repository.JpaRepository;
+import com.africanjesus.fortnitepal.model.documents.ChallengeSet;
+import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.CrossOrigin;
 
 @Repository
-public interface ChallengeSetRepository extends JpaRepository<ChallengeSet, Long> {
+public interface ChallengeSetRepository extends MongoRepository<ChallengeSet, Integer> {
 
     ChallengeSet findByChallengeSetName(@Param("name")String name);
 }

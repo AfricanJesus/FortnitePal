@@ -1,7 +1,7 @@
 package com.africanjesus.fortnitepal.model.projections;
 
 import com.africanjesus.fortnitepal.RarityType;
-import com.africanjesus.fortnitepal.model.Item;
+import com.africanjesus.fortnitepal.model.documents.Item;
 import org.springframework.data.rest.core.config.Projection;
 
 import java.util.List;

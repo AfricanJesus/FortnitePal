@@ -1,7 +1,7 @@
-package com.africanjesus.fortnitepal.services;
+package com.africanjesus.fortnitepal.services.interfaces;
 
 
-import com.africanjesus.fortnitepal.model.ChallengeSet;
+import com.africanjesus.fortnitepal.model.documents.ChallengeSet;
 
 import java.util.List;
 

@@ -1,22 +1,20 @@
-package com.africanjesus.fortnitepal.model;
+package com.africanjesus.fortnitepal.model.documents;
 
-import javax.persistence.*;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@Entity
-@Table(name = "challenge_sets")
+@Document(collection = "Challenge Sets")
 public class ChallengeSet {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private String _id;
 
     private String challengeSetName;
 
-    @ElementCollection
-    @CollectionTable(name = "challenges", joinColumns = @JoinColumn(name = "challenge_sets_id"))
     private List<Challenge> challenges = new ArrayList<>();
 
     private String challengeSetObjective;
@@ -36,12 +34,12 @@ public class ChallengeSet {
         this.challengeSetRewardImage = challengeSetRewardImage;
     }
 
-    public long getId() {
-        return id;
+    public String get_id() {
+        return _id;
     }
 
-    public void setId(long id) {
-        this.id = id;
+    public void set_id(String _id) {
+        this._id = _id;
     }
 
     public String getChallengeSetName() {
@@ -104,7 +102,6 @@ public class ChallengeSet {
     @Override
     public String toString() {
         return "ChallengeSet{" +
-                "id=" + id +
                 ", challengeSetName='" + challengeSetName + '\'' +
                 ", challenges=" + challenges +
                 ", challengeSetObjective='" + challengeSetObjective + '\'' +

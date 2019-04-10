@@ -1,5 +1,6 @@
 package com.africanjesus.fortnitepal.services;
 
+import com.africanjesus.fortnitepal.services.interfaces.S3Service;
 import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.services.s3.AmazonS3;
